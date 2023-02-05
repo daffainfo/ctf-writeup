@@ -5,9 +5,9 @@ Thanks to the TCP1P team especially @dimasma0305 and @dRe
 
 | Category | Challenge
 | --- | --- |
-| Web | [Improper Error Handling](/KnightCTF%202023/GET%20Me/)
-| Web | [Hi-Score](/KnightCTF%202023/Hello/)
-| Pwn | [Easy pwn](/KnightCTF%202023/Factorie/)
-| Forensics | [Vastness of Space](/KnightCTF%202023/Encode%20Mania/)
-| Misc | [Meaning of Life](/KnightCTF%202023/I%20Love%20Pi/)
-| Misc | [Virus Attack](/KnightCTF%202023/Xorathrust/)
+| Web | [Improper Error Handling](/ByteBanditsCTF%202023/Improper%20Error%20Handling/)
+| Web | [Hi-Score](/ByteBanditsCTF%202023/Hi-Score/)
+| Pwn | [Easy pwn](/ByteBanditsCTF%202023/Easy%20pwn/)
+| Forensics | [Vastness of Space](/ByteBanditsCTF%202023/Vastness%20of%20Space/)
+| Misc | [Meaning of Life](/ByteBanditsCTF%202023/Meaning%20of%20Life/)
+| Misc | [Virus Attack](/ByteBanditsCTF%202023/Virus%20Attack/)
