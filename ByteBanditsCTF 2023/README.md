@@ -1,5 +1,5 @@
 # ByteBanditsCTF 2023
-CTF writeup for The ByteBandits CTF 2023. I took part in this CTF competition with the TCP1P team, and got 13th place out of 225 teams
+CTF writeup for The ByteBandits CTF 2023. I took part in this CTF competition with the TCP1P team, and got 14th place out of 248 teams
 
 Thanks to the TCP1P team especially @dimasma0305 and @dRe
 
