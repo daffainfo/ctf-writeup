@@ -1,5 +1,5 @@
 # gaining insight
-`-`
+`kristen@kristenchavis.com` Gain some insight on the target by looking at their resume and maybe you get some flags.
 
 ## About the Challenge
 We are given an email (kristen@kristenchavis.com) and we need to find a resume
