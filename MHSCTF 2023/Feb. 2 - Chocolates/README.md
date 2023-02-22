@@ -30,7 +30,7 @@ set-cookie: session=eyJhZG1pbiI6ImZhbHNlIiwidmlzaXRfdGltZSI6IjIwMjMtMDItMTQgMjM6
 
 At first i thought this is JWT token, but one of the team members said this is flask cookie. So we can bruteforce the cookie to get the secret key and then change into an admin
 
-To bruteforce the flask cookie, we can use https://pypi.org/project/flask-unsign/. And after doing some bruteforce. We can get the flag
+To bruteforce the flask cookie, we can use https://pypi.org/project/flask-unsign/. And after doing some bruteforce we can change the `isAdmin` value from `false` to `true`. And then we can get the flag
 
 ```
 valentine{1ts_jus7_100%_cacao}
