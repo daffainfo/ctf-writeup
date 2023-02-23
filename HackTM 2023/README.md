@@ -5,5 +5,5 @@ Thanks to the team especially @dimasma0305
 
 | Category | Challenge
 | --- | --- |
-| Web | [Blog](/ByteBanditsCTF%202023/Improper%20Error%20Handling/)
-| Misc | [Welcome To HackTM CTF 2023 Quals](/ByteBanditsCTF%202023/Hi-Score/)
+| Web | [Blog](/HackTM%202023/Blog/)
+| Misc | [Welcome To HackTM CTF 2023 Quals](/HackTM%202023/Welcome%20To%20HackTM%20CTF%202023%20Quals/)
