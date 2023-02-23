@@ -1,4 +1,4 @@
-# discord
+# Feb. 3 - Flowers
 > Another Valentine classic... flowers! Flowers can be expensive, so I bought a bunch of them cheap online. Turns out they're infested with some kind of bug and I need to buy a specialized pesticide to take care of them. The pesticide is really expensive, but the online seller is willing to give me a discount code if I can analyze a program he gives me. As I said, I'm nine years old sooooooooooo... do it for me? Enter your answers at the given link.
 
 ## About the Challenge

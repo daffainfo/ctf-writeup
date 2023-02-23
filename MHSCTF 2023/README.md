@@ -1,5 +1,5 @@
 # MHSCTF 2023
-CTF writeup for MHSCTF 2023. I took part in this CTF competition with the TCP1P team, and got 24th place out of 225 teams
+CTF writeup for MHSCTF 2023. I took part in this CTF competition with the TCP1P team, and got 15th place out of 895 teams
 
 Thanks to the TCP1P team especially @dimasma0305, @godmadoka, and @dRe
 

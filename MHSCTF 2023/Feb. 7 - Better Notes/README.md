@@ -1,4 +1,4 @@
-# discord
+# Feb. 7 - Better Notes
 > Okay, so maybe my super-secure method was a bust. But I'm persistent (actually, I'm Sam)! I've written another program, and this time, there aren't any pesky keys to keep (KEYp 🙃) track of! I wrote you another Valentine that my program encrypts as `WU]Wipuk\cYAvtEXHsRlP_YlPs[UMtVmkcOjupFCVGU`.
 
 > The `valentine{...}` wrapper is included in the encrypted text.
@@ -25,7 +25,7 @@ One of the team members already got some parts of the flag.
 ```
 WU]Wipuk\cYAvtIT`sXlP_YlPswUMtVmkcOjupFCVGU valentine{c0ltHmqbAAnky_f4ce}
 ```
-And then i bruteforce the flag using this code
+And then i bruteforce the flag using this code (And doing a little bit guessing haha)
 
 ```python
 from base64 import b64encode
