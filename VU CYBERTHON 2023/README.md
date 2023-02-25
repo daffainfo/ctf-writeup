@@ -1,11 +1,12 @@
 # VU CYBERTHON 2023
-CTF writeup for VU CYBERTHON 2023. I took part in this CTF competition with the TCP1P team, and got 15th place out of 895 teams
+CTF writeup for VU CYBERTHON 2023. I took part in this CTF competition with the TCP1P team, and got 7xth place out of 3xx teams
 
-Thanks to the TCP1P team especially @dimasma0305, @godmadoka, and @dRe
+Thanks to the TCP1P team especially @dRe
 
 | Category | Challenge
 | --- | --- |
 | Cryptography, Web Exploitation | [Simple Web](/VU%20CYBERTHON%202023/Simple%20Web/)
+| Cryptography, Web Exploitation | [Docker Web](/VU%20CYBERTHON%202023/Docker%20Web/)
 | Network Security | [Blue Baby Shark](/VU%20CYBERTHON%202023/Blue%20Baby%20Shark/)
 | OSINT | [RFC standard for security policy information](/VU%20CYBERTHON%202023/RFC%20standard%20for%20security%20policy%20information/)
 | OSINT | [Find location](/VU%20CYBERTHON%202023/Find%20location/)
@@ -13,6 +14,10 @@ Thanks to the TCP1P team especially @dimasma0305, @godmadoka, and @dRe
 | Digital Forensics | [What is the name of the largest partition?](/VU%20CYBERTHON%202023/What%20is%20the%20name%20of%20the%20largest%20partition/)
 | Digital Forensics | [What email address is setup on com.android.email service?](/VU%20CYBERTHON%202023/What%20email%20address%20is%20setup%20on%20com.android.email%20service/)
 | Digital Forensics | [What is the brand (vendor) of phone?](/VU%20CYBERTHON%202023/What%20is%20the%20brand%20(vendor)%20of%20phone/)
+| Digital Forensics | [Find ICCID Number](/VU%20CYBERTHON%202023/Find%20ICCID%20Number/)
+| Digital Forensics | [Find MSISDN Number](/VU%20CYBERTHON%202023/Find%20MSISDN%20Number/)
+| Digital Forensics | [What is the name of the username telegram?](/VU%20CYBERTHON%202023/What%20is%20the%20name%20of%20the%20username%20telegram/)
+| Digital Forensics | [What is the model of the phone?](/VU%20CYBERTHON%202023/What%20is%20the%20model%20of%20the%20phone/)
 | Digital Forensics | [What is the name of WhatsApp user which has phone number +37062166565?](/VU%20CYBERTHON%202023/What%20is%20the%20name%20of%20WhatsApp%20user%20which%20has%20phone%20number%20%2B37062166565/)
 | Digital Forensics | [How much dollars the seized weapons (stuff) may have cost?](/VU%20CYBERTHON%202023/How%20much%20dollars%20the%20seized%20weapons%20(stuff)%20may%20have%20cost/)
 | Digital Forensics | [What tank specs the user was looking for?](/VU%20CYBERTHON%202023/What%20tank%20specs%20the%20user%20was%20looking%20for/)
