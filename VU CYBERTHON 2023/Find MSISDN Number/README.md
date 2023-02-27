@@ -5,7 +5,7 @@
 We need to find the MSISDN Number
 
 ## How to Solve?
-We can get the MSISDN Number in the `root/media/0/Download` directory and find `20221017_145325.jpg` file
+We can get the MSISDN Number in the `root/media/0/Download` directory and find an image named `20221017_145325.jpg`
 
 ![msisdn](images/msisdn.png)
 

@@ -5,11 +5,11 @@
 We need to find the name of WhatsApp user
 
 ## How to Solve?
-We need to find the email by get the SQLite Database first from `/root/data/com.whatsapp/databases/wa.db`
+We can find the email by exporting the SQLite Database first from `/root/data/com.whatsapp/databases/wa.db`
 
 ![exports](images/exports.png)
 
-Open the SQLite database using `DB Browser for SQlite` and import the database. In the `wa_contacts` table, we can see the email
+Open the SQLite database using `DB Browser for SQlite` software and import the database. In the `wa_contacts` table, we can see the name of WhatsApp user
 
 ![contacts](images/contacts.png)
 
