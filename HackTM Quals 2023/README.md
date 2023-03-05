@@ -5,5 +5,5 @@ Thanks to the team especially @dimasma0305
 
 | Category | Challenge
 | --- | --- |
-| Web | [Blog](/HackTM%202023/Blog/)
-| Misc | [Welcome To HackTM CTF 2023 Quals](/HackTM%202023/Welcome%20To%20HackTM%20CTF%202023%20Quals/)
+| Web | [Blog](/HackTM%20Quals%202023/Blog/)
+| Misc | [Welcome To HackTM CTF 2023 Quals](/HackTM%20Quals%202023/Welcome%20To%20HackTM%20CTF%202023%20Quals/)
