@@ -3,12 +3,6 @@ This repository shall comprise writeups concerning Capture The Flag (CTF) compet
 
 ## List CTF
 List of CTF events that i have joined before
-- [0xL4ugh CTF 2023](/0xL4ugh%20CTF%202023/)
-- [HackTM 2023](/HackTM%202023/)
-- [IncognitoCTF 2023](/IncognitoCTF%202023/)
-- [IrisCTF 2023](IrisCTF%202023/)
-- 
-- [LA CTF 2023](/LA%20CTF%202023/)
 
 | Event Name  | Date        | Writeup Link |
 | ----------- | ----------- | ------------ |
