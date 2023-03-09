@@ -2,7 +2,7 @@
 > Heard 'bout that new 🏌️-webserver? Apparently HTTPS just works(!), but seems like someone managed to screw up the setup, woops. The flag.txt is deleted until I figure out that HTTPS and PHP stuff #hacker-proof
 
 ## About the Challenge
-We are given a website and the source code (You can get the source code [here])
+We are given a website and the source code (You can get the source code [here](source-dummy-flag.zip))
 
 ## How to Solve?
 You will notice there are 3 subdomains when you open the zip file

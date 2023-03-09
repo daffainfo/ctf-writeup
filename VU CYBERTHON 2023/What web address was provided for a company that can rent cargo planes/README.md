@@ -5,7 +5,7 @@
 We need to find the web address
 
 ## How to Solve?
-I got the web address in WhatsApp message (You can get the file in `/root/data/com.whatsapp/databases/msgstore.db`). Find in `message` table
+I got the web address in WhatsApp message (You can get the file in `/userdata/root/data/com.whatsapp/databases/msgstore.db`). Find in `message` table
 
 ![sqlite](images/sqlite.png)
 

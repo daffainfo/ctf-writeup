@@ -5,7 +5,7 @@
 We need to find the name of WhatsApp user
 
 ## How to Solve?
-We can find the email by exporting the SQLite Database first from `/root/data/com.whatsapp/databases/wa.db`
+We can find the email by exporting the SQLite Database first from `/userdata/root/data/com.whatsapp/databases/wa.db`
 
 ![exports](images/exports.png)
 

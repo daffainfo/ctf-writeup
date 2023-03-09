@@ -5,7 +5,7 @@
 We need to know the meeting point coordinates
 
 ## How to Solve?
-There is a picture that leaked the meeting point latitude and longitude (You can find the file on `/root/media/0/Screenshots` folder)
+There is a picture that leaked the meeting point latitude and longitude (You can find the file on `/userdata/root/media/0/Screenshots` folder)
 
 ![location](images/location.png)
 

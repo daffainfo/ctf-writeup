@@ -5,7 +5,7 @@
 We need to find the email address that set up on com.android.email
 
 ## How to Solve?
-We can find the email address by exporting the SQLite Database first from `/root/data/com.android.email/databases/Emailprovider.db`
+We can find the email address by exporting the SQLite Database first from `/userdata/root/data/com.android.email/databases/Emailprovider.db`
 
 ![exports](images/exports.png)
 

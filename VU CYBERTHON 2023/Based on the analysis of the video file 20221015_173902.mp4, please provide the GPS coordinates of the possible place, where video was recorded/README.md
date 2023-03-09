@@ -5,7 +5,7 @@
 We need to find the location of the video
 
 ## How to Solve?
-First i export the file from FTK Imager (You can find the file on `/root/media/0/Download` folder)
+First i export the file from FTK Imager (You can find the file on `/userdata/root/media/0/Download` folder)
 
 ![preview](images/extract.png)
 
