@@ -21,3 +21,4 @@ List of CTF events that i have joined before
 | CTF After Dark - Winter 2023 | 02 March, 09:00 WIB — 09 March 2023, 11:00 WIB | [Link](/CTF%20After%20Dark%20-%20Winter%202023/) |
 | KalmarCTF 2023 | 04 March, 00:00 WIB — 06 March 2023, 00:00 WIB | [Link](/KalmarCTF%202023/) |
 | Nullcon HackIM CTF 2023 | 09 March, 18:00 WIB — 10 March 2023, 18:00 WIB | [Link](/Nullcon%20HackIM%20CTF%202023/) |
+| Rush CTF 2023 | 11 March, 17:00 WIB — 12 March 2023, 05:00 WIB | [Link](/Rush%20CTF%202023/) |
