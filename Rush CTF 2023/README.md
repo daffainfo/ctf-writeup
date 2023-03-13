@@ -1,5 +1,5 @@
 # Rush CTF 2023
-CTF writeup for Nullcon Rush CTF 2023. I took part in this CTF competition with the TCP1P team, and got 11th place out of 100 teams
+CTF writeup for Rush CTF 2023. I took part in this CTF competition with the TCP1P team, and got 11th place out of 100 teams
 
 Thanks to the TCP1P team especially @dimasma0305 and @dRe
 

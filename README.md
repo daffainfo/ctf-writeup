@@ -22,3 +22,7 @@ List of CTF events that i have joined before
 | KalmarCTF 2023 | 04 March, 00:00 WIB — 06 March 2023, 00:00 WIB | [Link](/KalmarCTF%202023/) |
 | Nullcon HackIM CTF 2023 | 09 March, 18:00 WIB — 10 March 2023, 18:00 WIB | [Link](/Nullcon%20HackIM%20CTF%202023/) |
 | Rush CTF 2023 | 11 March, 17:00 WIB — 12 March 2023, 05:00 WIB | [Link](/Rush%20CTF%202023/) |
+| FooBar CTF 2023 | 11 March, 13:30 WIB — 12 March 2023, 13:30 WIB | [Link](/Foobar%20CTF%202023/) |
+| SpringForwardCTF 2023 | 11 March, 08:00 WIB — 12 March 2023, 20:00 WIB | [Link](/SpringForwardCTF%202023/) |
+| DaVinci CTF 2023 | 11 March, 15:00 WIB — 13 March 2023, 03:00 WIB | [Link](/DaVinci%20CTF%202023/) |
+| UTCTF 2023 | 11 March, 15:00 WIB — 13 March 2023, 03:00 WIB | [Link](/UTCTF%202023/) |
