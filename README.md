@@ -16,7 +16,7 @@ List of CTF events that i have joined before
 | HackTM Quals 2023 | 18 Feb., 19:00 WIB — 19 Feb. 2023, 19:00 WIB | [Link](/HackTM%20Quals%202023/) |
 | CTF ARA 2023 | 25 Feb., 9:00 WIB — 26 Feb. 2023, 17:00 WIB | [Link](/CTF%20ARA%202023/) |
 | VU CYBERTHON 2023 | 25 Feb., 14:00 WIB — 26 Feb. 2023, 02:00 WIB | [Link](/VU%20CYBERTHON%202023/) |
-| WxMCTF 2023 | 01 March, 12:00 WIB — 14 March 2023, 12:00 WIB	 | Soon |
+| WxMCTF 2023 | 01 March, 12:00 WIB — 14 March 2023, 12:00 WIB | [Link](/WxMCTF%202023/) |
 | Cyber Security Challenge Germany 2023 | 02 March, 00:00 WIB — 02 May 2023, 00:00 WIB | Soon |
 | CTF After Dark - Winter 2023 | 02 March, 09:00 WIB — 09 March 2023, 11:00 WIB | [Link](/CTF%20After%20Dark%20-%20Winter%202023/) |
 | KalmarCTF 2023 | 04 March, 00:00 WIB — 06 March 2023, 00:00 WIB | [Link](/KalmarCTF%202023/) |
