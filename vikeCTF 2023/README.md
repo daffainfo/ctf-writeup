@@ -1,5 +1,5 @@
 # vikeCTF 2023
-CTF writeup for vikeCTF 2023. I took part in this CTF competition with the my friend, @dRe and got 25th place out of 188 teams
+CTF writeup for vikeCTF 2023. I took part in this CTF competition with the my friend, @dRe and got 22th place out of 197 teams
 
 | Category | Challenge |
 | --- | --- |
