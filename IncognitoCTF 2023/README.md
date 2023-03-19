@@ -3,7 +3,7 @@ CTF writeup for The Incognito CTF 2023. I took part in this CTF competition with
 
 Thanks to the team especially @0xazr and @kos0ng
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [get flag 1](/IncognitoCTF%202023/get%20flag%201/)
 | Misc | [more sanity](/IncognitoCTF%202023/more%20sanity/)

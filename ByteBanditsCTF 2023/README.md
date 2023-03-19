@@ -3,7 +3,7 @@ CTF writeup for The ByteBandits CTF 2023. I took part in this CTF competition wi
 
 Thanks to the team especially @dimasma0305 and @dRe
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [Improper Error Handling](/ByteBanditsCTF%202023/Improper%20Error%20Handling/)
 | Web | [Hi-Score](/ByteBanditsCTF%202023/Hi-Score/)

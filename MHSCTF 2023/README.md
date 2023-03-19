@@ -3,7 +3,7 @@ CTF writeup for MHSCTF 2023. I took part in this CTF competition with the TCP1P 
 
 Thanks to the TCP1P team especially @dimasma0305, @godmadoka, and @dRe
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Pwn | [Feb. 1 - Balloons](/MHSCTF%202023/Feb.%201%20-%20Balloons/)
 | Web | [Feb. 2 - Chocolates](/MHSCTF%202023/Feb.%201%20-%20Balloons/)

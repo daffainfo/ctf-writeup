@@ -3,7 +3,7 @@ CTF writeup for KnightCTF 2023. I took part in this CTF competition with the TCP
 
 Thanks to the TCP1P team especially @dimasma0305
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web/API | [GET Me](/KnightCTF%202023/GET%20Me/)
 | Networking | [Hello](/KnightCTF%202023/Hello/)

@@ -3,7 +3,7 @@ CTF writeup for Rush CTF 2023. I took part in this CTF competition with the TCP1
 
 Thanks to the TCP1P team especially @dimasma0305 and @dRe
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [Blog](/Rush%20CTF%202023/Blog/)
 | Osint | [Miss Bardot](/Rush%20CTF%202023/Miss%20Bardot/)

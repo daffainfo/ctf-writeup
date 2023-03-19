@@ -1,7 +1,7 @@
 # CTF ARA 2023
 CTF writeup for The CTF ARA 2023. I took part in this CTF competition solo, and got ~20th? place out of 93 teams
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [DewaWeb](/CTF%20ARA%202023/DewaWeb/)
 | Web | [Pollution](/CTF%20ARA%202023/Pollution/)

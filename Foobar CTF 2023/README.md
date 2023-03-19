@@ -1,9 +1,7 @@
 # Foobar CTF 2023
-CTF writeup for The Foobar CTF 2023. I took part in this CTF competition with the TuX team, and got 19th place out of 108 teams
+CTF writeup for The Foobar CTF 2023. I took part in this CTF competition with the my friend, @dRe and got 19th place out of 108 teams
 
-Thanks to the team especially @dRe
-
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [inspect](/Foobar%20CTF%202023/inspect/)
 | Misc | [con-string-cat](/Foobar%20CTF%202023/con-string-cat/)

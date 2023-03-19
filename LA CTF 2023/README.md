@@ -3,7 +3,7 @@ CTF writeup for The LA CTF 2023. I took part in this CTF competition with the TC
 
 Thanks to the team especially @dimasma0305 and @dRe
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [college-tour](/LA%20CTF%202023/college-tour/)
 | Web | [my-chemical-romance](/LA%20CTF%202023/my-chemical-romance/)

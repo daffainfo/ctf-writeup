@@ -3,7 +3,7 @@ CTF writeup for VU CYBERTHON 2023. I took part in this CTF competition with the 
 
 Thanks to the TCP1P team especially @dRe
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Cryptography, Web Exploitation | [Simple Web](/VU%20CYBERTHON%202023/Simple%20Web/)
 | Cryptography, Web Exploitation | [Docker Web](/VU%20CYBERTHON%202023/Docker%20Web/)

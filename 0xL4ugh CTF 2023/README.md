@@ -3,7 +3,7 @@ CTF writeup for 0xL4ugh CTF 2023. I took part in this CTF competition with the T
 
 Thanks to the team especially @dimasma0305
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [Bruh](/0xL4ugh%20CTF%202023/Bruh/)
 | Web | [Bruh 2](/0xL4ugh%20CTF%202023/Bruh%202/)

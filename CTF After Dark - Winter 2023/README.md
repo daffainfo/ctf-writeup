@@ -3,7 +3,7 @@ CTF writeup for CTF After Dark - Winter 2023. I took part in this CTF competitio
 
 Thanks to the TCP1P team especially @dimasma0305 and @Rizsyad AR
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Intro | [Cookies](/CTF%20After%20Dark%20-%20Winter%202023/Bagels/)
 | Intro | [Secure Platform](/CTF%20After%20Dark%20-%20Winter%202023/Secure%20Platform/)

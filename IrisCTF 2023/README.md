@@ -3,7 +3,7 @@ CTF writeup for Iris CTF 2023. I took part in this CTF competition with the HCS 
 
 Thanks to the HCS team especially @0xazr and @kos0ng
 
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [babystretchy](/IrisCTF%202023/babystrechy)
 | Web | [Feeling Tagged](/IrisCTF%202023/Feeling%20Tagged/)

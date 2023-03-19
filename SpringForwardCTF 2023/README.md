@@ -1,9 +1,7 @@
 # SpringForwardCTF 2023
-CTF writeup for SpringForwardCTF 2023. I took part in this CTF competition with the TuX team, and got 31th place out of 247 teams
+CTF writeup for SpringForwardCTF 2023. I took part in this CTF competition with the my friend, @dRe and got 31th place out of 247 teams
 
-Thanks to the TuX team especially @dRe
-
-| Category | Challenge
+| Category | Challenge |
 | --- | --- |
 | Web | [Apache Ain't So Bad](/SpringForwardCTF%202023/Apache%20Ain't%20So%20Bad/)
 | Web | [NICC 98](/SpringForwardCTF%202023/NICC%2098/)
