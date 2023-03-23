@@ -30,4 +30,4 @@ List of CTF events that i have joined before
 | WolvCTF 2023 | 18 March, 03:00 WIB — 20 March 2023, 03:00 WIB	| [Link](/WolvCTF%202023/) |
 | b01lers CTF 2023 | 18 March, 05:00 WIB — 20 March 2023, 05:00 WIB | [Link](/b01lers%20CTF%202023/) |
 | OmWars CTF 2023 Quals | 18 March, 13:00 WIB — 19 March 2023, 01:00 WIB | [Link](/OmWars%20CTF%202023%20Quals/)
-| HTB Cyber Apocalypse 2023: The Cursed Mission | 18 March, 20:00 WIB — 23 March 2023, 19:59 WIB | Soon |
+| Cyber Apocalypse 2023: The Cursed Mission | 18 March, 20:00 WIB — 23 March 2023, 19:59 WIB | [Link](/Cyber%20Apocalypse%202023%20The%20Cursed%20Mission/) |
