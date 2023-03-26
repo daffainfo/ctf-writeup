@@ -32,3 +32,4 @@ List of CTF events that i have joined before
 | OmWars CTF 2023 Quals | 18 March, 13:00 WIB — 19 March 2023, 01:00 WIB | [Link](/OmWars%20CTF%202023%20Quals/)
 | Cyber Apocalypse 2023: The Cursed Mission | 18 March, 20:00 WIB — 23 March 2023, 19:59 WIB | [Link](/Cyber%20Apocalypse%202023%20The%20Cursed%20Mission/) |
 | LINE CTF 2023 | 25 March, 07:00 WIB — 26 March 2023, 07:00 WIB | [Link](/LINE%20CTF%202023/)
+| UMass CTF 2023 | 25 March, 06:00 WIB — 27 March 2023, 00:00 WIB | [Link](/UMass%20CTF%202023/)
