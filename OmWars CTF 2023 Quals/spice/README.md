@@ -148,7 +148,7 @@ And then change it to hex
 2b2b2b2b2b2b2b2b2b2b5b3e2b3e2b2b2b3e2b2b2b2b2b2b2b3e2b2b2b2b2b2b2b2b2b2b3c3c3c3c2d5d3e3e3e3e2b2e2b2b2b2b2b2b2b2b2b2e2b2b2b2b2b2b2b2b2e
 ```
 
-Send the payload to the server using `bf_base16` parameter and you will get the flag because the flag is located on environtment var
+Send the payload to the server using `bf_base16` parameter and you will get the flag because the flag was located on environment var
 
 ![flag](images/flag.png)
 

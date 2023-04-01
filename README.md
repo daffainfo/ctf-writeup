@@ -26,6 +26,7 @@ List of CTF events that i have joined before
 | SpringForwardCTF 2023 | 11 March, 08:00 WIB — 12 March 2023, 20:00 WIB | [Link](/SpringForwardCTF%202023/) |
 | DaVinci CTF 2023 | 11 March, 15:00 WIB — 13 March 2023, 03:00 WIB | [Link](/DaVinci%20CTF%202023/) |
 | UTCTF 2023 | 11 March, 15:00 WIB — 13 March 2023, 03:00 WIB | [Link](/UTCTF%202023/) |
+| picoCTF 2023 | 14 March, 23:00 WIB — 29 March 2023, 02:00 WIB | [Link](/picoCTF%202023/) |
 | VikeCTF 2023 | 17 March, 23:00 WIB — 19 March 2023, 23:00 WIB	| [Link](/vikeCTF%202023/) |
 | WolvCTF 2023 | 18 March, 03:00 WIB — 20 March 2023, 03:00 WIB	| [Link](/WolvCTF%202023/) |
 | b01lers CTF 2023 | 18 March, 05:00 WIB — 20 March 2023, 05:00 WIB | [Link](/b01lers%20CTF%202023/) |

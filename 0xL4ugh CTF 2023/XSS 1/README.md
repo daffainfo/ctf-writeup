@@ -9,7 +9,7 @@ In the website there is a feature to upload an image file like this
 
 ![preview](images/preview.png)
 
-And after we upload a file for example `image.png`, we can access the file by accessing `/uploads/RANDOMCHARACTER/image.png` endpoint. In this chall, we only can upload a file that using `.png` extension. To bypass this whitelist, we need to upload a file named `.png` So the server will read the file as hidden directories.
+And after we upload a file for example `image.png`, we can access the file by accessing `/uploads/RANDOMCHARACTER/image.png` endpoint. In this chall, we only can upload a file that using `.png` extension. To bypass this whitelist, We need to upload a file with the `.png` extension so the server will read the file as hidden directories.
 
 At first we can get the flag easily and then the admin revise the chall and added more difficulty by adding `HttpOnly` flag on the bot so we need to bypass the `HttpOnly` flag. Luckily there is `phpinfo` file and we can use it to bypass the `HttpOnly` flag. So the payload will look like this
 

@@ -11,7 +11,7 @@ First, we try to execute `env` command and the result is
 
 ![env](images/env.png)
 
-As you can see there is an interesting environtment variable called `_` and the value is `/usr/bin/python3`
+As you can see there is an interesting environment variable called `_` and the value is `/usr/bin/python3`
 
 If we input `_$` on the server. The server will be executing a `/usr/bin/python3`
 

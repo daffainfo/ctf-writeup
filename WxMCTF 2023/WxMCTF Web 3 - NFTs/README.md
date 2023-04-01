@@ -109,7 +109,7 @@ def command_server(command):
 -----------------------------263566758113396374204204538370--
 ```
 
-After sending the request, I wait 1 sec and then I access `http://example/test/env` to get the flag because the flag is located on the environtment
+After sending the request, Im waiting for 1 sec and then I access `http://example/test/env` to get the flag because the flag was located on the environment
 
 ```
 Because the instance was dead, there is no flag here

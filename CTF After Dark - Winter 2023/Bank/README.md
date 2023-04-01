@@ -11,7 +11,7 @@ This is SQL injection chall and we need to get the flag from the database, lucki
 
 ![input](images/input.png)
 
-And we know the flag is located on `flags` table and in that table there are 2 columns named `flag` and `value` So we can input the payload like this
+And we know the flag was located on `flags` table and in that table there are 2 columns. `flag` and `value` So we can input the payload like this
 
 ```
 Username: ' union select group_concat(flag, value),2,3 from flags-- -

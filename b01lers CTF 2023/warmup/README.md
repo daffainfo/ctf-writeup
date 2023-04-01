@@ -19,7 +19,7 @@ Now we got another file called `app.py`. Now, try to access app.py endpoint (Don
 
 ![app](images/app.png)
 
-As you can see the flag is located in `flag.txt` endpoint. But we can't access it directly because there is a function called `validate` to detect if our input is `flag.txt` or not
+As you can see the flag was located in `flag.txt` endpoint. But we can't access it directly because there is a function called `validate` to detect if our input is `flag.txt` or not
 
 ```python
 def validate(data):
