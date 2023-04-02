@@ -1,5 +1,5 @@
 # CTF Writeup
-This repository shall comprise writeups concerning Capture The Flag (CTF) competitions that I have undertaken. In the past, I participated in local CTF events in 2021; however, after participating in several of them, I did not take part in any further CTF competitions. In 2023, I made the decision to relearn CTF from the beginning, and thus created this repository with the aim of assisting other CTF players in comprehending how to solve each challenge.
+This repository shall comprise writeups concerning Capture The Flag (CTF) competitions that I have undertaken. In the past, I participated in local CTF events in 2021; however, after participating in several of them, I did not take part in any further CTF competitions. In 2023, I made the decision to redo CTF from the beginning, and thus created this repository with the aim of assisting other CTF players in comprehending how to solve each challenge.
 
 ## List CTF
 List of CTF events that i have joined before
@@ -35,3 +35,4 @@ List of CTF events that i have joined before
 | LINE CTF 2023 | 25 March, 07:00 WIB — 26 March 2023, 07:00 WIB | [Link](/LINE%20CTF%202023/) |
 | UMass CTF 2023 | 25 March, 06:00 WIB — 27 March 2023, 00:00 WIB | [Link](/UMass%20CTF%202023/) |
 | VishwaCTF 2023 | 31 March, 17:30 WIB — 02 April 2023, 17:30 WIB | [Link](/VishwaCTF%202023/) |
+| RITSEC CTF 2023 | 31 March, 23:00 WIB — 02 April 2023, 23:00 WIB | [Link](/RITSEC%20CTF%202023/) |
