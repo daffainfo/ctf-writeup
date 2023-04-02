@@ -1,0 +1,84 @@
+Delivered-To: marcus49@gmail.com
+Received: by 2002:a92:d746:0:b0:325:b726:9767 with SMTP id e6csp2135144ilq;
+        Tue, 28 Mar 2023 08:30:07 -0700 (PDT)
+X-Google-Smtp-Source: AK7set8ORyC9DIUgH79ponX85ISyXzj7iPbRYdp5kiNWPNy8/lXsRXHtwCyOi3QxrebmlrGvLya7
+X-Received: by 2002:a05:600c:21da:b0:3ed:346d:452f with SMTP id x26-20020a05600c21da00b003ed346d452fmr13163833wmj.26.1680017407388;
+        Tue, 28 Mar 2023 08:30:07 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1680017407; cv=none;
+        d=google.com; s=arc-20160816;
+        b=E9+8PQydV9p6c+2FmoyXcXJ8vEH5aFsXyIT06AXDTD8+GA3VDsgH+PFKcm6Q+0AgNx
+         ipIlw3MGhb99092rwBbGFJkMQTXVV9I89tvpatCjTCxiTeTI0D061oHqAl+IyBzSKRZ2
+         6nF/GlUhkXkF0/05Fzcwbl0tbY4tkKopo9olN0+D4FdT/Fab46aRTLKPI1NwyFYYM/ix
+         e99PW4QfnO5AFR9RoCf15YfSJKG4/87PnO1hsrlE1cjs9ZS6cXslwMA7OKohcDJDYndG
+         +Pj7qNEdz+qs5yrHSYEHmFEM4LkhpczI1a6GHBMMCruqWa/pyobOMSBNxg7LHsuZM2IJ
+         mOgg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:message-id:subject:from:to
+         :date:dkim-signature;
+        bh=VWTpyOXlz5T/xZJZ0XBBptmYdajES+9h6dKcEO5kUtI=;
+        b=qj2mf0126tkq9pKsliaEilQNBNRRN/Z2Pahut6ionWQlTBUmjTGPFw39EdekRo+SY2
+         lEVhXF99HFUORHN9o+ktB1Cfa2SRJnRA7dHFR6tfoqZVmUJdiletZpu81WVGBftd2J4m
+         5aaj3f2fkRd1kgPPblALmjK23VEHsMurERpM8e6DvH3vE/4PtQkCio3sCfurd2yUaEp1
+         qPwdYMk3MK62+zcHG/rpCD7q3uQW68oqegxX0hFlWevDIrhz7PQs9N4+N0razn5Dg9MB
+         I205jQ3fZTl0Hn3M6cRnZQzs+r9n1j1C2gCH43jdsNx7wj7IJmnOLmoqyz9Jovss9b1Y
+         qRbA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@s8.eternalimpact.info header.s=mail header.b=mB0r2vgW;
+       spf=pass (google.com: domain of noreply@anonymousemail.me designates 5.188.190.54 as permitted sender) smtp.mailfrom=noreply@anonymousemail.me;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=anonymousemail.me
+Return-Path: <BrandonLee@anonymousemail.me>
+Received: from s8.eternalimpact.info (s8.eternalimpact.info. [5.188.190.54])
+        by mx.google.com with ESMTPS id w15-20020a5d404f000000b002c407f7e2ccsi24731625wrp.452.2023.03.28.08.30.07
+        for <marcus49@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 28 Mar 2023 08:30:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@anonymousemail.me designates 5.188.190.54 as permitted sender) client-ip=5.188.190.54;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@s8.eternalimpact.info header.s=mail header.b=mB0r2vgW;
+       spf=pass (google.com: domain of noreply@anonymousemail.me designates 5.188.190.54 as permitted sender) smtp.mailfrom=noreply@anonymousemail.me;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=anonymousemail.me
+Received: from authenticated-user (s8.eternalimpact.info [5.188.190.54])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(No client certificate requested)
+	by s8.eternalimpact.info (Postfix) with ESMTPSA id 12E8D1019A2
+	for <naziya.22110006@viit.ac.in>; Tue, 28 Mar 2023 15:30:06 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=s8.eternalimpact.info; s=mail; t=1680017406;
+	bh=VWTpyOXlz5T/xZJZ0XBBptmYdajES+9h6dKcEO5kUtI=;
+	h=Date:To:From:Subject:From;
+	b=mB0r2vgWX+Fytu26GCsCMcVUB/8FmFuKWdtAUZq3CQPok8MFraLVoFIqdJGRxmqfJ
+	 /Bx5wdipi/MUS0I8ydfkp3jAbVTU0IL4lFjmEyEqEe18p22Vbek8klySbwJCZbK0IL
+	 ACGamJGOad+tdP50wsIpMymXkythLdciDxLm1xCBM3s1JDEg3zst75KBnqLyUBqTRM
+	 LE0xuthjKUN4IXB1XGUaqF9rrTvHFW4PPhnj99AlirZ57pWD4vEmfIt2BgK2z/X7+Q
+	 AT367UiUiCWIVeyfh+8yz5uh8l+MMiJrcvQsaKjGEybyCFmih06wlaAvO0+PdVdyA3
+	 9ehgu3KUt07+A==
+Date: Tue, 28 Mar 2023 15:30:05 +0000
+To: marcus49@gmail.com
+From: The Wizard <noreply@anonymousemail.me>
+Subject: test
+Message-ID: <83b697599b88b88417516d5c8749b72d@anonymousemail.me>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1=_ID1ib29X2IvvegJlCpW5TDohMaWhvme8Z50DorKLyg"
+Content-Transfer-Encoding: 8bit
+
+--b1=_ID1ib29X2IvvegJlCpW5TDohMaWhvme8Z50DorKLyg
+Content-Type: text/plain; charset=us-ascii
+
+Hello this is u but from future
+
+--b1=_ID1ib29X2IvvegJlCpW5TDohMaWhvme8Z50DorKLyg
+Content-Type: text/html; charset=us-ascii
+
+<p></p>Hello Marcus Cooper,<br>
+ You are one step behind from finding your flag. <br>
+ Here is a Riddle: <br>
+ I am a noun and not a verb or an adverb.<br>
+ I am given to you at birth and never taken away,<br>
+ You keep me until you die, come what may.<br>
+ What am I?<br>
+
+
+--b1=_ID1ib29X2IvvegJlCpW5TDohMaWhvme8Z50DorKLyg--
+
+
