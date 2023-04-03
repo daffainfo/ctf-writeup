@@ -36,3 +36,4 @@ List of CTF events that i have joined before
 | UMass CTF 2023 | 25 March, 06:00 WIB — 27 March 2023, 00:00 WIB | [Link](/UMass%20CTF%202023/) |
 | VishwaCTF 2023 | 31 March, 17:30 WIB — 02 April 2023, 17:30 WIB | [Link](/VishwaCTF%202023/) |
 | RITSEC CTF 2023 | 31 March, 23:00 WIB — 02 April 2023, 23:00 WIB | [Link](/RITSEC%20CTF%202023/) |
+| GREP CTF 2023 | 01 April, 18:00 WIB — 03 April 2023, 18:00 WIB | [Link](/GREP%20CTF%202023/) |
