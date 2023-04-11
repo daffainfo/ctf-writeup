@@ -37,3 +37,6 @@ List of CTF events that i have joined before
 | VishwaCTF 2023 | 31 March, 17:30 WIB — 02 April 2023, 17:30 WIB | [Link](/VishwaCTF%202023/) |
 | RITSEC CTF 2023 | 31 March, 23:00 WIB — 02 April 2023, 23:00 WIB | [Link](/RITSEC%20CTF%202023/) |
 | GREP CTF 2023 | 01 April, 18:00 WIB — 03 April 2023, 18:00 WIB | [Link](/GREP%20CTF%202023/) |
+| Midnight Sun CTF 2023 Quals | 08 April, 18:00 WIB — 09 April 2023, 18:00 WIB | [Link](/Midnight%20Sun%20CTF%202023%20Quals/) |
+| Bucket CTF 2023 | 08 April, 00:00 WIB — 10 April 2023, 00:00 WIB | [Link](/Midnight%20Sun%20CTF%202023%20Quals/) |
+| cursedCTF 2023 | 08 April, 07:00 WIB — 11 April 2023, 07:00 WIB | [Link](/cursedCTF%202023/) |
