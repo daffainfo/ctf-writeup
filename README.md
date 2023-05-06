@@ -43,3 +43,4 @@ List of CTF events that i have joined before
 | HackPack CTF 2023 | 14 April, 22:00 WIB — 15 April 2023, 21:59 WIB | [Link](/Hackpack%20CTF%202023/) |
 | Cyberconférence CTF (24h@CTF '23) | 14 April, 23:00 WIB — 16 April 2023, 21:00 WIB | [Link](/24h%40CTF%202023/) |
 | Texas Security Awareness Week 2023 | 15 April, 22:00 WIB — 17 April 2023, 05:00 WIB | [Link](/TexSAW%202023/) |
+| WaniCTF 2023 | 04 May, 13:00 WIB — 06 May 2023, 13:00 WIB | [Link](/WaniCTF%202023/) |
