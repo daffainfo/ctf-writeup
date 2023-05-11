@@ -49,7 +49,7 @@ else
 ?>
 ```
 
-To print the flag, we need to request to the website with 2 parameter, `username` and `password` and the value of these 2 parameters is `admin`. But there is some check, we can input an `admin` in the username.
+To print the flag, we need to send a request to the website with 2 parameters, `username` and `password` and the value of these 2 parameters is `admin`. But there is some check, we can input an `admin` in the username.
 
 ## How to Solve?
 We need to bypass `$username=="admin"` this code by capitalizing one of the character. So from `admin` to `aDmin` will bypass the check and the website will print the flag
