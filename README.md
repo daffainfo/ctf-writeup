@@ -44,3 +44,6 @@ List of CTF events that i have joined before
 | Cyberconférence CTF (24h@CTF '23) | 14 April, 23:00 WIB — 16 April 2023, 21:00 WIB | [Link](/24h%40CTF%202023/) |
 | Texas Security Awareness Week 2023 | 15 April, 22:00 WIB — 17 April 2023, 05:00 WIB | [Link](/TexSAW%202023/) |
 | WaniCTF 2023 | 04 May, 13:00 WIB — 06 May 2023, 13:00 WIB | [Link](/WaniCTF%202023/) |
+| ICSJWG Spring 2023 | 07 May, 01:00 WIB — 12 May 2023, 01:00 WIB | [Link](/ICSJWG%20CTF%202023/) |
+| DeadSec CTF 2023 | 19 May, 20:00 WIB — 21 May 2023, 20:00 WIB | [Link](/DeadSec%20CTF%202023/) |
+| BYUCTF 2023 | 20 May, 00:00 WIB — 21 May 2023, 12:00 WIB | [Link](/BYUCTF%202023/) |
