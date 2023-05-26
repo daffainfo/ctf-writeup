@@ -48,6 +48,7 @@ List of CTF events that i have joined before
 | DeadSec CTF 2023 | Yes | [Link](/DeadSec%20CTF%202023/) |
 | BYUCTF 2023 | Yes | [Link](/BYUCTF%202023/) |
 | Grey CTF 2023 Qualifiers | No | - |
+| Security Fest CTF 2023 | Yes | [Link](/Security%20Fest%20CTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
