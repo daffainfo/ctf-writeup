@@ -9,3 +9,6 @@ Thanks to the team especially @0xazr
 | Web | [swill-squill](/TJCTF%202023/swill-squill)
 | Web | [outdated](/TJCTF%202023/outdated)
 | Crypto | [baby-rsa](/TJCTF%202023/baby-rsa)
+| Forensic | [beep-boop-robot](/TJCTF%202023/beep-boop-robot)
+| Forensic | [nothing-to-see](/TJCTF%202023/nothing-to-see)
+| Forensic | [neofeudalism](/TJCTF%202023/neofeudalism)
