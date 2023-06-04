@@ -1,5 +1,5 @@
 # BxMCTF 2023
-CTF writeup for The 24h@CTF 2023. I took part in this CTF competition (Solo), and got 61th place out of 869 users
+CTF writeup for The 24h@CTF 2023. I took part in this CTF competition (Solo), and got 62th place out of 872 users
 
 | Category | Challenge |
 | --- | --- |
