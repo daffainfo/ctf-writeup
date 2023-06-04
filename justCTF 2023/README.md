@@ -1,5 +1,5 @@
 # justCTF 2023
-CTF writeup for The justCTF 2023. I took part in this CTF competition with the TCP1P team, and got 20th place out of 794 teams
+CTF writeup for The justCTF 2023. I took part in this CTF competition with the TCP1P team, and got 33th place out of 931 teams
 
 Thanks to the team especially @dimasma0305
 
