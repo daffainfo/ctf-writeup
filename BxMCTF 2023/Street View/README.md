@@ -18,5 +18,5 @@ As you can see there are 2 unique metadata called `Latitude` and `Longitude`. No
 ![flag](images/flag.png)
 
 ```
-ctf{habibidoner.com}
+ctf{walmart.ca}
 ```
