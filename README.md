@@ -51,9 +51,9 @@ List of CTF events that i have joined before
 | Security Fest CTF 2023 | Yes | [Link](/Security%20Fest%20CTF%202023/) |
 | TJCTF 2023 | Yes | [Link](/TJCTF%202023/) |
 | BxMCTF 2023 | Yes | [Link](/BxMCTF%202023/) |
-| DanteCTF 2023 | Yes | [Link] |
+| DanteCTF 2023 | Yes | [Link](/DanteCTF%202023/) |
 | Break the Syntax CTF 2023 | No | - |
-| JustCTF 2023 | Yes | [Link] |
+| JustCTF 2023 | Yes | [Link](/justCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
