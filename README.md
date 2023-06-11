@@ -54,6 +54,11 @@ List of CTF events that i have joined before
 | DanteCTF 2023 | Yes | [Link](/DanteCTF%202023/) |
 | Break the Syntax CTF 2023 | No | - |
 | JustCTF 2023 | Yes | [Link](/justCTF%202023/) |
+| HSCTF 2023 | Yes | [Link](/HSCTF%202023/) |
+| GPN CTF 2023 | Yes | [Link](/GPN%20CTF%202023/) |
+| n00bzCTF 2023 | No | - |
+| BCACTF 2023 | No | - |
+| SEETF 2023 | Yes | [Link](/SEETF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
