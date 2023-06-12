@@ -7,5 +7,5 @@ Thanks to the TCP1P team especially @0xazr
 | --- | --- |
 | Web | [🎓🌎 Express JavaScript Security](/SEETF%202023/%F0%9F%8E%93%F0%9F%8C%8E%20Express%20JavaScript%20Security/)
 | Web | [🎓Throw your malware here!](/SEETF%202023/%F0%9F%8E%93Throw%20your%20malware%20here!/)
-| Web | [Android Zoo](/SEETF%202023/Android%20Zoo/)
-| Web | [🎓 NoCode](/SEETF%202023/%F0%9F%8E%93%20NoCode/)
+| Misc | [Android Zoo](/SEETF%202023/Android%20Zoo/)
+| Misc | [🎓 NoCode](/SEETF%202023/%F0%9F%8E%93%20NoCode/)
