@@ -1,5 +1,5 @@
 # NahamCon CTF 2023
-CTF writeup for The NahamCon CTF 2023. I took part in this CTF competition with the TCP1P team, and got 6th place out of 1625 teams
+CTF writeup for The NahamCon CTF 2023. I took part in this CTF competition with the TCP1P team, and got 6th place out of 1692 teams
 
 | Category | Challenge |
 | --- | --- |
