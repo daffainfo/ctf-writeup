@@ -108,5 +108,5 @@ Now, we need to login to the second website to obtain the flag
 ![flag](images/flag.png)
 
 ```
-HackTM{Timisoara}
+CTF{ff79e2741f21abd77dc48f17bab64c3d}
 ```
