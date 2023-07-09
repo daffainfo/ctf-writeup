@@ -1,5 +1,5 @@
 # CyberSecurityRumble Quals
-CTF writeup for The 24h@CTF 2023. I took part in this CTF competition (Solo), and got 61th place out of 600 users
+CTF writeup for The CyberSecurityRumble Quals 2023. I took part in this CTF competition (Solo), and got 61th place out of 600 users
 
 | Category | Challenge |
 | --- | --- |
