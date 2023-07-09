@@ -3,4 +3,4 @@ CTF writeup for CryptoCTF 2023. I took part in this CTF competition with the HCS
 
 | Category | Challenge |
 | --- | --- |
-| Intro | [Cookies](/CryptoCTF%202023/Blue%20Office/)
+| Crypto | [Cookies](/CryptoCTF%202023/Blue%20Office/)

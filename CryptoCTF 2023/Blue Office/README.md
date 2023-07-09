@@ -1,4 +1,4 @@
-# Bagels
+# Blue Office
 > The Blue Office's ingenious cipher, meticulously crafted for the prestigious CCTF, became an impenetrable enigma that left even the most seasoned cryptanalysts baffled.
 
 ## About the Challenge
@@ -51,7 +51,7 @@ This Python script is a basic encryption program. It imports the necessary modul
 enc = b'b0cb631639f8a5ab20ff7385926383f89a71bbc4ed2d57142e05f39d434fce'
 ```
 ## How to Solve?
-To solve this chall, we need to brute the seed first, how? Because we know the format of the flag is `CCTF{` and we know the output of the encrypted flag. We need to try check the seed from 0 to xxxx and then check the encryted match with `b0cb631639`. After that we need to create another function to decrypt the message
+To solve this chall, we need to brute the seed first, how? Because we know the format of the flag is `CCTF{` and we know the output of the encrypted flag. We need to try check the seed from 0 to xxxx and then check the encryted match with `b0cb631639` or not. After that we need to create another function to decrypt the message
 
 ```python
 def decrypt(s, enc):
