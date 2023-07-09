@@ -62,6 +62,7 @@ List of CTF events that i have joined before
 | Africa battleCTF 2023 prequal | No | - |
 | Google CTF 2023 | Yes | [Link](/Google%20CTF%202023/) |
 | UIUCTF 2023 | Yes | [Link](/UIUCTF%202023/) |
+| CryptoCTF 2023 | Yes | [Link](/CryptoCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
