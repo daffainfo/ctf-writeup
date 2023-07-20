@@ -8,7 +8,7 @@ We have been given a source code (You can download the source code [here](web_la
 
 And also there is a login page
 
-![prevew_login](images/login.png)
+![prevew_login](images/preview_login.png)
 
 The flag was located in the database, especially in the `votes` database and we need to login first to obtain the flag
 

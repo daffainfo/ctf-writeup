@@ -66,6 +66,7 @@ List of CTF events that i have joined before
 | CyberSecurityRumble Quals | Yes | [Link](/CyberSecurityRumble%20Quals/) |
 | CrewCTF 2023 | Yes | [Link](/CrewCTF%202023/) |
 | Business CTF 2023: The Great Escape | Yes | [Link](/Business%20CTF%202023%20The%20Great%20Escape/) |
+| AmateursCTF 2023 | Yes | [Link](/AmateursCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
