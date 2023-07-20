@@ -1,4 +1,4 @@
-# Legoclones 3
+# Legoclones 2
 > Wow, this wiki is so old, it wasn't even captured by the Wayback Machine until a few years after it had started to flourish. Can you figure out the exact date and time the wiki was created? There may be somewhat reputable sources with a date listed, but in an effort to force you to find an authoritative, reputable source, I'm also requiring you to find the time it was created too. Because I'm too lazy to worry about timezones, the flag is only the minute of when it was created.
 
 > For example, if you found the wiki was created at 01:23, then the flag is byuctf{23}.

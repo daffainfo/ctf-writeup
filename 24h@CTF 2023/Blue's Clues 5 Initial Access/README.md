@@ -1,4 +1,4 @@
-# Welcome!
+# Blue's Clues 5/8: Initial Access
 > The web server?? How did the threat actor get access to the web server? Surely we have logs for that... It hosts a simple PHP website, nothing complex.
 
 > Find the malicious file.

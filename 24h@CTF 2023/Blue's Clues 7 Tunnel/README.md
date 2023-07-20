@@ -1,4 +1,4 @@
-# Welcome!
+# Blue's Clues 7/8: Tunnel
 > Okay. Let's recap. The web server somehow got exploited, and a webshell was uploaded. The webshell allowed for commands to be executed. A reverse-shell was launched. A gitlab user was created. The gitlab user created a malicious pipeline.
 
 > Using this search in analytics>discover: host.hostname :"Rezifp-GitLab-Server" and gitlab.meta.remote_ip:10.0.0.5 and gitlab.ua:* And going into the "field statistics" tab, we can see that there are two user agents: curl and firefox, that made queries to our gitlab from the web server. However, firefox is not installed on the web server. There must be a tunnel/socks proxy that was created. Find the command line that created that tunnel.
