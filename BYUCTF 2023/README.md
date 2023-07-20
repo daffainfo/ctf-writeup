@@ -12,4 +12,4 @@ Thanks to the team especially @dimasma0305 and @yuuna
 | Crypto | [RSA4](/BYUCTF%202023/RSA4/)
 | Crypto | [RSA5](/BYUCTF%202023/RSA5/)
 | OSINT | [Legoclones 1](/BYUCTF%202023/Legoclones%201/)
-| OSINT | [Legoclones 2](/BYUCTF%202023/Legoclones%202/)
+| OSINT | [Legoclones 3](/BYUCTF%202023/Legoclones%203/)
