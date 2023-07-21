@@ -1,12 +1,21 @@
 # Root Permission
-> CHALL_DESC
 
-## About the Challenge
-TEST
+> What binary had the root permission?
 
-## How to Solve?
-TEST
+Download the pcap file [here](file/challenge.zip)
+
+# How to Solve
+
+We need look the pcap file and see the http request with filter string `Linux` like this
+
+![POC 1](images/POC%201.jpg)
+
+Seem the binary for the privilege escalation to root is `vim`
+
+Because the format is `BDSEC{Flag}`
+
+Then flag is
 
 ```
-FLAG
+BDSEC{vim}
 ```
