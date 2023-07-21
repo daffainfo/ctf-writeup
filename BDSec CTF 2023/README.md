@@ -1,5 +1,5 @@
 # BDSEC CTF 2023
-CTF writeup for The BDSEC CTF 2023. I took part in this CTF competition with the HCS team, and got 10th place out of xxx teams
+CTF writeup for The BDSEC CTF 2023. I took part in this CTF competition with the HCS team, and got 1th place out of 719 teams
 
 | Category | Challenge |
 | --- | --- |
