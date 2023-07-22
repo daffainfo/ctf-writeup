@@ -1,12 +1,21 @@
 # Port
-> CHALL_DESC
 
-## About the Challenge
-TEST
+> What was the LPORT?
 
-## How to Solve?
-TEST
+Download the pcap file [here](file/challenge.zip)
+
+# How to Solve
+
+We need look the pcap file and see the http request with filter string `terminal.php`
+
+![POC 1](images/POC%201.jpg)
+
+Seems the set port is `1337`
+
+Because the format is `BDSEC{port}`
+
+Then flag is
 
 ```
-FLAG
+BDSEC{1337}
 ```
