@@ -27,7 +27,7 @@ And you can find the name of the boss by using `/data/com.Slack/databases/org_T0
 
 And you can find how many channels are there by using `/data/com.Slack/databases/org_T03EA50JASY` artefact and then find `conversation` table, as you can see there are 6 data in the table. And then find the column called `type`, if the data `type` is PUBLIC, that means that is a slack channel. So, essentially there are only 3 channels in the slack server
 
-![Alt text](image.png)
+![channel](images/channel.png)
 
 And if you want to find the last created channel, you can sort the `conversation` table based on `latest` column
 
