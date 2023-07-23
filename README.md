@@ -68,6 +68,7 @@ List of CTF events that i have joined before
 | Business CTF 2023: The Great Escape | Yes | [Link](/Business%20CTF%202023%20The%20Great%20Escape/) |
 | AmateursCTF 2023 | Yes | [Link](/AmateursCTF%202023/) |
 | BDSec CTF 2023 | Yes | [Link](/BDSec%20CTF%202023/) |
+| The Odyssey CTF | Yes | [Link](/The%20Odyssey%20CTF/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
