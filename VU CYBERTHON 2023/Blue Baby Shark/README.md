@@ -1,5 +1,7 @@
 # Blue Baby Shark
-> I got recomendation from one of our common acquaintance. I’m a new into all of this CTF stuff. I g...
+> Hello Stranger!
+
+> I got recomendation from one of our common acquaintance. I’m a new into all of this CTF stuff. I got stuck with one challange and I’m not that skilled wit the network traffic analysis. Would you be able to help me out with this partiucalr CTF and find the flag? Only hint I have so far is that one machine was compromised.
 
 ## About the Challenge
 We have been given a pcapng file and we need to find the flag there (You can find the file [here](Blue%20Baby%20Shark.pcapng))

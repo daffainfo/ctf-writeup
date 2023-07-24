@@ -2,7 +2,7 @@
 > During a cyber security audit of your government's infrastructure, you discover log entries showing traffic directed towards an IP address within the enemy territory of "Oumara". This alarming revelation triggers suspicion of a mole within Lusons' government. Determined to unveil the truth, you analyze the encryption scheme with the goal of breaking it and decrypting the suspicious communication. Your objective is to extract vital information and gather intelligence, ultimately protecting your nation from potential threats.
 
 ## About the Challenge
-We got a zip files (You can download the file [here]) that contains 3 more files (1 python script and 2 txt file). Here is the content of `source.py`
+We got a zip files (You can download the file [here](crypto_initialization.zip)) that contains 3 more files (1 python script and 2 txt file). Here is the content of `source.py`
 
 ```python
 #!/usr/bin/env python3

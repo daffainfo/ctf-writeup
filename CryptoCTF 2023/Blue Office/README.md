@@ -2,7 +2,7 @@
 > The Blue Office's ingenious cipher, meticulously crafted for the prestigious CCTF, became an impenetrable enigma that left even the most seasoned cryptanalysts baffled.
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here]). And if you unzip the file, you will see there are 2 files called `blue_office.py` and `output.txt`. Here is the content of `blue_office.py`:
+We have been given a zip file. And if you unzip the file, you will see there are 2 files called `blue_office.py` and `output.txt`. Here is the content of `blue_office.py`:
 
 ```python
 #!/usr/bin/enc python3

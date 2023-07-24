@@ -1,5 +1,5 @@
 # Docker Web
-`-`
+> A container that contains a web page (http) service. All answers will appear only after you look at the page.
 
 ## About the Challenge
 We are given a zip code that contain linux directories

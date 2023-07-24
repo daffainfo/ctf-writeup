@@ -1,6 +1,26 @@
 # CTF Writeup
 This repository shall comprise writeups concerning Capture The Flag (CTF) competitions that I have undertaken. In the past, I participated in local CTF events in 2021; however, after participating in several of them, I did not take part in any further CTF competitions. In 2023, I made the decision to redo CTF from the beginning, and thus created this repository with the aim of assisting other CTF players in comprehending how to solve each challenge.
 
+## Stats
+This is a list of wins we have achieved while participating in several CTF competitions
+
+### Total Writeups
+There are __396__ writeups that have been made in this repository
+
+### CTF Competitions
+
+| Event Name | Team | Ranking |
+| ---------- | ---- | ------- |
+| The Odyssey CTF | aseng_fans_club | 1 |
+| BDSec CTF 2023 | HCS | 1 |
+| 0xLaugh CTF 2023 | TCP1P | 2 |
+
+### Writeup Competitions
+
+| Event Name | Team |
+| ---------- | ---- |
+| UIUCTF 2023 | TCP1P |
+
 ## List CTF
 List of CTF events that i have joined before
 
