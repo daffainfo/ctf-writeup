@@ -1,5 +1,5 @@
 # DeconstruCT.F 2023
-CTF writeup for The DeconstruCT.F 2023. I took part in this CTF competition with the aseng_fans_club team (HCS x CCUG), and got xth place out of xxx teams
+CTF writeup for The DeconstruCT.F 2023. I took part in this CTF competition with the aseng_fans_club team (HCS x CCUG), and got 1st place out of 719 teams
 
 | Category | Challenge |
 | --- | --- |
