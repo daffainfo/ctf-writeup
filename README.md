@@ -11,6 +11,7 @@ There are __396__ writeups that have been made in this repository
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
+| DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
 | BDSec CTF 2023 | HCS | 1 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
@@ -91,6 +92,8 @@ List of CTF events that i have joined before
 | The Odyssey CTF | Yes | [Link](/The%20Odyssey%20CTF/) |
 | TFC CTF 2023 | No | - |
 | ASC Cyber Wargames Qualification 2023 | Yes | [Link](/ASC%20Cyber%20Wargames%20Qualification%202023/) |
+| LIT CTF 2023 | No | - |
+| DeconstruCT.F 2023 | Yes | [Link](/DeconstruCT.F%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
