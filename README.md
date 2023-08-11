@@ -94,6 +94,7 @@ List of CTF events that i have joined before
 | ASC Cyber Wargames Qualification 2023 | Yes | [Link](/ASC%20Cyber%20Wargames%20Qualification%202023/) |
 | LIT CTF 2023 | No | - |
 | DeconstruCT.F 2023 | Yes | [Link](/DeconstruCT.F%202023/) |
+| Tenable CTF 2023 | Yes | [Link](/Tenable%20CTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
