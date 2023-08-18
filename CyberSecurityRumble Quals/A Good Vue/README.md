@@ -67,7 +67,7 @@ After that, send the cookie to the admin and then wait until we got the admin's 
 
 ![webhook](images/webhook.png)
 
-Decode the cookie using base64 and voila
+Decode the cookie using base64 and voilà
 
 ![flag](images/flag.png)
 

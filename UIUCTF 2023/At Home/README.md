@@ -69,7 +69,7 @@ flag = (pow(c, d, n) // e).to_bytes((n.bit_length() + 7) // 8, 'big').decode()
 print("Decrypted Flag:", flag)
 ```
 
-And then run the code and voila you get the flag
+And then run the code and voilà you get the flag
 
 ![flag](images/flag.png)
 

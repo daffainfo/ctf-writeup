@@ -16,7 +16,7 @@ When I attempt to post a comment, my comment is reviewed by the admin first. So,
 
 ![review](images/review.png)
 
-Submit the payload and then wait until you got a pingback. And voila, you got an admin cookie
+Submit the payload and then wait until you got a pingback. And voilà, you got an admin cookie
 
 ![webhook](images/webhook.png)
 

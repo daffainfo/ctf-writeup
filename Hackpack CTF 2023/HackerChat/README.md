@@ -29,7 +29,7 @@ The `secret reminder` refers to the JWT secret, which is required in order to mo
 
 ![jwt](images/jwt.png)
 
-Now, go to `/api/chat` history and don't forget to change the `Authorization` token and voila you will obtain the flag
+Now, go to `/api/chat` history and don't forget to change the `Authorization` token and voilà you will obtain the flag
 
 ![flag](images/flag.png)
 

@@ -29,7 +29,7 @@ The script reads in two RSA keys from files named `key1.pem` and `key2.pem`. And
 
 In the challenge description, it is stated that the public keys have the same modulus. Therefore, it can be determined that to obtain the flag, one needs to perform an attack on the RSA key using the `Common Modulus Attack`
 
-Im using [X-RSA](https://github.com/X-Vector/X-RSA) instead of `RsaCtfTool` because that tool is broken on my machine. And voila you will get the flag by choosing `Common Modulus` option
+Im using [X-RSA](https://github.com/X-Vector/X-RSA) instead of `RsaCtfTool` because that tool is broken on my machine. And voilà you will get the flag by choosing `Common Modulus` option
 
 ![flag](images/flag.png)
 

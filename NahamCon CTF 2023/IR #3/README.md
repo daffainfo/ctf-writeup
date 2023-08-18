@@ -70,7 +70,7 @@ Take the result and then open cyberchef and convert the result using decimal and
 
 ![cyberchef](images/cyberchef.png)
 
-Take the long string, and then reverse and decode it using `base64`. And voila, the flag was located inside `$flag` variable
+Take the long string, and then reverse and decode it using `base64`. And voilà, the flag was located inside `$flag` variable
 
 ![flag](images/flag.png)
 

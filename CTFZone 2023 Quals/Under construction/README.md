@@ -33,7 +33,7 @@ Hmm, what is `node-static` package? lets see if this version is vulnerable or no
 
 ![snyk](images/snyk.png)
 
-And voila, we know this package was vulnerable to `CVE-2023-26111` (You can check this [gist.github.com](https://gist.github.com/lirantal/c80b28e7bee148dc287339cb483e42bc) to read the details). Let's check the source code again
+And voilà, we know this package was vulnerable to `CVE-2023-26111` (You can check this [gist.github.com](https://gist.github.com/lirantal/c80b28e7bee148dc287339cb483e42bc) to read the details). Let's check the source code again
 
 ```node
 const hostname = '0.0.0.0';

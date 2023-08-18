@@ -17,7 +17,7 @@ There is a HTML comment, that caught my interest
 <!-- John, please don't run the app in debug mode, how many times do I have to tell you this! -->
 ```
 
-This website was running in debug mode, but we still didn't know about the technology behind it. Then, I decided to try some of the common endpoints, such as `/robots.txt`, `sitemap.xml`, `/console`, `/admin`, etc. And voila, there was an endpoint called `/console`
+This website was running in debug mode, but we still didn't know about the technology behind it. Then, I decided to try some of the common endpoints, such as `/robots.txt`, `sitemap.xml`, `/console`, `/admin`, etc. And voilà, there was an endpoint called `/console`
 
 ![console](images/console.png)
 
