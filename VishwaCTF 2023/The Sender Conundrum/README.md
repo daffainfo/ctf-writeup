@@ -8,7 +8,7 @@ We have been given an email file (You can download the file [here](TheEmail.eml)
 ![preview_zip](images/zip_preview.png)
 
 ## How to Solve?
-As you can see there is a riddle inside the email, solve it to get the flag. But in this case I will brute the zip file using `JohnTheRipper`. Here is the command that I used
+As you can see there is a riddle inside the email, solve it to get the flag. But in this case I will brute the zip file using `JohnTheRipper`. Here is the command I used
 
 ```
 zip2john unzipme.zip > hash.txt

@@ -42,7 +42,7 @@ for rand_seed in range(1, 1001):
     print("The flag is:", flag)
 ```
 
-And im using `grep` too to find the flag. Here is the final command that I used
+And im using `grep` too to find the flag. Here is the final command I used
 
 ```shell
 python3 solve_bird.py | grep "grepCTF" -a

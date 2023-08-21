@@ -1,7 +1,5 @@
 # Bucket CTF 2023
-CTF writeup for The Bucket CTF 2023. I took part in this CTF competition with the TCP1P team, and got 17th place out of 674 teams
-
-Thanks to the team especially @dimasma0305 and @yuuna
+CTF writeup for The Bucket CTF 2023. I took part in this CTF competition with the TCP1P team, and got 17th place out of 674 teams and @yuuna
 
 | Category | Challenge |
 | --- | --- |

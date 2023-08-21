@@ -58,7 +58,7 @@ def main():
 This Python script is a simple guessing game where the player must guess a random sequence of 10,000 numbers that have been shuffled using the `random.shuffle`. The player has 15 chances to view a subset of the shuffled numbers before submitting a guess. The script uses the `input()` function to prompt the player for input and the `print()` function to display the result. If the player correctly guesses the entire sequence, the script will output the value of the environment variable `FLAG`, which presumably contains the flag for the challenge. Otherwise, the script will output the message `Incorrect`. The main function uses a while loop to continually prompt the player for their choice of action, which can be to peep (view a subset of the shuffled numbers) or to guess the entire sequence.
 
 ## How to Solve?
-This chall is literally same with `K3RN3LCTF: Bogo Solve` (You can access the writeup [here](https://ctftime.org/writeup/31333)). Here is the code that I used to solve this chall
+This chall is literally same with `K3RN3LCTF: Bogo Solve` (You can access the writeup [here](https://ctftime.org/writeup/31333)). Here is the code I used to solve this chall
 
 ```python
 from pwn import *

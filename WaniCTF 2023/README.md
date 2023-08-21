@@ -1,8 +1,6 @@
 # WaniCTF 2023
 CTF writeup for WaniCTF 2023. I took part in this CTF competition with the TCP1P team and got 12th place out of 1109 teams
 
-Thanks to the team especially @kaelanalysis
-
 | Category | Challenge |
 | --- | --- |
 | Crypto | [EZDORSA_Lv1](/WaniCTF%202023/EZDORSA_Lv1/)

@@ -15,6 +15,7 @@ There are __396__ writeups that have been made in this repository
 | The Odyssey CTF | aseng_fans_club | 1 |
 | BDSec CTF 2023 | HCS | 1 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
+| 0byteCTF 2023 | - | 3 |
 
 ### Writeup Competitions
 
@@ -95,6 +96,8 @@ List of CTF events that i have joined before
 | LIT CTF 2023 | No | - |
 | DeconstruCT.F 2023 | Yes | [Link](/DeconstruCT.F%202023/) |
 | Tenable CTF 2023 | Yes | [Link](/Tenable%20CTF%202023/) |
+| CCCamp 2023 | Yes | [Link](/CCCamp%202023/) |
+| 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |

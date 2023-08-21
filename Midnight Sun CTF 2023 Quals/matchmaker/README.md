@@ -34,7 +34,7 @@ Finally, the code calculates the execution time of the script by measuring the d
 This code is vulnerable to regex injection because we can set a custom regex pattern to find the flag. The execution time becomes slower if the pattern contains wrong characters, but if the pattern is correct, the execution time will be very fast.
 
 ## How to Solve?
-To solve this, im using [porwsigger blog](https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets) as a reference about regex injection to spill the secret. So here is the regex that I used to solve the chall
+To solve this, im using [porwsigger blog](https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets) as a reference about regex injection to spill the secret. So here is the regex I used to solve the chall
 
 ```
 ^(?=midnight{a)((.*)*)*salt$

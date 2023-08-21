@@ -98,7 +98,7 @@ for i in range(0, 2 ** (k - 1)):
     print("int_generator(" + str(i) + "):{}".format(int_generator(num2)))
 ```
 
-So this code will try every number from `0` to `2**35`. And here is the command that I used to get `flag2`
+So this code will try every number from `0` to `2**35`. And here is the command I used to get `flag2`
 
 ```shell
 python3 solve.py | grep 2264663430088446

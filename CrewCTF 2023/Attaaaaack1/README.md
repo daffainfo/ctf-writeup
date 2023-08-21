@@ -9,7 +9,7 @@
 We got `raw` image and we need to find the profile using Volatility2
 
 ## How to Solve?
-To solve this, we need to find the best profile using `imageinfo` plugin. Here is the command that I used
+To solve this, we need to find the best profile using `imageinfo` plugin. Here is the command I used
 
 ```
 vol.py -f /path/to/memdump.raw imageinfo

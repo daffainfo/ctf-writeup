@@ -9,7 +9,7 @@
 We have been given an image forensic challenge (on a memory). Additionally, we have received 5 questions that we need to answer correctly in order to obtain the flag.
 
 ## How to Solve?
-In this case, im using Volatility 2 to do forensic on a memory. First, im gonna use `imageinfo` first to find the correct profile for this image. Here is the command that I used to find the correct profile:
+In this case, im using Volatility 2 to do forensic on a memory. First, im gonna use `imageinfo` first to find the correct profile for this image. Here is the command I used to find the correct profile:
 
 ```shell
 vol.py -f OdysseyVM-ded1be8a.vmem imageinfo
@@ -25,7 +25,7 @@ vol.py -f OdysseyVM-ded1be8a.vmem --profile=Win7SP1x64 psxview
 
 ![psxview](images/psxview.png)
 
-Hmmm there is a proccess called `clickheretoget....`. It looks like the name program has been truncated. Let's see the full name using `filescan` module. Here is the command that I used to find the full name of the suspicious program
+Hmmm there is a proccess called `clickheretoget....`. It looks like the name program has been truncated. Let's see the full name using `filescan` module. Here is the command I used to find the full name of the suspicious program
 
 ```shell
 vol.py -f OdysseyVM-ded1be8a.vmem --profile=Win7SP1x64 filescan | grep "clickhere"
@@ -61,7 +61,7 @@ For question number 2, we already got the answer by using `psxview` and `filesca
 
 ![q2](images/q2.png)
 
-For question number 3, we can use `pstree` module to find the PID and the parent PID. Here is the command that I used to obtain the pid and ppid
+For question number 3, we can use `pstree` module to find the PID and the parent PID. Here is the command I used to obtain the pid and ppid
 
 ```shell
 vol.py -f OdysseyVM-ded1be8a.vmem --profile=Win7SP1x64 psscan

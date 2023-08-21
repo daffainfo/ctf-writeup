@@ -25,7 +25,7 @@ And we need to escape from the sandbox but we can input any ASCII letter and als
 
 
 ## How to Solve?
-To solve this problem, we need to convert our payload first to gothic font (Im using this [website](https://yaytext.com/fraktur/)) and here is the payload that I used
+To solve this problem, we need to convert our payload first to gothic font (Im using this [website](https://yaytext.com/fraktur/)) and here is the payload I used
 
 ```
 𝔟𝔯𝔢𝔞𝔨𝔭𝔬𝔦𝔫𝔱()

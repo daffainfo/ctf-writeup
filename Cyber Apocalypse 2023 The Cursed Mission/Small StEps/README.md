@@ -55,7 +55,7 @@ if __name__ == '__main__':
 As we can see, the public exponent is very small (3) and we only have an information about the ciphertext, public exponent, and the public key
 
 ## How to Solve?
-Im using [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) to solve the chall, here is the command that I used
+Im using [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) to solve the chall, here is the command I used
 
 ```bash
 python3 RsaCtfTool.py -n 7079390432974855345319643397277546809126929622683749677273378219032261712283081531451428558847051155395790169332117706417782515882054955482729948765182401 -e 3 --uncipher 70407336670535933819674104208890254240063781538460394662998902860952366439176467447947737680952277637330523818962104685553250402512989897886053

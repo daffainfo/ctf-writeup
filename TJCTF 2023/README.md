@@ -1,8 +1,6 @@
 # TJCTF 2023
 CTF writeup for The TJCTF 2023. I took part in this CTF competition with the HCS team, and got 59th place out of 1047 teams
 
-Thanks to the team especially @0xazr
-
 | Category | Challenge |
 | --- | --- |
 | Web | [hi](/TJCTF%202023/hi)

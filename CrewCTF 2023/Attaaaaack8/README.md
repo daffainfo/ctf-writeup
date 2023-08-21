@@ -7,7 +7,7 @@
 We got `raw` image and we need to find the C2 domain and the port number
 
 ## How to Solve?
-To solve this, we can use `strings` and `grep` command to find C2 domain and the port number. Here is the command that I used
+To solve this, we can use `strings` and `grep` command to find C2 domain and the port number. Here is the command I used
 
 ```
 strings 300.dmp | grep -oP '.+\.\w+\:[1-9]\d+'

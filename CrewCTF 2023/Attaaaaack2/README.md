@@ -7,7 +7,7 @@
 We got `raw` image and we need to determine the total number of processes that were running
 
 ## How to Solve?
-To solve this, we need to find the list of process using `pslist` plugin. Here is the command that I used
+To solve this, we need to find the list of process using `pslist` plugin. Here is the command I used
 
 ```
 vol.py -f /path/to/memdump.raw --profile=Win7SP1x86_23418 pslist

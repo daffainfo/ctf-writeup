@@ -9,7 +9,7 @@ We have been given a compiled file (You can download the file [here](just_passwo
 ![preview](images/preview.png)
 
 ## How to Solve?
-To obtain the flag we need to use `strings` and `grep` command. And the command that I used to read the flag was
+To obtain the flag we need to use `strings` and `grep` command. And the command I used to read the flag was
 
 ```shell
 strings just_password | grep "FLAG"

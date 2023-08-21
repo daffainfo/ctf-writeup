@@ -19,7 +19,7 @@ We have a `txt` file now, but it contains only tabs and spaces. Afterwards, if w
 
 ![metadata](images/metadata.png)
 
-After searching about `Snow steganography`. Now im using stegsnow to get the flag, but we don't know the flag right? I came across this [tool](https://github.com/0xHasanM/SnowCracker) to brute stegsnow password. Here is the command that I used to crack the password
+After searching about `Snow steganography`. Now im using stegsnow to get the flag, but we don't know the flag right? I came across this [tool](https://github.com/0xHasanM/SnowCracker) to brute stegsnow password. Here is the command I used to crack the password
 
 ```shell
 python3 snowcracker.py -c Y -f /home/kali/pengu\ \(5\).jpg.out -w /usr/share/wordlists/rockyou.txt | grep _ -B 1

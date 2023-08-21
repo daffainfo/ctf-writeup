@@ -1,8 +1,6 @@
 # UIUCTF 2023
 CTF writeup for The UIUCTF 2023. I took part in this CTF competition with the TCP1P team, and got 23th place out of 818 teams
 
-Thanks to the team especially @dimasma0305
-
 | Category | Challenge |
 | --- | --- |
 | Crypto | [At Home](/UIUCTF%202023/At%20Home/)

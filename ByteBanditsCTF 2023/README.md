@@ -1,7 +1,5 @@
 # ByteBanditsCTF 2023
-CTF writeup for The ByteBandits CTF 2023. I took part in this CTF competition with the TuX team, and got 14th place out of 225 teams
-
-Thanks to the team especially @dimasma0305 and @dRe
+CTF writeup for The ByteBandits CTF 2023. I took part in this CTF competition with the TuX team, and got 14th place out of 225 teams and @dRe
 
 | Category | Challenge |
 | --- | --- |

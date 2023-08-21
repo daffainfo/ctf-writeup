@@ -92,7 +92,7 @@ vim -R -M -Z -u /home/user/vimrc -i /home/user/viminfo
 cat /flag.txt
 ```
 
-In the last line of the file, the bash script will print the flag. And `:q` means quit from vim. After quitting vim, that bash file will print the flag for us. Here is the final payload that I used to quit from vim
+In the last line of the file, the bash script will print the flag. And `:q` means quit from vim. After quitting vim, that bash file will print the flag for us. Here is the final payload I used to quit from vim
 
 ```
 =Execute(":q")

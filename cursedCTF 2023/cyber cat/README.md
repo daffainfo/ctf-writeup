@@ -5,7 +5,7 @@
 We have been given an image (You can downlod the file [here](cyber_cat.png)) and we need to find the flag inside that image
 
 ## How to Solve?
-To solve this chall, im using `strings` and `grep`. Here is the command that I used
+To solve this chall, im using `strings` and `grep`. Here is the command I used
 
 ```shell
 strings cyber_cat.png | grep "cursed{"

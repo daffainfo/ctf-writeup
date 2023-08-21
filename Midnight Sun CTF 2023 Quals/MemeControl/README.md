@@ -36,7 +36,7 @@ except Exception as e:
 This Python code loads a PyTorch model that has been encoded in base64 format. It starts by printing a banner, which is just a string that contains some ASCII art. Then, it reads a base64-encoded model from standard input and decodes it using the `base64.b64decode()` function. The resulting byte string is then used to load a PyTorch model using the `torch.load()` function. The `map_location` argument is set to cpu, which means that the model is loaded onto the CPU device. Finally, the loaded model is set to evaluation mode using the `model.eval()` function.
 
 ## How to Solve?
-To solve this, i searched about torch vulnerability and I found this [PyTorch issue](https://github.com/pytorch/pytorch/issues/52596) on GitHub. So I tried to use [Python Pickle RCE](https://exploit-notes.hdks.org/exploit/web/framework/python/python-pickle-rce/) payload, and here is the payload that I used to solve the chall
+To solve this, i searched about torch vulnerability and I found this [PyTorch issue](https://github.com/pytorch/pytorch/issues/52596) on GitHub. So I tried to use [Python Pickle RCE](https://exploit-notes.hdks.org/exploit/web/framework/python/python-pickle-rce/) payload, and here is the payload I used to solve the chall
 
 ```python
 import pickle

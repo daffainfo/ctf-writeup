@@ -13,7 +13,7 @@ We have been given a zip file that contains prefetch files (You can download the
 ## How to Solve?
 Unzip the zip file first, and you will see a lot of prefetch files. But there is 1 file called `B@CKD00R.EXE-7CB4E6DE.pf` that has caught my attention
 
-So to parse the `pf` file, you can use [PECmd](https://github.com/EricZimmerman/PECmd) tools or `Prefetch Explorer Command Line`. And here is the command that I used to parse the `B@CKD00R.EXE-7CB4E6DE.pf`
+So to parse the `pf` file, you can use [PECmd](https://github.com/EricZimmerman/PECmd) tools or `Prefetch Explorer Command Line`. And here is the command I used to parse the `B@CKD00R.EXE-7CB4E6DE.pf`
 
 ```
 .\PECmd.exe -f '\Prefetch\Prefetch\B@CKD00R.EXE-7CB4E6DE.pf'

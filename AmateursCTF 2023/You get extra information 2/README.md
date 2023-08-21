@@ -30,7 +30,7 @@ extra_information: 1824707117560643139812211860237178457887547279091531789220704
 ```
 
 ## How to Solve?
-To solve this problem, we need to find the value of prime number first, `p` and `q` and then we can decode the encrypted flag. To find the value of `p` and `q`, i created a program that using Z3 package. Here is the program that I used to find `p` and `q`
+To solve this problem, we need to find the value of prime number first, `p` and `q` and then we can decode the encrypted flag. To find the value of `p` and `q`, i created a program that using Z3 package. Here is the program I used to find `p` and `q`
 
 ```python
 from z3 import *

@@ -29,7 +29,7 @@ Take the decimal number and then convert it to a character and you will get this
 
 ![cyberchef](images/cyberchef.png)
 
-Change the `water_flow_enabled` value from `false` to `true` using modbus-cli (Rewrite the register). Here is the command that I used to solve rewrite the register
+Change the `water_flow_enabled` value from `false` to `true` using modbus-cli (Rewrite the register). Here is the command I used to solve rewrite the register
 
 ```shell
 modbus challenge.nahamcon.com:32299 19=116 # f -> t

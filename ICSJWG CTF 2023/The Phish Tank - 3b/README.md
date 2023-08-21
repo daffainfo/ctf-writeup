@@ -11,7 +11,7 @@
 We need to do reverse engineering on a PDF file to obtain the email (Sorry, I can't provide you the file, because its a malware)
 
 ## How to Solve?
-First, im using static-analysis approach to find the flag and then using [peepdf](https://github.com/jesparza/peepdf). Here is the command that I used
+First, im using static-analysis approach to find the flag and then using [peepdf](https://github.com/jesparza/peepdf). Here is the command I used
 
 ```shell
 python2 peepdf.py -f /home/kali/Downloads/download.pdf -i

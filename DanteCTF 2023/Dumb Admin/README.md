@@ -7,7 +7,7 @@ We have been given a website that contain an admin panel, looks like we need to 
 ![preview](images/preview.png)
 
 ## How to Solve?
-First we need to bypass the admin panel by using SQL injection payload, here is the payload that I used
+First we need to bypass the admin panel by using SQL injection payload, here is the payload I used
 
 ```
 Username: admin' or true-- -

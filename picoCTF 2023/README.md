@@ -1,7 +1,5 @@
 # picoCTF 2023
-CTF writeup for The picoCTF 2023. I took part in this CTF competition with the TCP1P team, and got 579th place out of 6918 teams
-
-Thanks to the team especially @dimasma0305, @rennfurakawa, @Muhammad Reza Pahlevi, @dRe
+CTF writeup for The picoCTF 2023. I took part in this CTF competition with the TCP1P team, and got 579th place out of 6918 teams, @rennfurakawa, @Muhammad Reza Pahlevi, @dRe
 
 | Category | Challenge |
 | --- | --- |

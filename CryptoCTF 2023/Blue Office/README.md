@@ -65,7 +65,7 @@ def decrypt(s, enc):
     return msg
 ```
 
-The decrypt function takes a seed value and an encrypted message, reseeds the seed value, performs a bitwise XOR operation between each byte of the encrypted message and a derived value from the reseeded seed, and returns the decrypted message. And here the final script that i used to solve this chall
+The decrypt function takes a seed value and an encrypted message, reseeds the seed value, performs a bitwise XOR operation between each byte of the encrypted message and a derived value from the reseeded seed, and returns the decrypted message. And here the final script I used to solve this chall
 
 ```python
 #!/usr/bin/enc python3

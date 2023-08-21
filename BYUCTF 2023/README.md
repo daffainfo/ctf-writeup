@@ -1,7 +1,5 @@
 # BYUCTF 2023
-CTF writeup for The BYUCTF 2023. I took part in this CTF competition with the TCP1P team, and got 32th place out of 581 teams
-
-Thanks to the team especially @dimasma0305 and @yuuna
+CTF writeup for The BYUCTF 2023. I took part in this CTF competition with the TCP1P team, and got 32th place out of 581 teams and @yuuna
 
 | Category | Challenge |
 | --- | --- |
