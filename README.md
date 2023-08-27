@@ -14,6 +14,7 @@ There are __396__ writeups that have been made in this repository
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
 | BDSec CTF 2023 | HCS | 1 |
+| h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
 | 0byteCTF 2023 | - | 3 |
 
@@ -97,14 +98,15 @@ List of CTF events that i have joined before
 | DeconstruCT.F 2023 | Yes | [Link](/DeconstruCT.F%202023/) |
 | Tenable CTF 2023 | Yes | [Link](/Tenable%20CTF%202023/) |
 | CCCamp 2023 | Yes | [Link](/CCCamp%202023/) |
-| 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
+| h4ckc0n 2023 | Yes | [Link](/h4ckc0n%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
-| CTF ARA 2023 | Yes | [Link](/CTF%20ARA%202023/) |
-| Unity CTF Qualifier 2023 | No | - |
-| Unity CTF Final 2023 | No | - |
-| Infinity CTF Qualifier 2023 | No | - |
+| 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
 | Infinity CTF Final 2023 | No | - |
+| Infinity CTF Qualifier 2023 | No | - |
+| Unity CTF Final 2023 | No | - |
+| Unity CTF Qualifier 2023 | No | - |
 | JOINTS CTF Qualifier 2023 | No | - |
+| CTF ARA 2023 | Yes | [Link](/CTF%20ARA%202023/) |
