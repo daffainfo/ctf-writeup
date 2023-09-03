@@ -1,5 +1,5 @@
 # bypasser
-`-`
+> `-`
 
 ## About the Challenge
 We are given a website. There is a login page and we need to bypass the login page

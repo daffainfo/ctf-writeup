@@ -1,5 +1,5 @@
 # strings_rev
-`-`
+> `-`
 
 ## About the Challenge
 We have been given a file (You can download the file [here](nicc-rev-jokes))

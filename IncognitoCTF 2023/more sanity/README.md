@@ -1,5 +1,5 @@
 # Bypass 403
-`-`
+> `-`
 
 ## About the Challenge
 We need to find the flag in incognito CTF discord bot

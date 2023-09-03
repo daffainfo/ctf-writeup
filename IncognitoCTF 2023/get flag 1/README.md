@@ -1,5 +1,5 @@
 # get flag 1
-`-`
+> `-`
 
 ## About the Challenge
 We are given a website and we need to get the flag on port `9001`

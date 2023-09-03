@@ -1,5 +1,5 @@
 # XSS 1
-`-`
+> `-`
 
 ## About the Challenge
 We are given a 2 websites (website for testing and bot to get the flag)

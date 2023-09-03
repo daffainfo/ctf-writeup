@@ -1,5 +1,5 @@
 # Colorful
-`-`
+> `-`
 
 ## About the Challenge
 We are given a zip file and inside the zip file there is an image like this

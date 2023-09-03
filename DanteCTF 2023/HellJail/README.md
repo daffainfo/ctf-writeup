@@ -1,5 +1,5 @@
 # HellJail
-`-`
+> `-`
 
 ## About the Challenge
 We have been given a source code like this

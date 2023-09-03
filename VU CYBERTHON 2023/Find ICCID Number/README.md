@@ -1,5 +1,5 @@
 # Find ICCID Number
-`-`
+> `-`
 
 ## About the Challenge
 We need to find the ICCID Number

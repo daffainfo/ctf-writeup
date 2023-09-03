@@ -1,5 +1,5 @@
 # Bruh
-`-`
+> `-`
 
 ## About the Challenge
 We are given a website and a file (You can get the file [here](index.php))

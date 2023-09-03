@@ -1,5 +1,5 @@
 # Bypass 403
-`-`
+> `-`
 
 ## About the Challenge
 We are given a website and we need to bypass the 403 Forbidden

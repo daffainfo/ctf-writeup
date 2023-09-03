@@ -17,6 +17,7 @@ There are __396__ writeups that have been made in this repository
 | h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
 | 0byteCTF 2023 | - | 3 |
+| N45HTCTF2023 | HCS | 3 |
 
 ### Writeup Competitions
 
@@ -99,11 +100,14 @@ List of CTF events that i have joined before
 | Tenable CTF 2023 | Yes | [Link](/Tenable%20CTF%202023/) |
 | CCCamp 2023 | Yes | [Link](/CCCamp%202023/) |
 | h4ckc0n 2023 | Yes | [Link](/h4ckc0n%202023/) |
+| Sekai CTF 2023 | No | - |
+| DownUnderCTF 2023 | Yes | [Link](/DownUnderCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
 | 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
+| N45HTCTF2023 2023 | No | - |
 | Infinity CTF Final 2023 | No | - |
 | Infinity CTF Qualifier 2023 | No | - |
 | Unity CTF Final 2023 | No | - |
