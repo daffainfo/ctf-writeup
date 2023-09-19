@@ -1,5 +1,5 @@
 # Hackpack CTF 2023
-CTF writeup for The Hackpack CTF 2023. I took part in this CTF competition with the TCP1P team, and got 10th place out of 381 teams and @kaelanalysis
+CTF writeup for The Hackpack CTF 2023. I took part in this CTF competition with the TCP1P team and secured the 10th place out of 381 teams and @kaelanalysis
 
 | Category | Challenge |
 | --- | --- |

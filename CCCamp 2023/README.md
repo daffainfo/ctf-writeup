@@ -1,5 +1,5 @@
 # CCCamp 2023
-CTF writeup for The CCCamp 2023. I took part in this CTF competition with the HCS🧙🏻‍♂️ team, and got 26th place out of 142 teams
+CTF writeup for The CCCamp 2023. I took part in this CTF competition with the HCS🧙🏻‍♂️ team and secured the 26th place out of 142 teams
 
 | Category | Challenge |
 | --- | --- |

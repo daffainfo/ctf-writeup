@@ -1,5 +1,5 @@
 # 0xL4ughCTF 2023
-CTF writeup for 0xL4ugh CTF 2023. I took part in this CTF competition with the TCP1P team, and got 2nd place out of 340 teams
+CTF writeup for 0xL4ugh CTF 2023. I took part in this CTF competition with the TCP1P team and secured the 2nd place out of 340 teams
 
 | Category | Challenge |
 | --- | --- |

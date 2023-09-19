@@ -1,5 +1,5 @@
 # KnightCTF 2023
-CTF writeup for KnightCTF 2023. I took part in this CTF competition with the TCP1P team, and got 54th place out of 848 teams
+CTF writeup for KnightCTF 2023. I took part in this CTF competition with the TCP1P team and secured the 54th place out of 848 teams
 
 Thanks to the TCP1P team especially @dimasma0305
 

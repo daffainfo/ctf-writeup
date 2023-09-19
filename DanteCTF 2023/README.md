@@ -1,5 +1,5 @@
 # DanteCTF 2023
-CTF writeup for The DanteCTF 2023. I took part in this CTF competition with the TCP1P team, and got 13th place out of 702 teams and @yuuna
+CTF writeup for The DanteCTF 2023. I took part in this CTF competition with the TCP1P team and secured the 13th place out of 702 teams and @yuuna
 
 | Category | Challenge |
 | --- | --- |

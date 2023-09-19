@@ -1,5 +1,5 @@
 # UTCTF 2023
-CTF writeup for The UTCTF 2023. I took part in this CTF competition with the TCP1P team, and got 58th place out of 336 teams and @muwa00
+CTF writeup for The UTCTF 2023. I took part in this CTF competition with the TCP1P team and secured the 58th place out of 336 teams and @muwa00
 
 | Category | Challenge |
 | --- | --- |

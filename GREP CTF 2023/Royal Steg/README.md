@@ -23,7 +23,7 @@ john -w=/usr/share/wordlists/rockyou.txt hash_steg.txt
 john --show hash_steg.txt
 ```
 
-The `zip2john` tool is used to extract the password hash from a password-protected ZIP file and then next step is  crack the password hash contained in the `hash_steg.txt` file using `rockyou.txt` wordlist
+The `zip2john` tool is used to extract the password hash from a password-protected ZIP file, and the next step is to crack the password hash contained in the `hash_steg.txt` file using the `rockyou.txt` wordlist.
 
 ![john](images/john.png)
 

@@ -1,5 +1,5 @@
 # VU CYBERTHON 2023
-CTF writeup for VU CYBERTHON 2023. I took part in this CTF competition with the TCP1P team, and got 7xth place out of 3xx teams
+CTF writeup for VU CYBERTHON 2023. I took part in this CTF competition with the TCP1P team and secured the 7xth place out of 3xx teams
 
 Thanks to the TCP1P team especially @dRe
 

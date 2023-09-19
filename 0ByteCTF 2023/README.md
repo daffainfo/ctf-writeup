@@ -1,5 +1,5 @@
 # 0ByteCTF 2023
-CTF writeup for The 0ByteCTF 2023. I took part in this CTF competition (Solo), and got 3th place out of 250+ users
+CTF writeup for The 0ByteCTF 2023. I took part in this CTF competition (Solo) and secured the 3th place out of 250+ users
 
 | Category | Challenge |
 | --- | --- |

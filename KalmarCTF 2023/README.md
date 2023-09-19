@@ -1,5 +1,5 @@
 # KalmarCTF 2023
-CTF writeup for KalmarCTF 2023. I took part in this CTF competition with the TCP1P team, and got 55th place out of 905 teams
+CTF writeup for KalmarCTF 2023. I took part in this CTF competition with the TCP1P team and secured the 55th place out of 905 teams
 
 Thanks to the TCP1P team especially @dimasma0305 and @ch0p
 

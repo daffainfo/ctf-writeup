@@ -46,7 +46,7 @@ And we got the image inside
 
 ![POC 6](images/POC%206.jpg)
 
-We download it and we do some `exiftool`, and got interesting link
+We download it and we do some `exiftool` and secured the interesting link
 
 ![POC 7](images/POC%207.jpg)
 

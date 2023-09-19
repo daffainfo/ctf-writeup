@@ -28,7 +28,7 @@ And then i tried to add a parameter named `url` and the value of the parameter i
     "message":"Looking for flag ? Visit https:\/\/hackenproof.com\/user\/security"}
 ```
 
-And after stuck a little bit, i open hackenproof and register to that website and got the flag
+And after stuck a little bit, i open hackenproof and register to that website and secured the the flag
 ```
 KCTF{H4ck3nPr00f3d_bY_Kn16h75qu4d}
 ```

@@ -1,5 +1,5 @@
 # Cyber Apocalypse 2023: The Cursed Mission
-CTF writeup for The Cyber Apocalypse 2023: The Cursed Mission. I took part in this CTF competition with the TCP1P team, and got 125th place out of 6456 teams and @yuuna
+CTF writeup for The Cyber Apocalypse 2023: The Cursed Mission. I took part in this CTF competition with the TCP1P team and secured the 125th place out of 6456 teams and @yuuna
 
 | Category | Challenge |
 | --- | --- |

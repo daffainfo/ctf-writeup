@@ -1,5 +1,5 @@
 # DownUnderCTF 2023
-CTF writeup for The DownUnderCTF 2023. I took part in this CTF competition with the Heroes Cyber Security team, and got 1st place out of 2k teams
+CTF writeup for The DownUnderCTF 2023. I took part in this CTF competition with the Heroes Cyber Security team and secured the 1st place out of 2k teams
 
 | Category | Challenge |
 | --- | --- |

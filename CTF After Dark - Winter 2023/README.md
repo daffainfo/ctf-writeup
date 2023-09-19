@@ -1,5 +1,5 @@
 # CTF After Dark - Winter 2023
-CTF writeup for CTF After Dark - Winter 2023. I took part in this CTF competition with the TCP1P team, and got 7th place out of 368 teams
+CTF writeup for CTF After Dark - Winter 2023. I took part in this CTF competition with the TCP1P team and secured the 7th place out of 368 teams
 
 Thanks to the TCP1P team especially @dimasma0305 and @Rizsyad AR
 

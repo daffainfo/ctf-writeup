@@ -1,5 +1,5 @@
 # CTF ARA 2023
-CTF writeup for The CTF ARA 2023. I took part in this CTF competition solo, and got ~20th? place out of 93 teams
+CTF writeup for The CTF ARA 2023. I took part in this CTF competition solo and secured the ~20th? place out of 93 teams
 
 | Category | Challenge |
 | --- | --- |

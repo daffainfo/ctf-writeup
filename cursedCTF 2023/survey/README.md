@@ -7,7 +7,7 @@ We have been given a server to connect and we need to solve the pow to know the 
 ![preview](images/preview.png)
 
 ## How to Solve?
-At first, I thought i can solve the `pow` by running command `nc mc.ax 31501`. But I was completely wrong, that server is a minecraft server and to obtain the flag we need to play minecraft and got `1 gold` first. And then use the minecraft console to get the ticket
+At first, I thought i can solve the `pow` by running command `nc mc.ax 31501`. But I was completely wrong, that server is a minecraft server and to obtain the flag we need to play minecraft and secured the `1 gold` first. And then use the minecraft console to get the ticket
 
 ![survey](images/survey.png)
 

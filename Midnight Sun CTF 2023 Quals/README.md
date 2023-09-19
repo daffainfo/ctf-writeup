@@ -1,5 +1,5 @@
 # Midnight Sun CTF 2023 Quals
-CTF writeup for Midnight Sun CTF 2023 Quals. I took part in this CTF competition with the my friend, @dRe and got 97th place out of ~349 teams
+CTF writeup for Midnight Sun CTF 2023 Quals. I took part in this CTF competition with my friend, @dRe and secured the 97th place out of ~349 teams
 
 | Category | Challenge |
 | --- | --- |

@@ -14,7 +14,7 @@ The main function is called `vuln` function, then we see code inside
 
 ![POC 2](images/POC%202.jpg)
 
-At  variable `local_30` is have 32 byte size so we need to filled them and make sure the variable `local_10` is equal to `-0x21524111`
+At variable `local_30` is have 32 byte size so we need to filled them and make sure the variable `local_10` is equal to `-0x21524111`
 
 Which is will called the `anyaForger` function and flag inside it
 

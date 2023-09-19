@@ -1,5 +1,5 @@
 # WxMCTF 2023
-CTF writeup for The WxMCTF 2023. I took part in this CTF competition with the my friend, @dRe and got 16th place out of 245 teams
+CTF writeup for The WxMCTF 2023. I took part in this CTF competition with my friend, @dRe and secured the 16th place out of 245 teams
 
 | Category | Challenge |
 | --- | --- |

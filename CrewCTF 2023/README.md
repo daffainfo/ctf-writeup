@@ -1,5 +1,5 @@
 # CrewCTF 2023
-CTF writeup for The CrewCTF 2023. I took part in this CTF competition with the TCP1P team, and got 20th place out of 382 teams
+CTF writeup for The CrewCTF 2023. I took part in this CTF competition with the TCP1P team and secured the 20th place out of 382 teams
 
 | Category | Challenge |
 | --- | --- |

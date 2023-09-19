@@ -1,5 +1,5 @@
 # DaVinci CTF 2023
-CTF writeup for The DaVinci CTF 2023. I took part in this CTF competition with the my friend, @dRe and got 62th place out of 289 teams
+CTF writeup for The DaVinci CTF 2023. I took part in this CTF competition with my friend, @dRe and secured the 62th place out of 289 teams
 
 | Category | Challenge |
 | --- | --- |

@@ -1,5 +1,5 @@
 # RITSEC CTF 2023
-CTF writeup for RITSEC CTF 2023. I took part in this CTF competition with the my friend, @dRe and @DimasMaulana. And we got 85th place out of 717 teams
+CTF writeup for RITSEC CTF 2023. I took part in this CTF competition with my friend, @dRe and @DimasMaulana. And we got 85th place out of 717 teams
 
 | Category | Challenge |
 | --- | --- |

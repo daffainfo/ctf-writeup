@@ -1,5 +1,5 @@
 # OmWars CTF 2023 Quals
-CTF writeup for OmWars CTF 2023 Quals. I took part in this CTF competition with the my friend, @dRe and got 67th place out of ~150 teams
+CTF writeup for OmWars CTF 2023 Quals. I took part in this CTF competition with my friend, @dRe and secured the 67th place out of ~150 teams
 
 | Category | Challenge |
 | --- | --- |

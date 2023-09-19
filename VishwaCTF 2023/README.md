@@ -1,5 +1,5 @@
 # VishwaCTF 2023
-CTF writeup for VishwaCTF 2023. I took part in this CTF competition with the my friend, @dRe and @DimasMaulana. And we got 78th place out of 1086 teams
+CTF writeup for VishwaCTF 2023. I took part in this CTF competition with my friend, @dRe and @DimasMaulana. And we got 78th place out of 1086 teams
 
 | Category | Challenge |
 | --- | --- |

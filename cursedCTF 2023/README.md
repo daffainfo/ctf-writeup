@@ -1,5 +1,5 @@
 # cursedCTF 2023
-CTF writeup for The cursedCTF 2023. I took part in this CTF competition with the TCP1P team, and got 47th place out of 568 teams
+CTF writeup for The cursedCTF 2023. I took part in this CTF competition with the TCP1P team and secured the 47th place out of 568 teams
 
 | Category | Challenge |
 | --- | --- |

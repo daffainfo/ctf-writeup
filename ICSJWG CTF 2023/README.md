@@ -1,5 +1,5 @@
 # ICSJWG CTF 2023
-CTF writeup for The ICSJWG CTF 2023. I took part in this CTF competition with the HCS team, and got 34th place out of 595 teams
+CTF writeup for The ICSJWG CTF 2023. I took part in this CTF competition with the HCS team and secured the 34th place out of 595 teams
 
 | Category | Challenge |
 | --- | --- |

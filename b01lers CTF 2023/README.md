@@ -1,5 +1,5 @@
 # b01lers CTF 2023
-CTF writeup for b01lers CTF 2023. I took part in this CTF competition with the my friend, @dRe and got 102th place out of ~862 teams
+CTF writeup for b01lers CTF 2023. I took part in this CTF competition with my friend, @dRe and secured the 102th place out of ~862 teams
 
 | Category | Challenge |
 | --- | --- |

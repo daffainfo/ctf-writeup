@@ -1,5 +1,5 @@
 # 24h@CTF 2023
-CTF writeup for The 24h@CTF 2023. I took part in this CTF competition (Solo), and got 15th place out of 170 users
+CTF writeup for The 24h@CTF 2023. I took part in this CTF competition (Solo) and secured the 15th place out of 170 users
 
 | Category | Challenge |
 | --- | --- |

@@ -1,5 +1,5 @@
 # SEETF 2023
-CTF writeup for SEETF 2023. I took part in this CTF competition with the HCS (Heroes Cyber Security) team, and got 38th place out of 431 teams
+CTF writeup for SEETF 2023. I took part in this CTF competition with the HCS (Heroes Cyber Security) team and secured the 38th place out of 431 teams
 
 Thanks to the TCP1P team especially @0xazr
 

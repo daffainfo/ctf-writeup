@@ -1,5 +1,5 @@
 # IrisCTF 2023
-CTF writeup for Iris CTF 2023. I took part in this CTF competition with the HCS (Heroes Cyber ​​Security) team, and got 8th place out of 1055 teams
+CTF writeup for Iris CTF 2023. I took part in this CTF competition with the HCS (Heroes Cyber ​​Security) team and secured the 8th place out of 1055 teams
 
 Thanks to the HCS team especially @0xazr and @kos0ng
 

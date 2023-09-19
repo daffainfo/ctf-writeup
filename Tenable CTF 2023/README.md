@@ -1,5 +1,5 @@
 # Tenable CTF 2023
-CTF writeup for The BDSEC CTF 2023. I took part in this CTF competition with the HCS team, and got 5st place out of 1181 teams
+CTF writeup for The BDSEC CTF 2023. I took part in this CTF competition with the HCS team and secured the 5st place out of 1181 teams
 
 | Category | Challenge |
 | --- | --- |

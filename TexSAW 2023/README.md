@@ -1,5 +1,5 @@
 # TexSAW 2023
-CTF writeup for TexSAW 2023. I took part in this CTF competition with the my friend, @dRe and got 32th place out of 247 teams
+CTF writeup for TexSAW 2023. I took part in this CTF competition with my friend, @dRe and secured the 32th place out of 247 teams
 
 | Category | Challenge |
 | --- | --- |

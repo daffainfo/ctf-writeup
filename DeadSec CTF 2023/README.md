@@ -1,5 +1,5 @@
 # DeadSec CTF 2023
-CTF writeup for The DeadSec CTF 2023. I took part in this CTF competition with the TCP1P team, and got 16th place out of 436 teams
+CTF writeup for The DeadSec CTF 2023. I took part in this CTF competition with the TCP1P team and secured the 16th place out of 436 teams
 
 | Category | Challenge |
 | --- | --- |

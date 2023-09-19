@@ -1,5 +1,5 @@
 # GREP CTF 2023
-CTF writeup for GREP CTF 2023. I took part in this CTF competition with the my friend, @dRe. And we got 32th place out of 251 teams
+CTF writeup for GREP CTF 2023. I took part in this CTF competition with my friend, @dRe. And we got 32th place out of 251 teams
 
 | Category | Challenge |
 | --- | --- |
