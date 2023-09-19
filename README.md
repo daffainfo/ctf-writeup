@@ -102,11 +102,15 @@ List of CTF events that i have joined before
 | h4ckc0n 2023 | Yes | [Link](/h4ckc0n%202023/) |
 | Sekai CTF 2023 | No | - |
 | DownUnderCTF 2023 | Yes | [Link](/DownUnderCTF%202023/) |
+| PatriotCTF 2023 | No | - |
+| Cyber Heroines CTF | No | - |
+| Urmia CTF 2023 | No | - |
 | CSAW CTF Qual 2023 2023 | Yes | [Link](/CSAW%20CTF%20Qualification%20Round%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
+| Information and Technology Festival 2023 | No | - |
 | 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
 | N45HTCTF2023 2023 | No | - |
 | Infinity CTF Final 2023 | No | - |
