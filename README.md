@@ -106,6 +106,7 @@ List of CTF events that i have joined before
 | Cyber Heroines CTF | No | - |
 | Urmia CTF 2023 | No | - |
 | CSAW CTF Qual 2023 2023 | Yes | [Link](/CSAW%20CTF%20Qualification%20Round%202023/) |
+| Winja CTF 2023 | Yes | [Link](/Winja%20CTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
