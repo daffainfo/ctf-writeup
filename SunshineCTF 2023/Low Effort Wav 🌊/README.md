@@ -21,7 +21,7 @@
 > There will be no hints given for this challenge by judges. The flag is in standard sun{} format. If anything, we've already given you too much data.
 
 ## About the Challenge
-We got a file called `low_effort.wav` and if we run `file` command:
+We got a file called `low_effort.wav` (You can download the file [here](low_effort.wav)) and if we run `file` command:
 
 ![file](images/file.png)
 
