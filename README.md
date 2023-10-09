@@ -13,6 +13,7 @@ There are __396__ writeups that have been made in this repository
 | ---------- | ---- | ------- |
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
+| Pointer Overflow CTF 2023 | HCS | 1 |
 | BDSec CTF 2023 | HCS | 1 |
 | h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
@@ -107,6 +108,8 @@ List of CTF events that i have joined before
 | Urmia CTF 2023 | No | - |
 | CSAW CTF Qual 2023 2023 | Yes | [Link](/CSAW%20CTF%20Qualification%20Round%202023/) |
 | Winja CTF 2023 | Yes | [Link](/Winja%20CTF%202023/) |
+| Buckeye CTF 2023 | Yes | [Link](/Buckeye%20CTF%202023/) |
+| SunshineCTF 2023 | Yes | [Link](/SunshineCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
