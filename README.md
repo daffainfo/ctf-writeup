@@ -110,6 +110,7 @@ List of CTF events that i have joined before
 | Winja CTF 2023 | Yes | [Link](/Winja%20CTF%202023/) |
 | Buckeye CTF 2023 | Yes | [Link](/Buckeye%20CTF%202023/) |
 | SunshineCTF 2023 | Yes | [Link](/SunshineCTF%202023/) |
+| DefCamp Capture the Flag (D-CTF) 2023 Quals | Yes | [Link](/DefCamp%20Capture%20the%20Flag%20(D-CTF)%202023%20Quals/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
