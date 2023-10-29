@@ -5,7 +5,7 @@ This repository shall comprise writeups concerning Capture The Flag (CTF) compet
 This is a list of wins we have achieved while participating in several CTF competitions
 
 ### Total Writeups
-There are __396__ writeups that have been made in this repository
+There are __461__ CTF writeups that have been made in this repository
 
 ### CTF Competitions
 
@@ -13,12 +13,19 @@ There are __396__ writeups that have been made in this repository
 | ---------- | ---- | ------- |
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
-| Pointer Overflow CTF 2023 | HCS | 1 |
-| BDSec CTF 2023 | HCS | 1 |
+| Pointer Overflow CTF 2023 | Heroes Cyber Security | 1 |
+| BDSec CTF 2023 | Heroes Cyber Security | 1 |
 | h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
 | 0byteCTF 2023 | - | 3 |
-| N45HTCTF2023 | HCS | 3 |
+| N45HTCTF2023 | Heroes Cyber Security | 3 |
+
+### Finalists CTF Competitions
+| Event Name |
+| ---------- |
+| ASEAN Student Contest on Information Security Qualification 2023 |
+| Infinity 2023 |
+| UNITY 2023 |
 
 ### Writeup Competitions
 
@@ -111,6 +118,10 @@ List of CTF events that i have joined before
 | Buckeye CTF 2023 | Yes | [Link](/Buckeye%20CTF%202023/) |
 | SunshineCTF 2023 | Yes | [Link](/SunshineCTF%202023/) |
 | DefCamp Capture the Flag (D-CTF) 2023 Quals | Yes | [Link](/DefCamp%20Capture%20the%20Flag%20(D-CTF)%202023%20Quals/) |
+| ASEAN Student Contest on Information Security Qualification 2023 | No | - |
+| ASEAN Student Contest on Information Security Semi-Final 2023 | No | - |
+| Srdnlen CTF 2023 | Yes | [Link](/Srdnlen%20CTF%202023/) |
+| BlueHens CTF 2023 | Yes | [Link](/BlueHens%20CTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
