@@ -1,5 +1,5 @@
 # CSAW CTF Qualification Round 2023
-CTF writeup for The CSAW CTF Qualification Round 2023. I took part in this CTF competition with the TCP1P team and secured the 67th place out of 1098 teams
+CTF writeup for The CSAW CTF Qualification Round 2023. I took part in this CTF competition with the HCS team and secured the 67th place out of 1098 teams
 
 | Category | Challenge |
 | --- | --- |
