@@ -14,7 +14,7 @@ jobs:
       with:
         python-version: '3.10'
     - name: Run Python script
-      run: python .github/scripts/update_readme.py
+      run: python ../.github/scripts/update_readme.py
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
