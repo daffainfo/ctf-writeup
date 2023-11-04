@@ -11,4 +11,5 @@ CTF writeup for The EKOPARTY CTF 2023 2023. I took part in this CTF competition 
 | Ekonet | [Rulez](/EKOPARTY%20CTF%202023/Rulez/)
 | Ekonet | [Quotes](/EKOPARTY%20CTF%202023/Quotes/)
 | Ekonet | [Sync](/EKOPARTY%20CTF%202023/Sync/)
+| Ekonet | [Future](/EKOPARTY%20CTF%202023/Future/)
 | Ekonet | [Who](/EKOPARTY%20CTF%202023/Who/)
