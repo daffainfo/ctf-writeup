@@ -2,7 +2,7 @@
 > A friend told me that they are creating a new celestial network, way better than our Internet even though it is based on some long forgotten tech. Do you have the skills to find the Holy Record? Start your search at gates.hell.dantectf.
 
 ## About the Challenge
-We have been given a server, and we need to check the records of the server, for example `NS`, `A`, etc.
+We were given a server, and we need to check the records of the server, for example `NS`, `A`, etc.
 
 ## How to Solve?
 Well, this is how I solved the challenge: first, I checked the `gates.hell.dantectf` using the `dig` command. You will see there is a subdomain in the `ANSWER SECTION`, and you need to look up that subdomain and find more information by checking another records. Repeat that step until you obtain the flag.

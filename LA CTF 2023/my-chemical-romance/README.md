@@ -2,7 +2,7 @@
 > When I was... a young boy... I made a "My Chemical Romance" fanpage!
 
 ## About the Challenge
-We have been given a website about My Chemical Romance
+We were given a website about My Chemical Romance
 
 ## How to Solve?
 First if we check the response header, there is an interesting header:

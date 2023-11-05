@@ -2,7 +2,7 @@
 > The first thing I want to give everyone is chocolate, of course. I found this wonderful company that sells the most exquisite chocolates, but I heard that they sell a super special secret valentine chocolate that's hidden somewhere on their website. Here's the website, do you think you can find it for me?
 
 ## About the Challenge
-We have been given a website, and the website will look like this
+We were given a website, and the website will look like this
 
 ![preview](images/preview.png)
 

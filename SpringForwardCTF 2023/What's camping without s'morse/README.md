@@ -6,7 +6,7 @@
 > Format: nicc{words_separated_by_underscores}
 
 ## About the Challenge
-We have been given a `.wav` file (You can download the file [here](hmmmm.wav))
+We were given a `.wav` file (You can download the file [here](hmmmm.wav))
 
 ## How to Solve?
 Just use morse code translator online to get the flag

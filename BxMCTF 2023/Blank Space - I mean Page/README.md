@@ -4,7 +4,7 @@
 > https://bxmweb1.jonathanw.dev/
 
 ## About the Challenge
-We have been given a very simple website
+We were given a very simple website
 
 ![preview](images/preview.png)
 

@@ -4,7 +4,7 @@
 > Additional details will be available after launching your challenge instance.
 
 ## About the Challenge
-We have been given an access to SSH server and then there is a file called `bin` and if we run the file
+We were given an access to SSH server and then there is a file called `bin` and if we run the file
 
 ![preview](images/preview.png)
 

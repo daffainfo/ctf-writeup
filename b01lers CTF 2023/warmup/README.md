@@ -2,7 +2,7 @@
 > My first flask app, I hope you like it
 
 ## About the Challenge
-We have been given a website without source code
+We were given a website without source code
 
 ![preview](images/preview.png)
 

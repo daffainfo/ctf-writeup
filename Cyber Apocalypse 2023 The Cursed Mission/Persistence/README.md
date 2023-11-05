@@ -2,7 +2,7 @@
 > Thousands of years ago, sending a GET request to /flag would grant immense power and wisdom. Now it's broken and usually returns random data, but keep trying, and you might get lucky... Legends say it works once every 1000 tries.
 
 ## About the Challenge
-We have been given a website, and we need to access `/flag` continously to get the flag
+We were given a website, and we need to access `/flag` continously to get the flag
 
 ![preview](images/preview.png)
 

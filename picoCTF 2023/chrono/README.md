@@ -2,7 +2,7 @@
 > How to automate tasks to run at intervals on linux servers?
 
 ## About the Challenge
-We have been given an access to SSH server and then we need to find the flag in the server
+We were given an access to SSH server and then we need to find the flag in the server
 
 ## How to Solve?
 If we read the description of the flag, we can assume the flag was located on the cron file, so to solve this chall im using this command

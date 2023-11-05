@@ -2,7 +2,7 @@
 > I made a secure php web app where I can upload all my gifs. Some people on the internet told me to run it in a docker container just to protect it from my personal files, but who cares.
 
 ## About the Challenge
-We have been given a plain website that has the functionality to upload a GIF file.
+We were given a plain website that has the functionality to upload a GIF file.
 
 ![preview](images/preview.png)
 

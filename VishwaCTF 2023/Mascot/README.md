@@ -2,7 +2,7 @@
 > Very gracious host!!
 
 ## About the Challenge
-We have been given a website where we can play tic-tac-toe games.
+We were given a website where we can play tic-tac-toe games.
 
 ![preview](images/preview.png)
 

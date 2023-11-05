@@ -4,7 +4,7 @@
 > I'm sure there's a flag floating around, can you find it?
 
 ## About the Challenge
-We have been given a website and a source code. (You can download the source code [here](server.zip))
+We were given a website and a source code. (You can download the source code [here](server.zip))
 
 ![preview](images/preview.png)
 

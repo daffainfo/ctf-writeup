@@ -2,7 +2,7 @@
 > `-`
 
 ## About the Challenge
-We have been given a website that contains a form and we can input a host there
+We were given a website that contains a form and we can input a host there
 
 ![preview_1](images/preview_1.png)
 

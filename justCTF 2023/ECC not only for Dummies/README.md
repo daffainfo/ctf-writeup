@@ -2,7 +2,7 @@
 > This time you will need to use all logic that you have
 
 ## About the Challenge
-We have been given a server to connect and also the source code. So we can input 8 questions and we need to guess the cards too (You can download the source code [here](ecc_not_only_for_dummies.zip))
+We were given a server to connect and also the source code. So we can input 8 questions and we need to guess the cards too (You can download the source code [here](ecc_not_only_for_dummies.zip))
 
 ![preview](images/preview.png)
 

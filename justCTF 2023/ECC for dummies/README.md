@@ -2,7 +2,7 @@
 > Sometimes you have to force logic to do what you want it to do
 
 ## About the Challenge
-We have been given a server to connect and also the source code. So we can input 8 questions and we need to guess the cards too (You can download the source code [here](ecc_for_dummies.zip))
+We were given a server to connect and also the source code. So we can input 8 questions and we need to guess the cards too (You can download the source code [here](ecc_for_dummies.zip))
 
 ![preview](images/preview.png)
 

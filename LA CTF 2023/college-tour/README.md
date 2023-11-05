@@ -2,7 +2,7 @@
 > Welcome to UCLA! To explore the #1 public college, we have prepared a scavenger hunt for you to walk all around the beautiful campus.
 
 ## About the Challenge
-We have been given a website and we need to find 6 parts of the flag. Here is the preview of the website
+We were given a website and we need to find 6 parts of the flag. Here is the preview of the website
 
 ![preview](images/preview.png)
 

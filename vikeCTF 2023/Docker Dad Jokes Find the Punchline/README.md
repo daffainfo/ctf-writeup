@@ -2,7 +2,7 @@
 > Did vikings have dad jokes back in the day? Well, I know one thing for sure, these dad jokes are great!
 
 ## About the Challenge
-We have been given `.tar.gz` file and if we check the content of the file, there are some folders. Here is the preview
+We were given `.tar.gz` file and if we check the content of the file, there are some folders. Here is the preview
 
 ![preview](images/preview.png)
 

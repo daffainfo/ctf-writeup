@@ -6,7 +6,7 @@
 > wait 5 sec, after start (long boot process)
 
 ## About the Challenge
-We have been given a website, and if we access the `/spice.php` endpoint the website will leak the source code
+We were given a website, and if we access the `/spice.php` endpoint the website will leak the source code
 
 ```php
 <?php

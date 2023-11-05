@@ -2,7 +2,7 @@
 > attach.......to get universe
 
 ## About the Challenge
-We have been given a server to connect and the source code
+We were given a server to connect and the source code
 ```
 nc chall.foobar.nitdgplug.org 30011
 ```

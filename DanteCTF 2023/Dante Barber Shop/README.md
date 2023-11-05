@@ -2,7 +2,7 @@
 > Welcome to our renowned barber shop! Your task, should you choose to accept it, is to uncover hidden information and retrieve the sensitive data that the owners may have left around.
 
 ## About the Challenge
-We have been given a website about barber, there are 6 images in the homepage
+We were given a website about barber, there are 6 images in the homepage
 
 ![preview](images/preview.png)
 

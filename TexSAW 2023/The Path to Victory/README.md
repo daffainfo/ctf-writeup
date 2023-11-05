@@ -2,7 +2,7 @@
 > A elite team of marine biologists have been working to genetically modify mantis shrimp into the ultimate killing machines. Your mission is to exploit vulnerabilities in the enemies website and retrieve session keys (the flag) in order to help bring the organization down.
 
 ## About the Challenge
-We have been given a simple website that contains an information about shrimp
+We were given a simple website that contains an information about shrimp
 
 ![preview](images/preview.png)
 

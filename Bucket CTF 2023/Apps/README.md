@@ -2,7 +2,7 @@
 > I made a small app when I was 9 years old first learning to code.
 
 ## About the Challenge
-We have been given a file (You can download the file [here](CTF.aia)) and we need to do reverse engineering in order to get the flag
+We were given a file (You can download the file [here](CTF.aia)) and we need to do reverse engineering in order to get the flag
 
 ## How to Solve?
 Im using this [website](https://filext.com/file-extension/AIA) to analyze the file. And we got this structure

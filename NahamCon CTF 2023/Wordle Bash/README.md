@@ -4,7 +4,7 @@
 > Oh, and you aren't guessing words, this time...
 
 ## About the Challenge
-We have been given a SSH server to connect, and after connect we got a bash file called `wordle_bash.sh`. Here is the content of the file
+We were given a SSH server to connect, and after connect we got a bash file called `wordle_bash.sh`. Here is the content of the file
 
 ```shell
 #!/bin/bash

@@ -2,7 +2,7 @@
 > Hello and welcome to cursed ctf for real. glad you read the rules lets go.
 
 ## About the Challenge
-We have been given a server to connect and we need to find the `sanity check` flag from each CTF competition
+We were given a server to connect and we need to find the `sanity check` flag from each CTF competition
 
 ![preview](images/preview.png)
 

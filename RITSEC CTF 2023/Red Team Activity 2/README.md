@@ -4,7 +4,7 @@
 > Note: Flag format is RS{MD5sum(<answer string>)}
 
 ## About the Challenge
-We have been given a log file (You can download the file [here](auth.log)) and we need to find the malicious service
+We were given a log file (You can download the file [here](auth.log)) and we need to find the malicious service
 
 ## How to Solve?
 To do this, I attempted to search the log file using the keyword `.service`, and discovered a strange service named `bluetoothd.service`

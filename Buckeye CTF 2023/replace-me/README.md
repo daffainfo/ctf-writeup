@@ -2,7 +2,7 @@
 > I knew I shouldn't have gotten a cheap phone :/
 
 ## About the Challenge
-We have been given a boot image file (You can download the file [here](dist)), and we need to find the flag there
+We were given a boot image file (You can download the file [here](dist)), and we need to find the flag there
 
 ## How to Solve?
 First, you can use `file` command in linux to find out the type of file to be analyzed

@@ -4,7 +4,7 @@
 > Additional details will be available after launching your challenge instance.
 
 ## About the Challenge
-We have been given access to an SSH server, and there are 3 files in the `/home/ctf-player` directory. The files are `flag.txt` which contains the flag, `src.cpp` the source code of the file, and `txtreader` the compiled src.cpp file. Here is the content of the `src.cpp`
+We were given access to an SSH server, and there are 3 files in the `/home/ctf-player` directory. The files are `flag.txt` which contains the flag, `src.cpp` the source code of the file, and `txtreader` the compiled src.cpp file. Here is the content of the `src.cpp`
 
 ```cpp
 #include <iostream>

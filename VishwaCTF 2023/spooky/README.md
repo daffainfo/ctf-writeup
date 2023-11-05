@@ -2,7 +2,7 @@
 > I forgot my login credentials again!!
 
 ## About the Challenge
-We have been given a website that has a login form
+We were given a website that has a login form
 
 ![preview](images/preview.png)
 

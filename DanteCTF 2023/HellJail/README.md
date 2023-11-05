@@ -2,7 +2,7 @@
 > `-`
 
 ## About the Challenge
-We have been given a source code like this
+We were given a source code like this
 
 ```python
 #!/usr/bin/env python3

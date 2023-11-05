@@ -4,7 +4,7 @@
 > https://echoes-web.challenges.ctf.ritsec.club/
 
 ## About the Challenge
-We have been given a website that has a functionality print our input
+We were given a website that has a functionality print our input
 
 ![preview](images/preview.png)
 

@@ -8,7 +8,7 @@
 > Flag format: value of the lt variable. Example: if cookie contained a=0&lt=12345&b=0, the flag would be 12345
 
 ## About the Challenge
-We have been given a `crx` file (You can download the extension [here](chickenchickenstop-privacy-kit.crx)) and we need to find the value of the `lt` variable in the cookie
+We were given a `crx` file (You can download the extension [here](chickenchickenstop-privacy-kit.crx)) and we need to find the value of the `lt` variable in the cookie
 
 ## How to Solve?
 We need to unzip the chrome extension first and as you can see there is a file called `background.js`

@@ -2,7 +2,7 @@
 > hi
 
 ## About the Challenge
-We have been given a website with no source code and if we open the website, the website is only black and white
+We were given a website with no source code and if we open the website, the website is only black and white
 
 ![preview](images/preview.png)
 

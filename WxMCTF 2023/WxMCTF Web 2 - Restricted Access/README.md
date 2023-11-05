@@ -4,7 +4,7 @@
 > Access the challenge right here: https://weba.jonathanw.dev:3002/
 
 ## About the Challenge
-We have been given a website and we need to change some headers to get the flag
+We were given a website and we need to change some headers to get the flag
 
 ![preview](images/preview.png)
 

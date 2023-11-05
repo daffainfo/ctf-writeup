@@ -2,7 +2,7 @@
 > Read the flag (/flag)
 
 ## About the Challenge
-We have been given a source code (You can download the file [here](baby-simple-gocurl_3e562770d3be9c9d047169c7b235281b.tar.gz)) also we need to access `/flag` to get the flag
+We were given a source code (You can download the file [here](baby-simple-gocurl_3e562770d3be9c9d047169c7b235281b.tar.gz)) also we need to access `/flag` to get the flag
 
 ![preview](images/preview.png)
 

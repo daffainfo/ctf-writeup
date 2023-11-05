@@ -2,7 +2,7 @@
 > flag in flag.txt
 
 ## About the Challenge
-We have been given a website that contains a login page
+We were given a website that contains a login page
 
 ![preview](images/preview.png)
 

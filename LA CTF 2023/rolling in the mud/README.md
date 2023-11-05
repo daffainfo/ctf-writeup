@@ -6,7 +6,7 @@
 > Answer in lowercase with symbols. In the image, { and } are characters that should appear in your flag, and replace spaces with _.
 
 ## About the Challenge
-We have been given an image and we need to decode the msg
+We were given an image and we need to decode the msg
 
 ![cipher](images/cipher.png)
 

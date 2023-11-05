@@ -6,7 +6,7 @@
 > The flag format for this problem is different from the rest, it is: ctf{[!-z]{6,128}} (the part inside the bracket can be any string of 6-128 printable ASCII characters, including letters, numbers, and symbols).
 
 ## About the Challenge
-We have been given a zip file that contains 3 files: `Document 1.txt`, `Document 2.txt`, and `main.py`. Here is the content of `main.py`
+We were given a zip file that contains 3 files: `Document 1.txt`, `Document 2.txt`, and `main.py`. Here is the content of `main.py`
 
 ```python
 import math

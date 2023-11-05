@@ -2,7 +2,7 @@
 > The twins Alice and Bob are so close that they share everything, even the modulus of their RSA keys.
 
 ## About the Challenge
-We have been given a zip file (you can get the source code [here](twin.zip)), and inside the file, there are four files. The first file is named `cipher`, which contains ciphertext. There is also a file named `chall.py` that contains a Python script to encrypt the flag, as well as two files named `key1.pem` and `key2.pem`, which are RSA public keys.
+We were given a zip file (you can get the source code [here](twin.zip)), and inside the file, there are four files. The first file is named `cipher`, which contains ciphertext. There is also a file named `chall.py` that contains a Python script to encrypt the flag, as well as two files named `key1.pem` and `key2.pem`, which are RSA public keys.
 
 ## How to Solve?
 If we check on the `chall.py`

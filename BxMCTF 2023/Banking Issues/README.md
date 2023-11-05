@@ -6,7 +6,7 @@
 > Unfortunately, you only have $16 left in your bank account. Feeling too poor to even sing along to Taylor Swift in the car (after all, the radio needs power, which costs money), you wonder, if only there was a way for me to pull off a bank heist and get a hundred thousand dollars…
 
 ## About the Challenge
-We have been given a `zip` file that contains a `Dockerfile` and a script python. Here is the content of the script
+We were given a `zip` file that contains a `Dockerfile` and a script python. Here is the content of the script
 
 ```python
 #!/usr/local/bin/python

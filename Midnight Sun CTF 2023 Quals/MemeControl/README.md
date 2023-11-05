@@ -2,7 +2,7 @@
 > Internet memes are getting out of control! Submit a pytorch model that catches illegal memes to earn a flag
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](memecontrol.tgz)). And if you extract the zip file, there is a python code. Here is the content of the source code
+We were given a zip file (You can download the file [here](memecontrol.tgz)). And if you extract the zip file, there is a python code. Here is the content of the source code
 
 ```python
 import io

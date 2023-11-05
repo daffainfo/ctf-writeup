@@ -10,7 +10,7 @@
 > Side note: why aren't there any pigeons in zoos?
 
 ## About the Challenge
-We have been given a `zip` file that contains 2 folders called `first_devices` and `second_devices`. And in these folders there is information related to the device such as the device name, then there is a kind of file containing passwords and so on. And our goal is to get the password of the two devices
+We were given a `zip` file that contains 2 folders called `first_devices` and `second_devices`. And in these folders there is information related to the device such as the device name, then there is a kind of file containing passwords and so on. And our goal is to get the password of the two devices
 
 ## How to Solve?
 

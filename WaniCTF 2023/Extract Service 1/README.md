@@ -4,7 +4,7 @@
 > The secret information is written in the /flag file on the server, but it should be safe, right...? Let's see what kind of HTTP request is sent!
 
 ## About the Challenge
-We have been given a website and a source code (You can download the file [here](web-extract1.zip)). This website can read the docx, xlsx, and pptx files that we have uploaded
+We were given a website and a source code (You can download the file [here](web-extract1.zip)). This website can read the docx, xlsx, and pptx files that we have uploaded
 
 ![preview](images/preview.png)
 

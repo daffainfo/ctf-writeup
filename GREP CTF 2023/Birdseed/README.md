@@ -2,7 +2,7 @@
 > Now that my program is truly random, you'll never be able to guess the flag.
 
 ## About the Challenge
-We have been given 2 files:
+We were given 2 files:
 * [encrypt.py](encrypt.py)
 * [out.txt](out.txt)
 

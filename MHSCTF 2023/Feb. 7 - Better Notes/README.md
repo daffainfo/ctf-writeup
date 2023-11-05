@@ -4,7 +4,7 @@
 > The `valentine{...}` wrapper is included in the encrypted text.
 
 ## About the Challenge
-We have been given a python code, and the code will look like this
+We were given a python code, and the code will look like this
 ```python
 from base64 import b64encode
 

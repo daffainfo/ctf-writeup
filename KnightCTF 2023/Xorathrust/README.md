@@ -2,7 +2,7 @@
 > Read the script and solve the problem.
 
 ## About the Challenge
-We have been given a python script to encrypt the flag and the encrypted file. And if we open the script, the script will be look like this
+We were given a python script to encrypt the flag and the encrypted file. And if we open the script, the script will be look like this
 
 ```python
 def main():

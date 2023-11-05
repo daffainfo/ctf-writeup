@@ -2,7 +2,7 @@
 > After a lifetime of preparation, the moment has arrived to enlist in the esteemed military of the United Nations of Zenium as an expert in blockchain security. Before embarking on your duties, there is a small matter of paperwork that requires your attention.
 
 ## About the Challenge
-We have been given a zip file that contains a solidarity contract, here is the content of `Contract.sol`
+We were given a zip file that contains a solidarity contract, here is the content of `Contract.sol`
 
 ```s
 // SPDX-License-Identifier: UNLICENSED

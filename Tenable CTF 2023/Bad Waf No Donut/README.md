@@ -2,7 +2,7 @@
 > I made a simple little backdoor into my network to test some things. Let me know if you find any problems with it.
 
 ## About the Challenge
-We have been given a very simple website without any source code, here is the preview of the website
+We were given a very simple website without any source code, here is the preview of the website
 
 ![Alt text](images/image.png)
 

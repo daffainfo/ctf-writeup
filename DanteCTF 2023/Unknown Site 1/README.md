@@ -2,7 +2,7 @@
 > Just a web warmup challenge to keep the bots away. Enjoy it.
 
 ## About the Challenge
-We have been given a very plain website and we need to find the flag inside the website
+We were given a very plain website and we need to find the flag inside the website
 
 ![preview](images/preview.png)
 

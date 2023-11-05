@@ -4,7 +4,7 @@
 > The debug version works on the site. We believe there is no way to get the flag now, but you can try!
 
 ## About the Challenge
-We have been given a source (You can download the source code [here](source.zip)) and also the website. Here is the preview of the website
+We were given a source (You can download the source code [here](source.zip)) and also the website. Here is the preview of the website
 
 ![preview](images/preview.png)
 

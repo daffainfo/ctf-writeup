@@ -8,7 +8,7 @@
 > This problem was inspired by an online judge platform that shall not be named.
 
 ## About the Challenge
-We have been givena a `zip` file that contain a python script. Here is the content of the script
+We were givena a `zip` file that contain a python script. Here is the content of the script
 
 ```python
 #!/usr/local/bin/python

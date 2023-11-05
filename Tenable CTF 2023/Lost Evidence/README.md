@@ -2,7 +2,7 @@
 > Someone hacked into our system and deleted most of the evidence we have against a certain group. All we have left is this seemingly random dump of garbage. See if you can uncover any secrets it may contain.
 
 ## About the Challenge
-We have been given a file called `lost_evidence` and we need to find the flag in this file
+We were given a file called `lost_evidence` and we need to find the flag in this file
 
 ## How to Solve?
 Initially, my team and I didn't know what this file was about. As I began searching for a specific string using the regex pattern `_.*_.*_` since flags typically involve underscore characters. I came across a peculiar text like this

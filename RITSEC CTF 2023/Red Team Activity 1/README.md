@@ -4,7 +4,7 @@
 > Note: Flag format is RS{MD5sum(<answer string>)}
 
 ## About the Challenge
-We have been given a log file (You can download the file [here](auth.log)) and we need to find the script name
+We were given a log file (You can download the file [here](auth.log)) and we need to find the script name
 
 ## How to Solve?
 To do this, I attempted to search the log file using the keyword `.sh`, and discovered a strange script named `_script2980.sh`.

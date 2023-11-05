@@ -2,7 +2,7 @@
 > Encoding random stuffs is so cool! I just want to encode it over and over and over again ...
 
 ## About the Challenge
-We have been given a python script to encrypt the flag and the encrypted file. And if we open the script, the script will be look like this
+We were given a python script to encrypt the flag and the encrypted file. And if we open the script, the script will be look like this
 
 ```python
 import base64

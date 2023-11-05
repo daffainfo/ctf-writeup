@@ -2,7 +2,7 @@
 > Solve the puzzle using web development basics.
 
 ## About the Challenge
-We have been given a very simple website, and upon checking the source code of the website, we found that it has only one JavaScript file
+We were given a very simple website, and upon checking the source code of the website, we found that it has only one JavaScript file
 
 ![preview](images/preview.png)
 

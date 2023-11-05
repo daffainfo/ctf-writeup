@@ -2,7 +2,7 @@
 > The flag used to fly high in the morning light, but the undead (bots) kept trying to steal it. Now we keep it in the vault of Asgaard itself! No undead fiends dare pass the test at the gates.
 
 ## About the Challenge
-We have been given a website that contain a login form and a captcha
+We were given a website that contain a login form and a captcha
 
 ![preview](images/preview.png)
 

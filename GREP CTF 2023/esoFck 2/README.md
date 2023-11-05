@@ -2,7 +2,7 @@
 > 2 levels of eso should make my message impossible to decipher.
 
 ## About the Challenge
-We have been given a file (You can download the file [here](msg.txt)) and we need to decode it to obtain the flag
+We were given a file (You can download the file [here](msg.txt)) and we need to decode it to obtain the flag
 
 ## How to Solve?
 Im only using this [website](https://www.splitbrain.org/_static/ook/) to decode the msg file. Decode it by pressing `Brainfuck to Text` button

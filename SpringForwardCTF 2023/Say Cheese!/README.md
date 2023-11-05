@@ -4,7 +4,7 @@
 > nicc{MakeWord1_MakeWord2_ModelWord1_ModelWord2}
 
 ## About the Challenge
-We have been given a photo and we need to get the flag from the photo (You can download the photo [here](Selfie.jpg))
+We were given a photo and we need to get the flag from the photo (You can download the photo [here](Selfie.jpg))
 
 ## How to Solve?
 Use tools like `exifdata` to check the metadata of the file

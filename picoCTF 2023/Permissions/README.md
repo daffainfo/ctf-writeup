@@ -2,7 +2,7 @@
 > Can you read files in the root file?
 
 ## About the Challenge
-We have been given an access to SSH server and then we need to read the flag in the `root` directory
+We were given an access to SSH server and then we need to read the flag in the `root` directory
 
 ## How to Solve?
 If we check the `sudo` configuration

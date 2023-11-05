@@ -4,7 +4,7 @@
 > $ socat file:$(tty),raw,echo=0 tcp:corny-kernel.chal.uiuc.tf:1337
 
 ## About the Challenge
-We have been given a `c` file called `pwnymodule.c` and here is the content of `pwnymodule.c`
+We were given a `c` file called `pwnymodule.c` and here is the content of `pwnymodule.c`
 
 ```c
 // SPDX-License-Identifier: GPL-2.0-only

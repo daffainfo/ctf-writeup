@@ -8,7 +8,7 @@
 > Note: A Windows machine or Windows VM is recommended for solving this challenge.
 
 ## About the Challenge
-We have been given a zip file that contains prefetch files (You can download the file [here](Prefetch.zip)). We need to find the full directory path of malicious executable 
+We were given a zip file that contains prefetch files (You can download the file [here](Prefetch.zip)). We need to find the full directory path of malicious executable 
 
 ## How to Solve?
 Unzip the zip file first, and you will see a lot of prefetch files. But there is 1 file called `B@CKD00R.EXE-7CB4E6DE.pf` that has caught my attention

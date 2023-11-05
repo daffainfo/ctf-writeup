@@ -4,7 +4,7 @@
 > Could be that's how whoever is behind the weird stuff on campus is communicating? We're looking for something from someone named RB.
 
 ## About the Challenge
-We have been given a `pcapng` file (You can get the flag [here](caughtin2023.pcapng)), so we need Wireshark to open the file
+We were given a `pcapng` file (You can get the flag [here](caughtin2023.pcapng)), so we need Wireshark to open the file
 
 ![preview](images/preview.png)
 

@@ -2,7 +2,7 @@
 > Don't power users get tired of making spelling mistakes in the shell? Not anymore! Enter Special, the Spell Checked Interface for Affecting Linux. Now, every word is properly spelled and capitalized... automatically and behind-the-scenes! Be the first to test Special in beta, and feel free to tell us all about how Special streamlines every development process that you face. When your co-workers see your amazing shell interface, just tell them: That's Special (TM)
 
 ## About the Challenge
-We have been given an access to SSH server and we need to find the flag in the server (But there is an autocorrect if we input some commands)
+We were given an access to SSH server and we need to find the flag in the server (But there is an autocorrect if we input some commands)
 
 ![preview](images/preview.png)
 

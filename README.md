@@ -122,7 +122,8 @@ List of CTF events that i have joined before
 | ASEAN Student Contest on Information Security Semi-Final 2023 | No | - |
 | Srdnlen CTF 2023 | Yes | [Link](/Srdnlen%20CTF%202023/) |
 | BlueHens CTF 2023 | Yes | [Link](/BlueHens%20CTF%202023/) |
-| EKOPARTY CTF 2023 | Yes | [Link](/BlueHens%20CTF%202023/) |
+| EKOPARTY CTF 2023 | Yes | [Link](/EKOPARTY%20CTF%202023/) |
+| TSG CTF 2023 | Yes | [Link](/TSG%20CTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |

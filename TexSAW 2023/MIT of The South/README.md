@@ -2,7 +2,7 @@
 > Welcome to UTD! We like to call ourselves the MIT of the South (not really). The flag for this challenge is hidden in one of the classrooms, can you find it?
 
 ## About the Challenge
-We have been given a very simple website that contains only 1 image
+We were given a very simple website that contains only 1 image
 
 ![preview](images/preview.png)
 

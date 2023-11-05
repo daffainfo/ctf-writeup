@@ -2,7 +2,7 @@
 > Come submit your flags for all to see!
 
 ## About the Challenge
-We have been given a website and we need to find the flag there
+We were given a website and we need to find the flag there
 
 ![preview](images/preview.png)
 

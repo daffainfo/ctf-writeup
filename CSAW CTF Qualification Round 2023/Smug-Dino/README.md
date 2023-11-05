@@ -2,7 +2,7 @@
 > Don't you know it's wrong to smuggle dinosaurs... and other things?
 
 ## About the Challenge
-We have been given a website, and this website have 2 endpoints, `/` and `/hint`. This is what the `/hint` endpoint looks like
+We were given a website, and this website have 2 endpoints, `/` and `/hint`. This is what the `/hint` endpoint looks like
 
 ![form_hint](images/form_hint.png)
 

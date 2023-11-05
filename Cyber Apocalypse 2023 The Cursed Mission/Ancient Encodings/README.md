@@ -2,7 +2,7 @@
 > Your initialization sequence requires loading various programs to gain the necessary knowledge and skills for your journey. Your first task is to learn the ancient encodings used by the aliens in their communication.
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](crypto_ancient_encodings.zip)). If you unzip the file, there are 2 files called `output.txt` that contain an encoded flag and `source.py`. Here is the content of `source.py`
+We were given a zip file (You can download the file [here](crypto_ancient_encodings.zip)). If you unzip the file, there are 2 files called `output.txt` that contain an encoded flag and `source.py`. Here is the content of `source.py`
 
 ```python
 from Crypto.Util.number import bytes_to_long

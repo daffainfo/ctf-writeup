@@ -10,7 +10,7 @@
 > lmq_chc_ur_mpq_jnbgvx
 
 ## About the Challenge
-We have been given a picture file and an encoded msg
+We were given a picture file and an encoded msg
 
 ![stickynote](stickynote.png)
 

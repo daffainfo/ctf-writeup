@@ -2,7 +2,7 @@
 > Marcus Got a Mysterious mail promising a flag if he could crack the password to the file.
 
 ## About the Challenge
-We have been given an email file (You can download the file [here](TheEmail.eml)) and a password protected zip file (You can download the file [here](unzipme.zip)). We need to know the password of the zip to obtain the flag
+We were given an email file (You can download the file [here](TheEmail.eml)) and a password protected zip file (You can download the file [here](unzipme.zip)). We need to know the password of the zip to obtain the flag
 
 ![preview_email](images/email_preview.png)
 ![preview_zip](images/zip_preview.png)

@@ -2,7 +2,7 @@
 > Stare into the zip and the zip stares back.
 
 ## About the Challenge
-We have been given a zip file that contains a lot of `txt` files
+We were given a zip file that contains a lot of `txt` files
 
 ![preview](images/preview.png)
 

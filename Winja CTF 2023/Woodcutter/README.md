@@ -2,7 +2,7 @@
 > Once upon a time in a quiet forest village, lived a woodcutter named Tom known for his exceptional axe skills. A stranger named Mr. Smith, a software engineer, approached Tom, seeking wood for his Java project, unknowingly sparking an unlikely adventure at the intersection of nature and technology.
 
 ## About the Challenge
-We have been given a website that uses `Unifi Network` version `6.4.54`
+We were given a website that uses `Unifi Network` version `6.4.54`
 
 ![preview](images/preview.png)
 

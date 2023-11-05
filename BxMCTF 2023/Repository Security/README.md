@@ -4,7 +4,7 @@
 > Here at Example.com, we store our entire production environment on GitHub! Our code monkeys are so talented that they would never do anything stupid that would get accounts compromised or anything like that.
 
 ## About the Challenge
-We have been given a source code and a website that has some functionality such as login user, secret page and in order to obtain the flag we need to login as an `admin` and access `/secret` endpoint
+We were given a source code and a website that has some functionality such as login user, secret page and in order to obtain the flag we need to login as an `admin` and access `/secret` endpoint
 
 ```
 @app.route("/secret")

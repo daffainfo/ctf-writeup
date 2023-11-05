@@ -2,7 +2,7 @@
 > .
 
 ## About the Challenge
-We have been given a file (You can download the file [here](nggyu.wav)) and we need to find the flag using that sound
+We were given a file (You can download the file [here](nggyu.wav)) and we need to find the flag using that sound
 
 ## How to Solve?
 First, open the `Sonic Visualizer` and then import the file

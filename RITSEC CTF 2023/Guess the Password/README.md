@@ -2,7 +2,7 @@
 > We found a VIP's box, but when we try to guess his short password, we get rate limited! We managed to get the source code and it looks like the server implements its security in a way that isn't secure! Can you reverse the python code and get the flag?
 
 ## About the Challenge
-We have been given a server to connect and there are 3 files:
+We were given a server to connect and there are 3 files:
 * encoding.py (You can download the file [here](encoding.py))
 * server.py (You can download the file [here](server.py))
 * supersecret.json (You can download the file [here](supersecret.json))

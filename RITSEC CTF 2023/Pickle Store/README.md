@@ -4,7 +4,7 @@
 > https://pickles-web.challenges.ctf.ritsec.club/
 
 ## About the Challenge
-We have been given a website that has a functionality to order a pickle
+We were given a website that has a functionality to order a pickle
 
 ![preview](images/preview.png)
 

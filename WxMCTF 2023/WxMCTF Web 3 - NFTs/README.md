@@ -2,7 +2,7 @@
 > Seize the means of minting!
 
 ## About the Challenge
-We have been given a web source code (You can download the source code [here](dist.zip)) and we can start an instance too. Here is the preview of the website
+We were given a web source code (You can download the source code [here](dist.zip)) and we can start an instance too. Here is the preview of the website
 
 ## How to Solve?
 There are 2 functionality on the website, we can upload some file to the website and then we can access the file in `nfts` endpoint. Pretty simple right? If we check the `launch.sh` file

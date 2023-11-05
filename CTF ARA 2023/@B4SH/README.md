@@ -6,7 +6,7 @@
 > Help Ailee to find what's behind the text written on the paper.
 
 ## About the Challenge
-We have been given a string containing numbers and capital letters
+We were given a string containing numbers and capital letters
 
 ## How to Solve?
 To solve this chall, we need to change the string from `hex` to `ASCII`

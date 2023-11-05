@@ -2,7 +2,7 @@
 > Immerse yourself in a web application born from the brilliance of AI. This digital realm is a playground of challenges, meticulously woven by machine intelligence. Your mission: outsmart the very AI that birthed this intricate virtual environment.
 
 ## About the Challenge
-We have been given a static website, and we need to find the flag on this website.
+We were given a static website, and we need to find the flag on this website.
 
 ![preview](images/preview.png)
 

@@ -6,7 +6,7 @@
 > Submit the domain name of the company that owns the building as the flag, wrapped in ctf{}
 
 ## About the Challenge
-We have been given an image file and we need to submit the domain name of the company
+We were given an image file and we need to submit the domain name of the company
 
 ## How to Solve?
 As usual, check the metadata of the image first

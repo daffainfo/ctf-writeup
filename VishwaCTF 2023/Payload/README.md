@@ -2,7 +2,7 @@
 > No description.
 
 ## About the Challenge
-We have been given a website that has a button to give us a detail about the system
+We were given a website that has a button to give us a detail about the system
 
 ![preview](images/preview.png)
 

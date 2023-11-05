@@ -4,7 +4,7 @@
 > dropper.apk sha256sum: aaf49dcee761d13da52a95f86b7b92596e7b63c14d0a04bce5dd24c7927ecea9
 
 ## About the Challenge
-We have been given an `apk` file and we need to find the flag inside of it
+We were given an `apk` file and we need to find the flag inside of it
 
 ## How to Solve?
 We need to decompile the `.apk` first, you can use Jadx or you can use this [website](http://www.javadecompilers.com/apk) to decompile the file. And this is the source code of the application

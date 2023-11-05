@@ -2,7 +2,7 @@
 > I have a trade offer for you. The challenge is at https://cookies.acmcyber.com
 
 ## About the Challenge
-We need to find the flag on the website we have been given. The website is just a plain website and there is a button to get the cookie
+We need to find the flag on the website We were given. The website is just a plain website and there is a button to get the cookie
 
 ![preview_1](images/preview_1.png)
 

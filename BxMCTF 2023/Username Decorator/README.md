@@ -6,7 +6,7 @@
 > Note: the flag is in an environment variable called FLAG
 
 ## About the Challenge
-We have been given a source code that contain 2 python code, here is the content of `app.py` file
+We were given a source code that contain 2 python code, here is the content of `app.py` file
 
 ```python
 from flask import Flask, render_template_string, request

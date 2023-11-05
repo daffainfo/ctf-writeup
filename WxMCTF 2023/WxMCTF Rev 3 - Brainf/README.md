@@ -2,7 +2,7 @@
 > My brain hurts after creating this challenge... but not as much as it would if I was a student at MGCI
 
 ## About the Challenge
-We have been given 2 files (An [interpreter](interpreter.py) and [brainfuck](program.bf) file)
+We were given 2 files (An [interpreter](interpreter.py) and [brainfuck](program.bf) file)
 
 ## How to Solve?
 To get the flag you can use the brainfuck interpreter online for example [dcode.fr](https://www.dcode.fr/brainfuck-language)

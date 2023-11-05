@@ -2,7 +2,7 @@
 > The Admin coded his dashboard by himself. He's sure to be a pro coder and he's so satisfied about it. Can you make him rethink that?
 
 ## About the Challenge
-We have been given a website that contain an admin panel, looks like we need to bypass the panel
+We were given a website that contain an admin panel, looks like we need to bypass the panel
 
 ![preview](images/preview.png)
 

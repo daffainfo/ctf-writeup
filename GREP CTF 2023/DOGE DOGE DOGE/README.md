@@ -2,7 +2,7 @@
 > Doge
 
 ## About the Challenge
-We have been given a file to encrypt the flag (You can download the file [here](doge.py))
+We were given a file to encrypt the flag (You can download the file [here](doge.py))
 
 Here is the content of `doge.py` file
 ```python

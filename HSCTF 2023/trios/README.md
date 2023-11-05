@@ -2,7 +2,7 @@
 > what number is a trio?
 
 ## About the Challenge
-We have been given a script file called `trios.py`. Here is the content of the file
+We were given a script file called `trios.py`. Here is the content of the file
 
 ```python
 import random

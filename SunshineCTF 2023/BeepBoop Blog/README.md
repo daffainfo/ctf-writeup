@@ -2,7 +2,7 @@
 > A few robots got together and started a blog! It's full of posts that make absolutely no sense, but a little birdie told me that one of them left a secret in their drafts. Can you find it?
 
 ## About the Challenge
-We have been given a website. Here is the preview of the website
+We were given a website. Here is the preview of the website
 
 ![preview](images/preview.png)
 

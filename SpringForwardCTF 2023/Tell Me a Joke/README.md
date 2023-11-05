@@ -6,7 +6,7 @@
 > Format: nicc{words can be spaced}
 
 ## About the Challenge
-We have been given an encoded string and we need to decode it to get the flag
+We were given an encoded string and we need to decode it to get the flag
 
 ## How to Solve?
 Use base64 decoder to get the flag

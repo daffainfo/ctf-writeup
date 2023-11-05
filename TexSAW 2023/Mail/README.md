@@ -2,7 +2,7 @@
 > With the holiday season approaching, the demand for package delivery is climbing. I've compiled a list of mail couriers for you to view at url:port. Maybe this could be helpful?
 
 ## About the Challenge
-We have been given a very simple website that contain 1 button. If we press that button we will be redirected to `/flag` endpoint
+We were given a very simple website that contain 1 button. If we press that button we will be redirected to `/flag` endpoint
 
 ![preview](images/preview.png)
 

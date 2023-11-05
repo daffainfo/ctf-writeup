@@ -2,7 +2,7 @@
 > Have you ever heard of prime factors? The file challenge.txt contains a number that has two prime factors. Can you find them?
 
 ## About the Challenge
-We have been given a text that contain a number, and we need to find the prime factors. Here is the number
+We were given a text that contain a number, and we need to find the prime factors. Here is the number
 ```
 2174096211032823084932239036566496093206280423
 ```

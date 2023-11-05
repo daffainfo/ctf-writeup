@@ -2,7 +2,7 @@
 > As you continue your journey, you must learn about the encryption method the aliens used to secure their communication from eavesdroppers. The engineering team has designed a challenge that emulates the exact parameters of the aliens' encryption system, complete with instructions and a code snippet to connect to a mock alien server. Your task is to break it.
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](crypto_small_steps.zip)). And if we unzip the file, there are another file called `solver.py` and `server.py`. Here is the content of `server.py`
+We were given a zip file (You can download the file [here](crypto_small_steps.zip)). And if we unzip the file, there are another file called `solver.py` and `server.py`. Here is the content of `server.py`
 
 ```python
 from Crypto.Util.number import getPrime, bytes_to_long

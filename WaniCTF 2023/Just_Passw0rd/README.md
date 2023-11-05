@@ -4,7 +4,7 @@
 > In this challenge, The ELF file requires password. Is there a way to look inside without knowing the password?
 
 ## About the Challenge
-We have been given a compiled file (You can download the file [here](just_password)). We need to know the password of the file to obtain the flag
+We were given a compiled file (You can download the file [here](just_password)). We need to know the password of the file to obtain the flag
 
 ![preview](images/preview.png)
 

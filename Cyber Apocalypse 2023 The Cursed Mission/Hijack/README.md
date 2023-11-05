@@ -2,7 +2,7 @@
 > The security of the alien spacecrafts did not prove very robust, and you have gained access to an interface allowing you to upload a new configuration to their ship's Thermal Control System. Can you take advantage of the situation without raising any suspicion?
 
 ## About the Challenge
-We have been given a server to connect using nc. Here is the preview
+We were given a server to connect using nc. Here is the preview
 
 ![preview](images/preview.png)
 

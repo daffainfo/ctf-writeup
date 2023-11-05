@@ -2,7 +2,7 @@
 > Threat intelligence has found that the aliens operate through a command and control server hosted on their infrastructure. Pandora managed to penetrate their defenses and have access to their internal network. Because their server uses HTTP, Pandora captured the network traffic to steal the server's administrator credentials. Open the provided file using Wireshark, and locate the username and password of the admin.
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](forensics_plaintext_treasure.zip)). If we unzip the file, there is a file called `capture.pcap`
+We were given a zip file (You can download the file [here](forensics_plaintext_treasure.zip)). If we unzip the file, there is a file called `capture.pcap`
 
 ![preview](images/preview.png)
 

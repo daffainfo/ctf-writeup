@@ -2,7 +2,7 @@
 > http://fancy-page.hsctf.com
 
 ## About the Challenge
-We have been given a source code (You can download the source code [here](fancy-page.zip)). Inside the source code there is a JavaScript file called `display.js`. Here is the content of the file
+We were given a source code (You can download the source code [here](fancy-page.zip)). Inside the source code there is a JavaScript file called `display.js`. Here is the content of the file
 
 ```js
 import { default as Arg } from "https://cdn.jsdelivr.net/npm/@vunamhung/arg.js@1.4.0/+esm";

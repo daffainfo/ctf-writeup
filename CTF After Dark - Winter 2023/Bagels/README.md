@@ -2,7 +2,7 @@
 > Only a true bagel lover can find the flag: https://246012460124601.github.io/
 
 ## About the Challenge
-We have been given a plain website and we need to find the flag there
+We were given a plain website and we need to find the flag there
 
 ![preview](images/preview.png)
 

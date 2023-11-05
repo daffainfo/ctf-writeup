@@ -2,7 +2,7 @@
 > Ooops, i forgot the shift this time. Can you still figure out my flag.
 
 ## About the Challenge
-We have been given a file to encrypt the flag (You can download the file [here](enc.py))
+We were given a file to encrypt the flag (You can download the file [here](enc.py))
 
 Here is the content of `enc.py` file
 ```python

@@ -5,7 +5,7 @@ What are flag1, flag2, and flag3?
 > FLAG format：FLAG{flag1_flag2_flag3}
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](mis-int-generator.zip)). There are 2 files inside the zip file, `chall.py` and `output.txt`. Here is the content of `chall.py`
+We were given a zip file (You can download the file [here](mis-int-generator.zip)). There are 2 files inside the zip file, `chall.py` and `output.txt`. Here is the content of `chall.py`
 
 ```python
 import random

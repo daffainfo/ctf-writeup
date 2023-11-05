@@ -2,7 +2,7 @@
 > I created a tennis game. BLAHFALJFAJDFLBLAHAOIFLJFDA - is that random enough for you?
 
 ## About the Challenge
-We have been given a server to connect
+We were given a server to connect
 
 ![preview](images/preview.png)
 

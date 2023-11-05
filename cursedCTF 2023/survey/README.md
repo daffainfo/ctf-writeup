@@ -2,7 +2,7 @@
 > Please complete the survey. `nc mc.ax 31499`
 
 ## About the Challenge
-We have been given a server to connect and we need to solve the pow to know the next step
+We were given a server to connect and we need to solve the pow to know the next step
 
 ![preview](images/preview.png)
 

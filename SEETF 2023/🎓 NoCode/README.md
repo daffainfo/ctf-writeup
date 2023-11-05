@@ -11,7 +11,7 @@
 ```
 
 ## About the Challenge
-We have been given a `blank` string, and we need to find the flag there
+We were given a `blank` string, and we need to find the flag there
 
 ## How to Solve?
 If you convert the `blank` string into hexadecimal, you will see something like this

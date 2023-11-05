@@ -2,7 +2,7 @@
 > My first JavaScript project.
 
 ## About the Challenge
-We have been given a source code that contains some files with `.js` and `.ejs` extensions (You can download the file [here](dist_express-javascript-security_31d3740ae934682d8c36d3a3182c29981e0c9909)). Here is the content of main.js
+We were given a source code that contains some files with `.js` and `.ejs` extensions (You can download the file [here](dist_express-javascript-security_31d3740ae934682d8c36d3a3182c29981e0c9909)). Here is the content of main.js
 
 ```js
 const express = require('express');

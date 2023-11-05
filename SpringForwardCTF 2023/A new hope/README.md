@@ -6,7 +6,7 @@
 > Maybe it's nothing, but it might be something. Think you can check?
 
 ## About the Challenge
-We have been given 2 files `encrypt.py` and `log.txt`. Here is the content of the `encrypt.py` file
+We were given 2 files `encrypt.py` and `log.txt`. Here is the content of the `encrypt.py` file
 ```
 def encrypt(message, key):
     encrypted = ""

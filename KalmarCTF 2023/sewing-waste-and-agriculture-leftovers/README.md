@@ -2,7 +2,7 @@
 > UDP - UNRELIABLE datagram protocol.
 
 ## About the Challenge
-We have been given a `pcap` file (You can get the file [here](swaal.pcap.gz))
+We were given a `pcap` file (You can get the file [here](swaal.pcap.gz))
 
 ## How to Solve?
 First i extract the pcap and then import the file into `Wireshark`. And then check every packet by pressing `Ctrl + Alt + Shift + U` to follow the UDP stream

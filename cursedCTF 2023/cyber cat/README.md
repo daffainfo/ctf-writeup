@@ -2,7 +2,7 @@
 > i've hidden a flag in this picture of my cat
 
 ## About the Challenge
-We have been given an image (You can downlod the file [here](cyber_cat.png)) and we need to find the flag inside that image
+We were given an image (You can downlod the file [here](cyber_cat.png)) and we need to find the flag inside that image
 
 ## How to Solve?
 To solve this chall, im using `strings` and `grep`. Here is the command I used

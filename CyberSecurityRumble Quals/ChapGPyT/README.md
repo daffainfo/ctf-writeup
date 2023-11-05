@@ -2,7 +2,7 @@
 > I've made ChatGPT implemented a challenge. I hope you can solve this verry hard challenge
 
 ## About the Challenge
-We have been given a website to test and this website only have 2 endpoints. First is `/post_message` where we can input our message and then in the response we got some random string. Here is the HTTP request and response when I tried to send a random message using `/post_message` endpoint
+We were given a website to test and this website only have 2 endpoints. First is `/post_message` where we can input our message and then in the response we got some random string. Here is the HTTP request and response when I tried to send a random message using `/post_message` endpoint
 
 ![post_message](images/post_message.png)
 

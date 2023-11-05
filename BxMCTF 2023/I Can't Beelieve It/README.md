@@ -2,7 +2,7 @@
 > The flag to this challenge is all lowercase, with no underscores.
 
 ## About the Challenge
-We have been given a zip file that contains a `txt` file:
+We were given a zip file that contains a `txt` file:
 
 ```
 Kings and queens, their roles well-defined,

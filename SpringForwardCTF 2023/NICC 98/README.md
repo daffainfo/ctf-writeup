@@ -4,7 +4,7 @@
 > https://nicc-nicc-98.chals.io/nicc98.html
 
 ## About the Challenge
-We have been given a website about NJIT Information and Cybersecurity Club
+We were given a website about NJIT Information and Cybersecurity Club
 
 ![preview](images/preview.png)
 

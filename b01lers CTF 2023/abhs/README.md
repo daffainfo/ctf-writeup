@@ -4,7 +4,7 @@
 > nc abhs.bctf23-codelab.kctf.cloud 1337
 
 ## About the Challenge
-We have been given a server. But if we input a command, the server will sort the characters. For example the command `bash`, then the server will execute it as `absh`
+We were given a server. But if we input a command, the server will sort the characters. For example the command `bash`, then the server will execute it as `absh`
 
 ## How to Solve?
 First, we try to execute `env` command and the result is

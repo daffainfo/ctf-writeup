@@ -6,7 +6,7 @@
 > Enter any letter characters inside the flag as upper case (e.g: wxmctf{H3LLO})
 
 ## About the Challenge
-We have been given a `wav` file (You can download the file [here](MGCI_Kids_Conversation.wav))and we need to find the music notes
+We were given a `wav` file (You can download the file [here](MGCI_Kids_Conversation.wav))and we need to find the music notes
 
 ## How to Solve?
 To get the flag you can use `Sonic Visualizer` and add a new pane called `Peak Frequency Spectogram`

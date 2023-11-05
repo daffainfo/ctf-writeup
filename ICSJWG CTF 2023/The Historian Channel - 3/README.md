@@ -8,7 +8,7 @@
 > Flag format: alarm names in ASCII, comma separated (order does not matter). Example: if alarms with names ABCD and EFGH were deleted from database, accepted flags would be ABCD,EFGH or EFGH,ABCD.
 
 ## About the Challenge
-We have been given a log file to analyze (You can download the file [here](access.log)). And we need to find the names of the 2 alarams that the users deleted from the database
+We were given a log file to analyze (You can download the file [here](access.log)). And we need to find the names of the 2 alarams that the users deleted from the database
 
 ## How to Solve?
 As you can see in the log file, there are a lot of requests that contains SQL query

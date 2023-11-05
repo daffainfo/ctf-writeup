@@ -2,7 +2,7 @@
 > The web project was rushed and no security assessment was done. Can you read the /etc/passwd file?
 
 ## About the Challenge
-We have been given a simple website, here is the preview of the website
+We were given a simple website, here is the preview of the website
 
 ![preview](images/preview.png)
 

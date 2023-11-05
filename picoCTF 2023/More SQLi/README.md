@@ -2,7 +2,7 @@
 > Can you find the flag on this website.
 
 ## About the Challenge
-We have been given a simple website that contains login form, here is the preview of the website
+We were given a simple website that contains login form, here is the preview of the website
 
 ![preview](images/preview.png)
 

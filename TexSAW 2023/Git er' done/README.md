@@ -2,7 +2,7 @@
 > I've made my first website but I still have a lot of tasks to do. Can you check it out and give me some feedback?
 
 ## About the Challenge
-We have been given a very simple website that contain To-Do list
+We were given a very simple website that contain To-Do list
 
 ![preview](images/preview.png)
 

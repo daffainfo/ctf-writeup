@@ -6,7 +6,7 @@
 > Flag format: full path of file. Example: if the file accessed was /folder/file.txt, the flag would be /folder/file.txt
 
 ## About the Challenge
-We have been given a log file to analyze (You can download the file [here](access.log)). And we need to find the full path of the file that the user accessed
+We were given a log file to analyze (You can download the file [here](access.log)). And we need to find the full path of the file that the user accessed
 
 ## How to Solve?
 If we check on the log file, there are some suspicious request that the suspicious user trying to find some configuration files such as `config.txt` or `config.ini`

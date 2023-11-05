@@ -2,7 +2,7 @@
 > Sir vignere came to my dreams and sent me this packet capture and told me to find the flag from it which is the key to my success. I am a noob in these cases. So I need your help. Please help me find the flag. Will you?
 
 ## About the Challenge
-We have been given a `pcapng` file and we need to open the file in wireshark
+We were given a `pcapng` file and we need to open the file in wireshark
 
 ## How to Solve?
 If we open the file in wireshark and if we check on the DNS packet, there is a single character on each packet

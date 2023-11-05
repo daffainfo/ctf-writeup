@@ -4,7 +4,7 @@
 > Connect with `socat file:$(tty),raw,echo=0 tcp:vimjail2-5.chal.uiuc.tf:1337`. You may need to install socat.
 
 ## About the Challenge
-We have been given several files related to this chall and I have collected them in 1 zip file (You can download the zip file [here](vimjail2.5.zip)). In this challenge, we enter `insert mode` in vim, and we have to escape `insert mode` to obtain the flag. If we check the `entry.sh` file
+We were given several files related to this chall and I have collected them in 1 zip file (You can download the zip file [here](vimjail2.5.zip)). In this challenge, we enter `insert mode` in vim, and we have to escape `insert mode` to obtain the flag. If we check the `entry.sh` file
 
 ```bash
 #!/usr/bin/env sh

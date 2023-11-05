@@ -2,7 +2,7 @@
 > Isaac Newton left me this piece of code and a message. Can you help me decode this...
 
 ## About the Challenge
-We have been given a python script and an encoded text, The python script will be look like this (You can get the script [**here**](/KnightCTF%202023/I%20Love%20Pi/encrypt.py))
+We were given a python script and an encoded text, The python script will be look like this (You can get the script [**here**](/KnightCTF%202023/I%20Love%20Pi/encrypt.py))
 ```python
 import base64
 

@@ -4,7 +4,7 @@
 > Choose any link (they're all the same): [Link 1](https://docs.google.com/spreadsheets/d/1OYx3lCccLKYgOvzxkRZ5-vAwCn3mOvGUvB4AdnSbcZ4/edit) [Link 2](https://docs.google.com/spreadsheets/d/17A1f0z8rmR7356fcHmHTHt3Y0JMgcHlGoflADtNXeOU/edit) [Link 3](https://docs.google.com/spreadsheets/d/1ULdm_KCOYCWuf6gqpg6tm0t-wnWySX_Bf3yUYOfZ2tw/edit)
 
 ## About the Challenge
-We have been given a google sheet and we need to find the flag from that google sheet named `flag`
+We were given a google sheet and we need to find the flag from that google sheet named `flag`
 
 ## How to Solve?
 First we check the google sheet to find something interesting and i found new hidden sheet

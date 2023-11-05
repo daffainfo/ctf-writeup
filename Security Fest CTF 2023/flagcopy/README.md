@@ -2,7 +2,7 @@
 > Jack was a self-proclaimed pirate who believed that information wanted to be free
 
 ## About the Challenge
-We have been given a website that have a functionality the file called `flag.php` to new destination
+We were given a website that have a functionality the file called `flag.php` to new destination
 
 ![preview](images/preview.png)
 

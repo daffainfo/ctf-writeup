@@ -2,7 +2,7 @@
 > Match making as a service.
 
 ## About the Challenge
-We have been given a website and inide the website there is source code. Here is the preview
+We were given a website and inide the website there is source code. Here is the preview
 
 ![preview](images/preview.png)
 

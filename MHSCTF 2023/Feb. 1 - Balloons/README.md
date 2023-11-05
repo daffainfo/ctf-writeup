@@ -4,7 +4,7 @@
 > Look for "valentine.txt."
 
 ## About the Challenge
-We have been given a python code and we need to bypass from the sandbox. The python code will be look like this:
+We were given a python code and we need to bypass from the sandbox. The python code will be look like this:
 ```python
 from balloon_tracking_lookup import get_status
 

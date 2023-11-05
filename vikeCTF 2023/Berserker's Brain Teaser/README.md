@@ -4,7 +4,7 @@
 > zexqSNE{cVaLuM_xRxBuRs_vE_mTtAe_ToOiN_oEiK}
 
 ## About the Challenge
-We have been given a python file (You can download the file [here](BerserkerBrainTeaserEncrypt.py)) and we need to decrypt the flag
+We were given a python file (You can download the file [here](BerserkerBrainTeaserEncrypt.py)) and we need to decrypt the flag
 
 ## How to Solve?
 If we check the python script

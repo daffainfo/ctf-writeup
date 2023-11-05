@@ -4,7 +4,7 @@
 > Can you decrypt it and get the message he left behind for us?
 
 ## About the Challenge
-We have been given a file (You can download the file [here](Message.txt))
+We were given a file (You can download the file [here](Message.txt))
 
 ## How to Solve?
 Just translate from `binary` to `ASCII`

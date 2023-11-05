@@ -4,7 +4,7 @@
 > betta.utctf.live has other interesting ports. Lets look at 8445 this time.
 
 ## About the Challenge
-We have been given a SMB server to connect `betta.utctf.live:8445`
+We were given a SMB server to connect `betta.utctf.live:8445`
 
 ## How to Solve?
 To get the flag you need to connect to the server using `smbclient` because this is SMB protocol. You don't need an username and password because the server allow anonymous login. First you need to know the `Sharename` on the server. You can use this command

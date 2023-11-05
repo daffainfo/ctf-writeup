@@ -2,7 +2,7 @@
 > Just try to hack my login with account "admin", I've taken all the precautions that I can...
 
 ## About the Challenge
-We have been given a plain website and we need to find the flag there. In the website there is a simple form to login to the website
+We were given a plain website and we need to find the flag there. In the website there is a simple form to login to the website
 
 ![preview](images/preview.png)
 

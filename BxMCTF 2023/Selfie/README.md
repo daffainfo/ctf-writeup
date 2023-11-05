@@ -4,7 +4,7 @@
 > Can you help him find the secret information hidden in the selfie?
 
 ## About the Challenge
-We have been given a `zip` file that contains an image and we need to find the flag inside the image
+We were given a `zip` file that contains an image and we need to find the flag inside the image
 
 ## How to Solve?
 To solve this problem, we can use `exiftool` to check the metadata of the file. And as you can see there is weird metadata called `License`

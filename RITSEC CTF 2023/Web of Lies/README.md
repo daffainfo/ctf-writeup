@@ -2,7 +2,7 @@
 > We found more weird traffic. We're concerned he's connected to a web of underground criminals.
 
 ## About the Challenge
-We have been given a `pcapng` file (You can download the file [here](weboflies.pcapng)). And here is the preview
+We were given a `pcapng` file (You can download the file [here](weboflies.pcapng)). And here is the preview
 
 ![preview](images/preview.png)
 

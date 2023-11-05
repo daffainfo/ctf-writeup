@@ -6,7 +6,7 @@
 > Important Notes: Ignore the bitcoin stuff (like Kleopatra/GPG/bitcoin app/related files) as it's not related to the challenge.
 
 ## About the Challenge
-We have been given an image forensic challenge (on a memory). Additionally, we have received 5 questions that we need to answer correctly in order to obtain the flag.
+We were given an image forensic challenge (on a memory). Additionally, we have received 5 questions that we need to answer correctly in order to obtain the flag.
 
 ## How to Solve?
 In this case, im using Volatility 2 to do forensic on a memory. First, im gonna use `imageinfo` first to find the correct profile for this image. Here is the command I used to find the correct profile:

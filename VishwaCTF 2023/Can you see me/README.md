@@ -2,7 +2,7 @@
 > A magician made the seven wonders disappear. But people claim they can still feel their presence in the air.
 
 ## About the Challenge
-We have been given an image (You can download the file [here](havealook.jpg))
+We were given an image (You can download the file [here](havealook.jpg))
 
 ## How to Solve?
 In this case im using `binwalk` to know if there is another file inside that image. There result is there is a `zip` file

@@ -2,7 +2,7 @@
 > Check out my cool artworks over there: goodvue.rumble.host If you want an Admin to check out your cool stuff: goodvue-bot.rumble.host
 
 ## About the Challenge
-We have been given a website to test and this website using VueJS. Here is the preview of the website
+We were given a website to test and this website using VueJS. Here is the preview of the website
 
 ![preview](images/preview.png)
 

@@ -2,7 +2,7 @@
 > We found this zip file but its encrypted so we can't read the contents. Do you think you could crack it?
 
 ## About the Challenge
-We have been given a zip file (Password protected) and the wordlist. So we need to brute the zip to get the flag
+We were given a zip file (Password protected) and the wordlist. So we need to brute the zip to get the flag
 
 ## How to Solve?
 First, we need to crack the zip file using 2 tools (zip2john and john). Run this command to get the password of the zip file

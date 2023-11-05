@@ -6,7 +6,7 @@
 > You don't need to go to any other page.
 
 ## About the Challenge
-We have been given a GitHub Repository and we need to find the flag there
+We were given a GitHub Repository and we need to find the flag there
 
 ![preview](images/preview.png)
 

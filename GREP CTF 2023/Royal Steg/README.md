@@ -4,7 +4,7 @@
 > - JOHN 1:38
 
 ## About the Challenge
-We have been given a file (You can download the file [here](steg.jpg)) and we need to find the flag using that picture
+We were given a file (You can download the file [here](steg.jpg)) and we need to find the flag using that picture
 
 ## How to Solve?
 To solve this, Im using `stegseek` first to extract hidden data from files by performing bruteforce attack. Here is the command to bruteforce the image using `rockyou.txt` wordlist

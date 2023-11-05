@@ -2,7 +2,7 @@
 > As the United Nations of Zenium and the Board of Arodor engage in a fierce competition to establish a colony on Mars using Vitalium. State hackers from UNZ identify an exposed instance of the critical facility water management software, Watersnakev3, in one of Arodor's main water treatment plants. The objective is to gain control over the water supply, and weaken the Arodor's infrastructure.
 
 ## About the Challenge
-We have been given a source code (You can download the source code [here](web_watersnake.zip)). Here is the preview of the website
+We were given a source code (You can download the source code [here](web_watersnake.zip)). Here is the preview of the website
 
 ![preview](images/preview.png)
 

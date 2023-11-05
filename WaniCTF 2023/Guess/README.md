@@ -4,7 +4,7 @@
 > nc guess-mis.wanictf.org 50018
 
 ## About the Challenge
-We have been given a server to connect an a zip file (You can download the file [here](mis-guess.zip)). There is a file called `chall.py`. Here is the content of `chall.py`
+We were given a server to connect an a zip file (You can download the file [here](mis-guess.zip)). There is a file called `chall.py`. Here is the content of `chall.py`
 
 ```python
 import os

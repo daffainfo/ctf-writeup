@@ -2,7 +2,7 @@
 > Take a look at my super secure website. I only let people access the flag I hid there if they're just as secure as I am!
 
 ## About the Challenge
-We need to find the flag on the website we have been given. The website is just a plain website and there is a button to get the flag
+We need to find the flag on the website We were given. The website is just a plain website and there is a button to get the flag
 
 ![preview](images/preview.png)
 

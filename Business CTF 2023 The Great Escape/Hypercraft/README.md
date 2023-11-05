@@ -2,7 +2,7 @@
 > This email seems to have come from one of our agents, Axel Knight, but Axel has been missing for weeks, and we believe him to be compromised. The email claims to have information that could be vital to our winning this war, but before we use it, we want to make sure it is safe to open. Analyze the given email and see if it's real, or if it's just the Arodorians trying to phish us, and find the flag.
 
 ## About the Challenge
-We have been given a `zip` file that contains a file with `eml` extension. If we open the `eml` file:
+We were given a `zip` file that contains a file with `eml` extension. If we open the `eml` file:
 
 ![preview](images/preview.png)
 

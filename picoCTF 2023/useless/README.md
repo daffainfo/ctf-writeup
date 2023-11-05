@@ -2,7 +2,7 @@
 > There's an interesting script in the user's home directory
 
 ## About the Challenge
-We have been given an access to SSH server and then there is a file called `useless` and if we check the content of the file
+We were given an access to SSH server and then there is a file called `useless` and if we check the content of the file
 
 ![preview](images/preview.png)
 

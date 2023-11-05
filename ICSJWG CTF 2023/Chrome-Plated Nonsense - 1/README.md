@@ -10,7 +10,7 @@
 > Flag format: IP address and port. Example: if the IP is 8.8.8.8 and the port is 53, the flag would be 8.8.8.8:53
 
 ## About the Challenge
-We have been given a `crx` file (You can download the extension [here](chrome-speedboost.crx)) and we need to find the IP address and port of the server
+We were given a `crx` file (You can download the extension [here](chrome-speedboost.crx)) and we need to find the IP address and port of the server
 
 ## How to Solve?
 We need to unzip the chrome extension first and as you can see there is a file called `background.js`

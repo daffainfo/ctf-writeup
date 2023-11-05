@@ -4,7 +4,7 @@
 > Rest API was boring so I used modern technology.
 
 ## About the Challenge
-We have been given a website and we need to get the flag from that website
+We were given a website and we need to get the flag from that website
 
 ![preview](images/preview.png)
 

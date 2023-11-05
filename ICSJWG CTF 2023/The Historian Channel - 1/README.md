@@ -10,7 +10,7 @@
 > Flag format: timestamp of the successful login from the suspicious user, without the timezone. Example: if the timestamp was [04/May/2023:09:24:56 -0500], the flag would be 04/May/2023:09:24:56
 
 ## About the Challenge
-We have been given a log file to analyze (You can download the file [here](access.log)). And we need to find the timestamp of the succesful login from the suspicious user
+We were given a log file to analyze (You can download the file [here](access.log)). And we need to find the timestamp of the succesful login from the suspicious user
 
 ## How to Solve?
 If we check content of the log file, you will see some suspicious requests from `192.168.4.146`

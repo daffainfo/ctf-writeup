@@ -2,7 +2,7 @@
 > Blinding.
 
 ## About the Challenge
-We have been given a file (You can download the file [here](blind.txt)) and we need to decode it to obtain the flag
+We were given a file (You can download the file [here](blind.txt)) and we need to decode it to obtain the flag
 
 ## How to Solve?
 As you can see in the file, that is a `Braille Alphabet`. So we can use [dcode.fr](https://www.dcode.fr/braille-alphabet) to decode the msg

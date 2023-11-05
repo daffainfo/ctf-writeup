@@ -2,7 +2,7 @@
 > Can you GET the flag from the API ?
 
 ## About the Challenge
-We have been given a website, and if we open the website the response like this
+We were given a website, and if we open the website the response like this
 
 ```json
 {

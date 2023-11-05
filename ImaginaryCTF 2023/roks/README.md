@@ -2,7 +2,7 @@
 > My rock enthusiast friend made a website to show off some of his pictures. Could you do something with it?
 
 ## About the Challenge
-We have been given a source code (You can download the source code [here](roks.zip)) and we got the website too. Here is the preview of the website
+We were given a source code (You can download the source code [here](roks.zip)) and we got the website too. Here is the preview of the website
 
 ![preview](images/preview.png)
 

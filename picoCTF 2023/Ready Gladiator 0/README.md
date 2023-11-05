@@ -2,7 +2,7 @@
 > Can you make a CoreWars warrior that always loses, no ties?
 
 ## About the Challenge
-We have been given a file called `imp.red` (You can download the file [here](imp.red)) and we need to find a way to make the `Warrior 1` lose
+We were given a file called `imp.red` (You can download the file [here](imp.red)) and we need to find a way to make the `Warrior 1` lose
 
 ![preview](images/preview.png)
 

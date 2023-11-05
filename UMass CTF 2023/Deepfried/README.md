@@ -2,7 +2,7 @@
 > `-`
 
 ## About the Challenge
-We have been given a source code (You can download the file [here](DeepFried.zip))
+We were given a source code (You can download the file [here](DeepFried.zip))
 
 ![preview](images/preview.png)
 

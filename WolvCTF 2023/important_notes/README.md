@@ -2,7 +2,7 @@
 > idk im blanking on any lore for this challenge
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](important_notes.zip)), if we unzip the file we got 7 text files
+We were given a zip file (You can download the file [here](important_notes.zip)), if we unzip the file we got 7 text files
 
 ![preview](images/preview.png)
 

@@ -2,7 +2,7 @@
 > My friend wanted to install an antivirus for his computer, but the creator of the antivirus was caught!
 
 ## About the Challenge
-We have been given a file without any extension (You can download the file [here](AV))
+We were given a file without any extension (You can download the file [here](AV))
 
 ## How to Solve?
 Im using `file` command first to know what is the type of the file

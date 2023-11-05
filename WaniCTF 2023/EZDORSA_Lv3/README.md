@@ -2,7 +2,7 @@
 > The power of mathematics is staggering!
 
 ## About the Challenge
-We have been given a zip file (You can download the file [here](cry-EZDORSA-Lv3.zip)). There are 2 files inside the zip file, `chall.py` and `out.txt`. Here is the content of `chall.py`
+We were given a zip file (You can download the file [here](cry-EZDORSA-Lv3.zip)). There are 2 files inside the zip file, `chall.py` and `out.txt`. Here is the content of `chall.py`
 
 ```python
 from Crypto.Util.number import *

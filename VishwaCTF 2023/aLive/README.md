@@ -2,7 +2,7 @@
 > In my college level project I created this website that tells us if any domain/ip is active or not. But there is a catch.
 
 ## About the Challenge
-We have been given a website that has a functionality to check our website is active or not
+We were given a website that has a functionality to check our website is active or not
 
 ![preview](images/preview.png)
 

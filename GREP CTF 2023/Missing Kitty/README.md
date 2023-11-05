@@ -2,7 +2,7 @@
 > My kitty is missing. Can you find her ? Last seen saying meow meow under the blanket !!
 
 ## About the Challenge
-We have been given a file (You can download the file [here](Missing.jpg)) and we need to find the flag using that picture
+We were given a file (You can download the file [here](Missing.jpg)) and we need to find the flag using that picture
 
 ## How to Solve?
 To solve this, Im using `stegseek` first to extract hidden data from files by performing bruteforce attack. Here is the command to bruteforce the image using `rockyou.txt` wordlist

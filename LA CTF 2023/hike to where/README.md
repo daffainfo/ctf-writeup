@@ -6,7 +6,7 @@
 > Please note: **contacting anyone or any organization beyond official LA CTF support channels regarding this challenge is against the rules. Please be respectful of those who are involved in this challenge.**
 
 ## About the Challenge
-We have been given a people image and we need to know where this photo was taken.
+We were given a people image and we need to know where this photo was taken.
 
 ![person](images/person.jpg)
 

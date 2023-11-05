@@ -2,7 +2,7 @@
 > `-`
 
 ## About the Challenge
-We have been given a file that contain modulus, public exponent, and the ciphertext
+We were given a file that contain modulus, public exponent, and the ciphertext
 
 ```
 n = 287838647563564518717519107521814079281

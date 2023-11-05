@@ -2,7 +2,7 @@
 > oh dear... someone finding my password.txt i could not bear... but no fear... encrypted it i did to make it unclear... (*note: flag is all lowercase). Visit https://star-poet-blog.acmcyber.com.
 
 ## About the Challenge
-We have been given a plain website like this
+We were given a plain website like this
 
 ![preview_1](images/preview_1.png)
 

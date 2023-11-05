@@ -2,7 +2,7 @@
 > I heard the onetime pad is perfectly secure so I used it to send an important message to a friend, but now a UCLA competition is asking for the key? I threw that out a long time ago! Can you help me recover it?
 
 ## About the Challenge
-We have been given a Python code, and it will look like this
+We were given a Python code, and it will look like this
 
 ```python
 from itertools import cycle

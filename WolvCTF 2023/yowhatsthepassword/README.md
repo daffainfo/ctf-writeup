@@ -2,7 +2,7 @@
 > hey I lost the password :(
 
 ## About the Challenge
-We have been given a source code (You can download the file [here](main.py)). Here is the content of the source code
+We were given a source code (You can download the file [here](main.py)). Here is the content of the source code
 ```python
 # I'm thinking of a number from 0 to 2^32 - 1
 # Can you guess it?

@@ -2,7 +2,7 @@
 > I've been sitting here for days, listening to the radio and writing down dots and dashes. I'm starting to feel like one of those old-timey codebreakers, you know? To be honest, I have no idea what it all means! Think you can help me out?
 
 ## About the Challenge
-We have been given a file (You can download the file [here](1N73rC3P710N.enc)). If we check the file, the file contain some morse code
+We were given a file (You can download the file [here](1N73rC3P710N.enc)). If we check the file, the file contain some morse code
 
 ![preview](images/preview.png)
 

@@ -4,7 +4,7 @@
 > https://nicc-hostile-takeover.chals.io
 
 ## About the Challenge
-We have been given a website and We need to access the `/admin` endpoint
+We were given a website and We need to access the `/admin` endpoint
 
 ![preview](images/preview.png)
 

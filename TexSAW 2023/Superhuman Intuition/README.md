@@ -8,7 +8,7 @@
 > Note: The flag will be the date that the artist created their YouTube channel. The flag's format is texsaw{mm-dd-yyyy}.
 
 ## About the Challenge
-We have been given an image of a sculpture. First, we need to determine the artist who created the sculpture, and then we need to find their YouTube channel.
+We were given an image of a sculpture. First, we need to determine the artist who created the sculpture, and then we need to find their YouTube channel.
 
 ![sculpture](sculpture.jpg)
 

@@ -2,7 +2,7 @@
 > Hey what do you think about my blog?
 
 ## About the Challenge
-We have been given a plain website that contains a blog
+We were given a plain website that contains a blog
 
 ![preview](images/preview.png)
 

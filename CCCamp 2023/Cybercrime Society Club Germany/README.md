@@ -2,7 +2,7 @@
 > You are agent Json Bourne. Your mission: Hack this new cybercrime website before it is too late.
 
 ## About the Challenge
-We have been given a website and a source code (You can download the source code [here](cybercrime-society-club-germany.zip))
+We were given a website and a source code (You can download the source code [here](cybercrime-society-club-germany.zip))
 
 ![preview](images/preview.png)
 

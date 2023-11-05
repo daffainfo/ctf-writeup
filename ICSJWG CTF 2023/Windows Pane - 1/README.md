@@ -10,7 +10,7 @@
 > Flag format: username of the noncompliant account. If the username is MARK_ZUCKER, the flag would be MARK_ZUCKER
 
 ## About the Challenge
-We have been given a CSV file (You can download the file [here](LogonEvents.csv)) that contains windows event logs. We need to find the username of the account that is noncompliant with the company policy
+We were given a CSV file (You can download the file [here](LogonEvents.csv)) that contains windows event logs. We need to find the username of the account that is noncompliant with the company policy
 
 ![preview](images/preview.png)
 

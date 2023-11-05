@@ -2,7 +2,7 @@
 > Some idiot made this web site that you can log in to. The idiot even made it in php. I dunno.
 
 ## About the Challenge
-We have been given a website that has 2 functionality, first we can register as a user in this website
+We were given a website that has 2 functionality, first we can register as a user in this website
 
 ![register](images/register.png)
 

@@ -5,7 +5,7 @@
 > c = 6743459147531103219359362407406880068975344190794689965016
 
 ## About the Challenge
-We have been given a python code and here is the content of the file
+We were given a python code and here is the content of the file
 
 ```python
 from Crypto.Util.number import *

@@ -2,7 +2,7 @@
 > We have developed an innovative disease detection system using graph theory. Come and test our system, all your personal data is securely protected
 
 ## About the Challenge
-We have been given a source code (You can download the source code [here](source.zip)) and a website, here is the preview of the website
+We were given a source code (You can download the source code [here](source.zip)) and a website, here is the preview of the website
 
 ![preview](images/preview.png)
 
