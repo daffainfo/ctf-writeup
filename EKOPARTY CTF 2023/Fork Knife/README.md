@@ -28,7 +28,7 @@ ame: Say Hi
 
 This workflow will send the flag to `webhook.site` using `curl` command, and then create a pull request to trigger the workflow
 
-![flag](imagess/flag.png)
+![flag](images/flag.png)
 
 ```
 EKO{pr3v3nt_PWN_r3qu3stS}

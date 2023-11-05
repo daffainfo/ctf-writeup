@@ -65,7 +65,7 @@ How to do that? Instead of input a string nor an array, we need to input JSON in
 }
 ```
 
-![Alt text](image.png)
+![bypass](images/bypass.png)
 
 We have bypassed the length check, and now we need to input a "palindrome" string. To do this, i wrote a simple code to debug the `validatePalindrome()` function in my computer
 
