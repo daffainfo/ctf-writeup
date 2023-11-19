@@ -17,7 +17,7 @@ You got the password! And right now you can use `steghide` or AperiSolve again b
 
 ![steghide](images/steghide.png)
 
-Download the result and voila!
+Download the result and voilà!
 
 ```
 UDCTF{lay3r5_0n_lay3r5}

@@ -124,6 +124,7 @@ List of CTF events that i have joined before
 | BlueHens CTF 2023 | Yes | [Link](/BlueHens%20CTF%202023/) |
 | EKOPARTY CTF 2023 | Yes | [Link](/EKOPARTY%20CTF%202023/) |
 | TSG CTF 2023 | Yes | [Link](/TSG%20CTF%202023/) |
+| 1337UP LIVE CTF | Yes | [Link](/1337UP%20LIVE%20CTF/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
