@@ -125,10 +125,12 @@ List of CTF events that i have joined before
 | EKOPARTY CTF 2023 | Yes | [Link](/EKOPARTY%20CTF%202023/) |
 | TSG CTF 2023 | Yes | [Link](/TSG%20CTF%202023/) |
 | 1337UP LIVE CTF | Yes | [Link](/1337UP%20LIVE%20CTF/) |
+| NewportBlakeCTF 2023 | Yes | [Link](/NewportBlakeCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
+| Cyber Jawara 2023 - Umum | No | [Link](/Cyber%20Jawara%202023%20-%20Umum/) |
 | Information and Technology Festival 2023 | No | - |
 | 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
 | N45HTCTF2023 2023 | No | - |

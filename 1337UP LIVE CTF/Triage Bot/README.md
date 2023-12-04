@@ -1,4 +1,4 @@
-# Welcome To HackTM CTF 2023 Quals
+# Triage Bot
 > `-`
 
 ## About the Challenge
