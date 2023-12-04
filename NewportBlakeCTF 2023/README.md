@@ -1,5 +1,5 @@
 # NewportBlakeCTF 2023
-CTF writeup for The 0ByteCTF 2023. I took part in this CTF competition (Solo) and secured the 80th place out of 376+ users
+CTF writeup for The 0ByteCTF 2023. I took part in this CTF competition (Solo) and secured the 77th place out of 376+ users
 
 | Category | Challenge |
 | --- | --- |
