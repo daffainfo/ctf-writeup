@@ -60,5 +60,5 @@ Run the script and voilà!
 ![flag](images/flag.png)
 
 ```
-HackTM{Timisoara}
+INTIGRITI{m4yb3_4_k3y_w0uld_b3_b3773r_4f73r_4ll}
 ```

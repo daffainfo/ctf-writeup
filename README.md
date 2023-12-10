@@ -126,6 +126,8 @@ List of CTF events that i have joined before
 | TSG CTF 2023 | Yes | [Link](/TSG%20CTF%202023/) |
 | 1337UP LIVE CTF | Yes | [Link](/1337UP%20LIVE%20CTF/) |
 | NewportBlakeCTF 2023 | Yes | [Link](/NewportBlakeCTF%202023/) |
+| Hackappatoi CTF '23 | No | - |
+| pingCTF 2023 | Yes | [Link](/pingCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
