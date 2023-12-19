@@ -14,5 +14,5 @@ In this case im using `strings` and `grep` to get the flag
 ![flag](images/flag.png)
 
 ```
-nite{8_bit_synths}
+nite{cant_catch_me}
 ```

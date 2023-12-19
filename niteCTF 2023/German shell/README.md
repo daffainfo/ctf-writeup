@@ -21,7 +21,7 @@ As we can see here, the program will reverse the results of our input and also s
 t - 0 = t
 a - 1 = z
 c - 2 = a
-3. To execute `cat`, we need to input `tac`
+3. To execute `cat`, we need to input `tza`
 ```
 
 But this doesn't apply to special character because they always changed the character every second
