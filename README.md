@@ -5,7 +5,7 @@ This repository shall comprise writeups concerning Capture The Flag (CTF) compet
 This is a list of wins we have achieved while participating in several CTF competitions
 
 ### Total Writeups
-There are __500__ CTF writeups that have been made in this repository
+There are __505__ CTF writeups that have been made in this repository
 
 ### CTF Competitions
 
