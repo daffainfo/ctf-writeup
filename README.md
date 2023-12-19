@@ -128,10 +128,10 @@ List of CTF events that i have joined before
 | NewportBlakeCTF 2023 | Yes | [Link](/NewportBlakeCTF%202023/) |
 | Hackappatoi CTF '23 | No | - |
 | pingCTF 2023 | Yes | [Link](/pingCTF%202023/) |
-| The Cyber Cooperative CTF | Yes | - |
+| The Cyber Cooperative CTF | Yes | [Link](/The%20Cyber%20Cooperative%20CTF/) |
 | BackdoorCTF 2023 | No | - |
 | 1st Annual TCM Invitational CTF | No | - |
-| niteCTF 2023 | Yes | - |
+| niteCTF 2023 | Yes | [Link](/niteCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |

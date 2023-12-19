@@ -17,7 +17,7 @@ Given a ZIP file containing server logs from a website. There are 39,099 lines i
 ## How to Solve?
 The first thing I did was to search for any suspicious requests, such as hacking attempts or random requests. In the log, I found 1 IP address, which is `178.19.45.123`, that seems to be involved in hacking attempts.
 
-![suspicious_requests_1](images/suspicious_requests_1.png.png)
+![suspicious_requests_1](images/suspicious_requests_1.png)
 
 ![ip](images/ip.png)
 

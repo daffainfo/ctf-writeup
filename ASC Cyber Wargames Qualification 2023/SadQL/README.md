@@ -2,7 +2,7 @@
 > I do not know whether I should say that or not, but you must bypass the login in any way, but remember that forcing does not always work. (Make Your Choice)
 
 ## About the Challenge
-We were given a website (Without source code) and we need to bypass the login page
+We were given a website (without the source code) and we need to bypass the login page
 
 ![preview](images/preview.png)
 

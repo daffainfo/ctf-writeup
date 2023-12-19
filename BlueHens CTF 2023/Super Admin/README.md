@@ -2,7 +2,7 @@
 > Comfort food.
 
 ## About the Challenge
-We were given a website without a source code, and we need to login as admin in order to get the flag
+We were given a website without the source code, and we need to login as admin in order to get the flag
 
 ![preview](images/preview.png)
 

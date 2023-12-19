@@ -2,7 +2,7 @@
 > https://bluehens-cat-the-flask.chals.io/greeting/hi
 
 ## About the Challenge
-We were given a website without a source code, every input after `/greeting/*` is reflected in the website
+We were given a website without the source code, every input after `/greeting/*` is reflected in the website
 
 ![preview](images/preview.png)
 

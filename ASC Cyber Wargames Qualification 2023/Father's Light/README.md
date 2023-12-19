@@ -2,7 +2,7 @@
 > Enter the enigmatic realm of "Father of Light" Unleash your skills, explore hidden paths, and uncover the depths of mysterious creations. Will you emerge as the champion? Dare to unravel the enigma.
 
 ## About the Challenge
-We were given a website (Without source code) and there is a login page in this website
+We were given a website (without the source code) and there is a login page in this website
 
 ![preview](images/preview.png)
 

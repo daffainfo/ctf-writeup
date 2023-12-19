@@ -28,11 +28,11 @@ cat usbms.json | grep '"52617221'
 
 Okay we found it, and then I submitted the hex code into CyberChef
 
-![Alt text](image.png)
+![Alt text](images/rar.png)
 
 As you can see, there is a file with a `.bat` extension—hmm, weird. If you analyze the RAR file, this is the payload for `CVE-2023-38831`. And then I extracted the bat file and submitted into a sandbox malware online platform
 
-![Alt text](image-1.png)
+![Alt text](images/flag.png)
 
 ```
 STS23{C0mPrem1zed_d3sktop_h3h3}

@@ -3,7 +3,7 @@
 > You are a penetration tester hired by a small company who got their website hacked recently. They said the hacker somehow got administrative privilege to the website, but there were no logs indicated that an our main admin account was used in other IP Address else than our administrator IP Address. Can you help this company to find the vulnerabilities so that they can patch it ASAP?
 
 ## About the Challenge
-We were given a website without a source code, and there are some functionality such as:
+We were given a website without the source code, and there are some functionality such as:
 * Register
 * Login
 * Setting acount
