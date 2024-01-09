@@ -1,7 +1,8 @@
 import os
 import re
 
-folder_path = "."
+folder_path = "./2024"
+total_writeup_2023 = 527
 
 if os.path.exists(folder_path) and os.path.isdir(folder_path):
     first_level_subfolders = [name for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
@@ -20,7 +21,7 @@ if os.path.exists(folder_path) and os.path.isdir(folder_path):
 
         pattern = r"(There are __)(\d+)(__ CTF writeups that have been made in this repository)"
 
-        replacement = f"There are __{total_second_level_subfolder_count}__ CTF writeups that have been made in this repository"
+        replacement = f"There are __{total_second_level_subfolder_count + total_writeup_2023}__ CTF writeups that have been made in this repository"
         content = re.sub(pattern, replacement, content)
 
         with open(readme_file, 'w') as file:
