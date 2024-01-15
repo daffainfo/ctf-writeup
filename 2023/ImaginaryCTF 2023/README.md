@@ -3,7 +3,7 @@ CTF writeup for The ImaginaryCTF 2023. I took part in this CTF competition with 
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Idoriot](/ImaginaryCTF%202023/Idoriot/)
-| Web | [roks](/ImaginaryCTF%202023/roks/)
-| Crypto | [rsa](/ImaginaryCTF%202023/rsa/)
-| Forensic | [web](/ImaginaryCTF%202023/web/)
+| Web | [Idoriot](/2023/ImaginaryCTF%202023/Idoriot/)
+| Web | [roks](/2023/ImaginaryCTF%202023/roks/)
+| Crypto | [rsa](/2023/ImaginaryCTF%202023/rsa/)
+| Forensic | [web](/2023/ImaginaryCTF%202023/web/)

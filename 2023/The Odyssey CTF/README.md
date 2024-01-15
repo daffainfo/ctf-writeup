@@ -3,5 +3,5 @@ CTF writeup for The The Odyssey CTF. I took part in this CTF competition with th
 
 | Category | Challenge |
 | --- | --- |
-| Forensic | [Tengu In Colosseum](/The%20Odyssey%20CTF/Black%20Pandora/)
-| Forensic | [Black Pandora](/The%20Odyssey%20CTF/Tengu%20In%20Colosseum/)
+| Forensic | [Tengu In Colosseum](/2023/The%20Odyssey%20CTF/Black%20Pandora/)
+| Forensic | [Black Pandora](/2023/The%20Odyssey%20CTF/Tengu%20In%20Colosseum/)

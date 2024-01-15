@@ -5,9 +5,9 @@ Thanks to the TCP1P team especially @dimasma0305 and @Rizsyad AR
 
 | Category | Challenge |
 | --- | --- |
-| Intro | [Cookies](/CTF%20After%20Dark%20-%20Winter%202023/Bagels/)
-| Intro | [Secure Platform](/CTF%20After%20Dark%20-%20Winter%202023/Secure%20Platform/)
-| Intro | [Bagels](/CTF%20After%20Dark%20-%20Winter%202023/Bagels/)
-| SQLi | [Bank](/CTF%20After%20Dark%20-%20Winter%202023/Bank/)
-| SQLi | [SQL Prevention-101](/CTF%20After%20Dark%20-%20Winter%202023/SQL%20Prevention-101/)
-| LFI | [Star Poet Blog](/CTF%20After%20Dark%20-%20Winter%202023/Star%20Poet%20Blog/)
+| Intro | [Cookies](/2023/CTF%20After%20Dark%20-%20Winter%202023/Bagels/)
+| Intro | [Secure Platform](/2023/CTF%20After%20Dark%20-%20Winter%202023/Secure%20Platform/)
+| Intro | [Bagels](/2023/CTF%20After%20Dark%20-%20Winter%202023/Bagels/)
+| SQLi | [Bank](/2023/CTF%20After%20Dark%20-%20Winter%202023/Bank/)
+| SQLi | [SQL Prevention-101](/2023/CTF%20After%20Dark%20-%20Winter%202023/SQL%20Prevention-101/)
+| LFI | [Star Poet Blog](/2023/CTF%20After%20Dark%20-%20Winter%202023/Star%20Poet%20Blog/)

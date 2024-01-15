@@ -5,6 +5,6 @@ Thanks to the TCP1P team especially @dimasma0305 and @yuuna
 
 | Category | Challenge |
 | --- | --- |
-| Web | [flagcopy](/Security%20Fest%20CTF%202023/flagcopy/)
-| Web | [legacy](/Security%20Fest%20CTF%202023/legacy/)
-| Web | [legacyversion2](/Security%20Fest%20CTF%202023/legacyversion2/)
+| Web | [flagcopy](/2023/Security%20Fest%20CTF%202023/flagcopy/)
+| Web | [legacy](/2023/Security%20Fest%20CTF%202023/legacy/)
+| Web | [legacyversion2](/2023/Security%20Fest%20CTF%202023/legacyversion2/)

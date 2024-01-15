@@ -5,7 +5,7 @@
 We need to find the threat actor server, and then hash it using MD5
 
 ## How to Solve?
-You can see the threat actor server in the powershell script that we have obfuscate before (Check [IR #3](/NahamCon%20CTF%202023/IR%20%233/))
+You can see the threat actor server in the powershell script that we have obfuscate before (Check [IR #3](/2023/NahamCon%20CTF%202023/IR%20%233/))
 
 ![flag](images/flag.png)
 

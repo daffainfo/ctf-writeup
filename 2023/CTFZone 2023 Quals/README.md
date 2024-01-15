@@ -3,6 +3,6 @@ CTF writeup for The CTFZone 2023 Quals. I took part in this CTF competition with
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Dead or Alive](/CTFZone%202023%20Quals/Dead%20or%20Alive/)
-| Web | [Dead or Alive 2](/CTFZone%202023%20Quals/Dead%20or%20Alive%202/)
-| Web | [Under construction](/CTFZone%202023%20Quals/Under%20construction/)
+| Web | [Dead or Alive](/2023/CTFZone%202023%20Quals/Dead%20or%20Alive/)
+| Web | [Dead or Alive 2](/2023/CTFZone%202023%20Quals/Dead%20or%20Alive%202/)
+| Web | [Under construction](/2023/CTFZone%202023%20Quals/Under%20construction/)

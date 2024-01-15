@@ -13,7 +13,7 @@ can hack us now >:)
 > (im not sure what kind of blog that is tho...)
 
 ## About the Challenge
-We are given a website and a source code (You can find the source code [here](/HackTM%202023/Blog/dist.zip))
+We are given a website and a source code (You can find the source code [here](/2023/HackTM%202023/Blog/dist.zip))
 
 ![preview](images/preview.png)
 

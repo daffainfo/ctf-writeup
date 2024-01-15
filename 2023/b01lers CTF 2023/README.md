@@ -3,6 +3,6 @@ CTF writeup for b01lers CTF 2023. I took part in this CTF competition with my fr
 
 | Category | Challenge |
 | --- | --- |
-| Web | [warmup](/b01lers%20CTF%202023/warmup/)
-| Misc | [switcheroo](/b01lers%20CTF%202023/switcheroo/)
-| Misc | [abhs](/b01lers%20CTF%202023/abhs/)
+| Web | [warmup](/2023/b01lers%20CTF%202023/warmup/)
+| Misc | [switcheroo](/2023/b01lers%20CTF%202023/switcheroo/)
+| Misc | [abhs](/2023/b01lers%20CTF%202023/abhs/)

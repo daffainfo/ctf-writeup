@@ -3,5 +3,5 @@ CTF writeup for Midnight Sun CTF 2023 Quals. I took part in this CTF competition
 
 | Category | Challenge |
 | --- | --- |
-| Web | [matchmaker](/Midnight%20Sun%20CTF%202023%20Quals/matchmaker/)
-| Pwn | [MemeControl](/Midnight%20Sun%20CTF%202023%20Quals/MemeControl/)
+| Web | [matchmaker](/2023/Midnight%20Sun%20CTF%202023%20Quals/matchmaker/)
+| Pwn | [MemeControl](/2023/Midnight%20Sun%20CTF%202023%20Quals/MemeControl/)

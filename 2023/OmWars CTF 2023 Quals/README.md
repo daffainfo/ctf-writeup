@@ -3,5 +3,5 @@ CTF writeup for OmWars CTF 2023 Quals. I took part in this CTF competition with 
 
 | Category | Challenge |
 | --- | --- |
-| Web | [spice](/OmWars%20CTF%202023%20Quals/spice/)
-| Osint | [galactic subdomains](/OmWars%20CTF%202023%20Quals/galactic%20subdomains/)
+| Web | [spice](/2023/OmWars%20CTF%202023%20Quals/spice/)
+| Osint | [galactic subdomains](/2023/OmWars%20CTF%202023%20Quals/galactic%20subdomains/)

@@ -23,10 +23,10 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-The program will applies bitwise XOR on each character using `0x66`. (You can get the script [**here**](/KnightCTF%202023/Xorathrust/encrypt.py))
+The program will applies bitwise XOR on each character using `0x66`. (You can get the script [**here**](/2023/KnightCTF%202023/Xorathrust/encrypt.py))
 
 ## How to Solve?
-Well, its very easy. You just need to re run the script to get the flag (You can get the script [**here**](/KnightCTF%202023/Xorathrust/decrypt.py))
+Well, its very easy. You just need to re run the script to get the flag (You can get the script [**here**](/2023/KnightCTF%202023/Xorathrust/decrypt.py))
 ```python
 def main():
 

@@ -3,5 +3,5 @@ CTF writeup for The HackTM CTF 2023. I took part in this CTF competition with No
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Static Web](/Cyber%20Jawara%202023%20-%20Umum/Static%20Web/)
-| Web | [Magic 1](/Cyber%20Jawara%202023%20-%20Umum/Magic%201/)
+| Web | [Static Web](/2023/Cyber%20Jawara%202023%20-%20Umum/Static%20Web/)
+| Web | [Magic 1](/2023/Cyber%20Jawara%202023%20-%20Umum/Magic%201/)

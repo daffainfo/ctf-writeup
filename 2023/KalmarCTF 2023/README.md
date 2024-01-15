@@ -5,6 +5,6 @@ Thanks to the TCP1P team especially @dimasma0305 and @ch0p
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Ez ⛳](/KalmarCTF%202023/Ez%20%E2%9B%B3/)
-| Forensic | [sewing-waste-and-agriculture-leftovers](/KalmarCTF%202023/sewing-waste-and-agriculture-leftovers/)
-| Misc | [Sanity Check](/KalmarCTF%202023/Sanity%20Check/)
+| Web | [Ez ⛳](/2023/KalmarCTF%202023/Ez%20%E2%9B%B3/)
+| Forensic | [sewing-waste-and-agriculture-leftovers](/2023/KalmarCTF%202023/sewing-waste-and-agriculture-leftovers/)
+| Misc | [Sanity Check](/2023/KalmarCTF%202023/Sanity%20Check/)

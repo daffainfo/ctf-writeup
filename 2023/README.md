@@ -39,111 +39,111 @@ List of CTF events that i have joined before
 ### Global Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
-| IrisCTF 2023 | Yes | [Link](/IrisCTF%202023/) |
-| KnightCTF 2023 | Yes	| [Link](/KnightCTF%202023/) |
-| MHSCTF 2023  | Yes | [Link](/MHSCTF%202023/) |
-| Byte BanditsCTF 2023 | Yes | [Link](/ByteBanditsCTF%202023/) |
-| LA CTF 2023 | Yes | [Link](/LA%20CTF%202023/) |
-| 0xL4ughCTF 2023 | Yes | [Link](/0xL4ugh%20CTF%202023/) |
-| Incognito CTF 2023 | Yes | [Link](/IncognitoCTF%202023/) |
-| HackTM Quals 2023 | Yes | [Link](/HackTM%20Quals%202023/) |
-| VU CYBERTHON 2023 | Yes | [Link](/VU%20CYBERTHON%202023/) |
-| WxMCTF 2023 | Yes | [Link](/WxMCTF%202023/) |
+| IrisCTF 2023 | Yes | [Link](/2023/IrisCTF%202023/) |
+| KnightCTF 2023 | Yes	| [Link](/2023/KnightCTF%202023/) |
+| MHSCTF 2023  | Yes | [Link](/2023/MHSCTF%202023/) |
+| Byte BanditsCTF 2023 | Yes | [Link](/2023/ByteBanditsCTF%202023/) |
+| LA CTF 2023 | Yes | [Link](/2023/LA%20CTF%202023/) |
+| 0xL4ughCTF 2023 | Yes | [Link](/2023/0xL4ugh%20CTF%202023/) |
+| Incognito CTF 2023 | Yes | [Link](/2023/IncognitoCTF%202023/) |
+| HackTM Quals 2023 | Yes | [Link](/2023/HackTM%20Quals%202023/) |
+| VU CYBERTHON 2023 | Yes | [Link](/2023/VU%20CYBERTHON%202023/) |
+| WxMCTF 2023 | Yes | [Link](/2023/WxMCTF%202023/) |
 | Cyber Security Challenge Germany 2023 | No | - |
-| CTF After Dark - Winter 2023 | Yes | [Link](/CTF%20After%20Dark%20-%20Winter%202023/) |
-| KalmarCTF 2023 | Yes | [Link](/KalmarCTF%202023/) |
-| Nullcon HackIM CTF 2023 | Yes | [Link](/Nullcon%20HackIM%20CTF%202023/) |
-| Rush CTF 2023 | Yes | [Link](/Rush%20CTF%202023/) |
-| FooBar CTF 2023 | Yes | [Link](/Foobar%20CTF%202023/) |
-| SpringForwardCTF 2023 | Yes | [Link](/SpringForwardCTF%202023/) |
-| DaVinci CTF 2023 | Yes | [Link](/DaVinci%20CTF%202023/) |
-| UTCTF 2023 | Yes | [Link](/UTCTF%202023/) |
-| picoCTF 2023 | Yes | [Link](/picoCTF%202023/) |
-| VikeCTF 2023 | Yes | [Link](/vikeCTF%202023/) |
-| WolvCTF 2023 | Yes | [Link](/WolvCTF%202023/) |
-| b01lers CTF 2023 | Yes | [Link](/b01lers%20CTF%202023/) |
-| OmWars CTF 2023 Quals | Yes | [Link](/OmWars%20CTF%202023%20Quals/)
-| Cyber Apocalypse 2023: The Cursed Mission | Yes | [Link](/Cyber%20Apocalypse%202023%20The%20Cursed%20Mission/) |
-| LINE CTF 2023 | Yes | [Link](/LINE%20CTF%202023/) |
-| UMass CTF 2023 | Yes | [Link](/UMass%20CTF%202023/) |
-| VishwaCTF 2023 | Yes | [Link](/VishwaCTF%202023/) |
-| RITSEC CTF 2023 | Yes | [Link](/RITSEC%20CTF%202023/) |
-| GREP CTF 2023 | Yes | [Link](/GREP%20CTF%202023/) |
-| Midnight Sun CTF 2023 Quals | Yes | [Link](/Midnight%20Sun%20CTF%202023%20Quals/) |
-| Bucket CTF 2023 | Yes | [Link](/Midnight%20Sun%20CTF%202023%20Quals/) |
-| cursedCTF 2023 | Yes | [Link](/cursedCTF%202023/) |
-| HackPack CTF 2023 | Yes | [Link](/Hackpack%20CTF%202023/) |
-| Cyberconférence CTF (24h@CTF '23) | Yes | [Link](/24h%40CTF%202023/) |
-| Texas Security Awareness Week 2023 | Yes | [Link](/TexSAW%202023/) |
-| WaniCTF 2023 | Yes | [Link](/WaniCTF%202023/) |
-| ICSJWG Spring 2023 | Yes | [Link](/ICSJWG%20CTF%202023/) |
-| DeadSec CTF 2023 | Yes | [Link](/DeadSec%20CTF%202023/) |
-| BYUCTF 2023 | Yes | [Link](/BYUCTF%202023/) |
+| CTF After Dark - Winter 2023 | Yes | [Link](/2023/CTF%20After%20Dark%20-%20Winter%202023/) |
+| KalmarCTF 2023 | Yes | [Link](/2023/KalmarCTF%202023/) |
+| Nullcon HackIM CTF 2023 | Yes | [Link](/2023/Nullcon%20HackIM%20CTF%202023/) |
+| Rush CTF 2023 | Yes | [Link](/2023/Rush%20CTF%202023/) |
+| FooBar CTF 2023 | Yes | [Link](/2023/Foobar%20CTF%202023/) |
+| SpringForwardCTF 2023 | Yes | [Link](/2023/SpringForwardCTF%202023/) |
+| DaVinci CTF 2023 | Yes | [Link](/2023/DaVinci%20CTF%202023/) |
+| UTCTF 2023 | Yes | [Link](/2023/UTCTF%202023/) |
+| picoCTF 2023 | Yes | [Link](/2023/picoCTF%202023/) |
+| VikeCTF 2023 | Yes | [Link](/2023/vikeCTF%202023/) |
+| WolvCTF 2023 | Yes | [Link](/2023/WolvCTF%202023/) |
+| b01lers CTF 2023 | Yes | [Link](/2023/b01lers%20CTF%202023/) |
+| OmWars CTF 2023 Quals | Yes | [Link](/2023/OmWars%20CTF%202023%20Quals/)
+| Cyber Apocalypse 2023: The Cursed Mission | Yes | [Link](/2023/Cyber%20Apocalypse%202023%20The%20Cursed%20Mission/) |
+| LINE CTF 2023 | Yes | [Link](/2023/LINE%20CTF%202023/) |
+| UMass CTF 2023 | Yes | [Link](/2023/UMass%20CTF%202023/) |
+| VishwaCTF 2023 | Yes | [Link](/2023/VishwaCTF%202023/) |
+| RITSEC CTF 2023 | Yes | [Link](/2023/RITSEC%20CTF%202023/) |
+| GREP CTF 2023 | Yes | [Link](/2023/GREP%20CTF%202023/) |
+| Midnight Sun CTF 2023 Quals | Yes | [Link](/2023/Midnight%20Sun%20CTF%202023%20Quals/) |
+| Bucket CTF 2023 | Yes | [Link](/2023/Midnight%20Sun%20CTF%202023%20Quals/) |
+| cursedCTF 2023 | Yes | [Link](/2023/cursedCTF%202023/) |
+| HackPack CTF 2023 | Yes | [Link](/2023/Hackpack%20CTF%202023/) |
+| Cyberconférence CTF (24h@CTF '23) | Yes | [Link](/2023/24h%40CTF%202023/) |
+| Texas Security Awareness Week 2023 | Yes | [Link](/2023/TexSAW%202023/) |
+| WaniCTF 2023 | Yes | [Link](/2023/WaniCTF%202023/) |
+| ICSJWG Spring 2023 | Yes | [Link](/2023/ICSJWG%20CTF%202023/) |
+| DeadSec CTF 2023 | Yes | [Link](/2023/DeadSec%20CTF%202023/) |
+| BYUCTF 2023 | Yes | [Link](/2023/BYUCTF%202023/) |
 | Grey CTF 2023 Qualifiers | No | - |
-| Security Fest CTF 2023 | Yes | [Link](/Security%20Fest%20CTF%202023/) |
-| TJCTF 2023 | Yes | [Link](/TJCTF%202023/) |
-| BxMCTF 2023 | Yes | [Link](/BxMCTF%202023/) |
-| DanteCTF 2023 | Yes | [Link](/DanteCTF%202023/) |
+| Security Fest CTF 2023 | Yes | [Link](/2023/Security%20Fest%20CTF%202023/) |
+| TJCTF 2023 | Yes | [Link](/2023/TJCTF%202023/) |
+| BxMCTF 2023 | Yes | [Link](/2023/BxMCTF%202023/) |
+| DanteCTF 2023 | Yes | [Link](/2023/DanteCTF%202023/) |
 | Break the Syntax CTF 2023 | No | - |
-| JustCTF 2023 | Yes | [Link](/justCTF%202023/) |
-| HSCTF 2023 | Yes | [Link](/HSCTF%202023/) |
-| GPN CTF 2023 | Yes | [Link](/GPN%20CTF%202023/) |
+| JustCTF 2023 | Yes | [Link](/2023/justCTF%202023/) |
+| HSCTF 2023 | Yes | [Link](/2023/HSCTF%202023/) |
+| GPN CTF 2023 | Yes | [Link](/2023/GPN%20CTF%202023/) |
 | n00bzCTF 2023 | No | - |
 | BCACTF 2023 | No | - |
-| SEETF 2023 | Yes | [Link](/SEETF%202023/) |
+| SEETF 2023 | Yes | [Link](/2023/SEETF%202023/) |
 | Africa battleCTF 2023 prequal | No | - |
-| Google CTF 2023 | Yes | [Link](/Google%20CTF%202023/) |
-| UIUCTF 2023 | Yes | [Link](/UIUCTF%202023/) |
-| CryptoCTF 2023 | Yes | [Link](/CryptoCTF%202023/) |
-| CyberSecurityRumble Quals | Yes | [Link](/CyberSecurityRumble%20Quals/) |
-| CrewCTF 2023 | Yes | [Link](/CrewCTF%202023/) |
-| Business CTF 2023: The Great Escape | Yes | [Link](/Business%20CTF%202023%20The%20Great%20Escape/) |
-| AmateursCTF 2023 | Yes | [Link](/AmateursCTF%202023/) |
-| BDSec CTF 2023 | Yes | [Link](/BDSec%20CTF%202023/) |
-| The Odyssey CTF | Yes | [Link](/The%20Odyssey%20CTF/) |
+| Google CTF 2023 | Yes | [Link](/2023/Google%20CTF%202023/) |
+| UIUCTF 2023 | Yes | [Link](/2023/UIUCTF%202023/) |
+| CryptoCTF 2023 | Yes | [Link](/2023/CryptoCTF%202023/) |
+| CyberSecurityRumble Quals | Yes | [Link](/2023/CyberSecurityRumble%20Quals/) |
+| CrewCTF 2023 | Yes | [Link](/2023/CrewCTF%202023/) |
+| Business CTF 2023: The Great Escape | Yes | [Link](/2023/Business%20CTF%202023%20The%20Great%20Escape/) |
+| AmateursCTF 2023 | Yes | [Link](/2023/AmateursCTF%202023/) |
+| BDSec CTF 2023 | Yes | [Link](/2023/BDSec%20CTF%202023/) |
+| The Odyssey CTF | Yes | [Link](/2023/The%20Odyssey%20CTF/) |
 | TFC CTF 2023 | No | - |
-| ASC Cyber Wargames Qualification 2023 | Yes | [Link](/ASC%20Cyber%20Wargames%20Qualification%202023/) |
+| ASC Cyber Wargames Qualification 2023 | Yes | [Link](/2023/ASC%20Cyber%20Wargames%20Qualification%202023/) |
 | LIT CTF 2023 | No | - |
-| DeconstruCT.F 2023 | Yes | [Link](/DeconstruCT.F%202023/) |
-| Tenable CTF 2023 | Yes | [Link](/Tenable%20CTF%202023/) |
-| CCCamp 2023 | Yes | [Link](/CCCamp%202023/) |
-| h4ckc0n 2023 | Yes | [Link](/h4ckc0n%202023/) |
+| DeconstruCT.F 2023 | Yes | [Link](/2023/DeconstruCT.F%202023/) |
+| Tenable CTF 2023 | Yes | [Link](/2023/Tenable%20CTF%202023/) |
+| CCCamp 2023 | Yes | [Link](/2023/CCCamp%202023/) |
+| h4ckc0n 2023 | Yes | [Link](/2023/h4ckc0n%202023/) |
 | Sekai CTF 2023 | No | - |
-| DownUnderCTF 2023 | Yes | [Link](/DownUnderCTF%202023/) |
+| DownUnderCTF 2023 | Yes | [Link](/2023/DownUnderCTF%202023/) |
 | PatriotCTF 2023 | No | - |
 | Cyber Heroines CTF | No | - |
 | Urmia CTF 2023 | No | - |
-| CSAW CTF Qual 2023 2023 | Yes | [Link](/CSAW%20CTF%20Qualification%20Round%202023/) |
-| Winja CTF 2023 | Yes | [Link](/Winja%20CTF%202023/) |
-| Buckeye CTF 2023 | Yes | [Link](/Buckeye%20CTF%202023/) |
-| SunshineCTF 2023 | Yes | [Link](/SunshineCTF%202023/) |
-| DefCamp Capture the Flag (D-CTF) 2023 Quals | Yes | [Link](/DefCamp%20Capture%20the%20Flag%20(D-CTF)%202023%20Quals/) |
+| CSAW CTF Qual 2023 2023 | Yes | [Link](/2023/CSAW%20CTF%20Qualification%20Round%202023/) |
+| Winja CTF 2023 | Yes | [Link](/2023/Winja%20CTF%202023/) |
+| Buckeye CTF 2023 | Yes | [Link](/2023/Buckeye%20CTF%202023/) |
+| SunshineCTF 2023 | Yes | [Link](/2023/SunshineCTF%202023/) |
+| DefCamp Capture the Flag (D-CTF) 2023 Quals | Yes | [Link](/2023/DefCamp%20Capture%20the%20Flag%20(D-CTF)%202023%20Quals/) |
 | ASEAN Student Contest on Information Security Qualification 2023 | No | - |
 | ASEAN Student Contest on Information Security Semi-Final 2023 | No | - |
-| Srdnlen CTF 2023 | Yes | [Link](/Srdnlen%20CTF%202023/) |
-| BlueHens CTF 2023 | Yes | [Link](/BlueHens%20CTF%202023/) |
-| EKOPARTY CTF 2023 | Yes | [Link](/EKOPARTY%20CTF%202023/) |
-| TSG CTF 2023 | Yes | [Link](/TSG%20CTF%202023/) |
-| 1337UP LIVE CTF | Yes | [Link](/1337UP%20LIVE%20CTF/) |
-| NewportBlakeCTF 2023 | Yes | [Link](/NewportBlakeCTF%202023/) |
+| Srdnlen CTF 2023 | Yes | [Link](/2023/Srdnlen%20CTF%202023/) |
+| BlueHens CTF 2023 | Yes | [Link](/2023/BlueHens%20CTF%202023/) |
+| EKOPARTY CTF 2023 | Yes | [Link](/2023/EKOPARTY%20CTF%202023/) |
+| TSG CTF 2023 | Yes | [Link](/2023/TSG%20CTF%202023/) |
+| 1337UP LIVE CTF | Yes | [Link](/2023/1337UP%20LIVE%20CTF/) |
+| NewportBlakeCTF 2023 | Yes | [Link](/2023/NewportBlakeCTF%202023/) |
 | Hackappatoi CTF '23 | No | - |
-| pingCTF 2023 | Yes | [Link](/pingCTF%202023/) |
-| The Cyber Cooperative CTF | Yes | [Link](/The%20Cyber%20Cooperative%20CTF/) |
+| pingCTF 2023 | Yes | [Link](/2023/pingCTF%202023/) |
+| The Cyber Cooperative CTF | Yes | [Link](/2023/The%20Cyber%20Cooperative%20CTF/) |
 | BackdoorCTF 2023 | No | - |
 | 1st Annual TCM Invitational CTF | No | - |
-| niteCTF 2023 | Yes | [Link](/niteCTF%202023/) |
+| niteCTF 2023 | Yes | [Link](/2023/niteCTF%202023/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
-| CTF Secur{i}e The System | Yes | [Link](/CTF%20Secur{i}e%20The%20System/) |
-| Cyber Jawara 2023 - Umum | Yes | [Link](/Cyber%20Jawara%202023%20-%20Umum/) |
+| CTF Secur{i}e The System | Yes | [Link](/2023/CTF%20Secur{i}e%20The%20System/) |
+| Cyber Jawara 2023 - Umum | Yes | [Link](/2023/Cyber%20Jawara%202023%20-%20Umum/) |
 | Information and Technology Festival 2023 | No | - |
-| 0ByteCTF 2023 | Yes | [Link](/0ByteCTF%202023/) |
+| 0ByteCTF 2023 | Yes | [Link](/2023/0ByteCTF%202023/) |
 | N45HTCTF2023 2023 | No | - |
 | Infinity CTF Final 2023 | No | - |
 | Infinity CTF Qualifier 2023 | No | - |
 | Unity CTF Final 2023 | No | - |
 | Unity CTF Qualifier 2023 | No | - |
 | JOINTS CTF Qualifier 2023 | No | - |
-| CTF ARA 2023 | Yes | [Link](/CTF%20ARA%202023/) |
+| CTF ARA 2023 | Yes | [Link](/2023/CTF%20ARA%202023/) |

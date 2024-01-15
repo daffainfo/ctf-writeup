@@ -3,4 +3,4 @@ CTF writeup for The UMass CTF 2023. I took part in this CTF competition with the
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Deepfried](/UMass%20CTF%202023/Deepfried/)
+| Web | [Deepfried](/2023/UMass%20CTF%202023/Deepfried/)

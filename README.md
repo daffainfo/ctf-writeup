@@ -40,7 +40,8 @@ List of CTF events that i have joined before
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
 | IrisCTF 2024 | No | - |
-| New Year CTF 2024 | Yes | - |
+| New Year CTF 2024 | No | - |
+| UofTCTF 2024 | Yes | - |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |

@@ -3,4 +3,4 @@ CTF writeup for The GPN CTF 2023. I took part in this CTF competition with the T
 
 | Category | Challenge |
 | --- | --- |
-| Crypto | [ref4ctory](/GPN%20CTF%202023/ref4ctory/)
+| Crypto | [ref4ctory](/2023/GPN%20CTF%202023/ref4ctory/)

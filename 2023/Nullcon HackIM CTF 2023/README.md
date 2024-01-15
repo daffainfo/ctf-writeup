@@ -5,5 +5,5 @@ Thanks to the TCP1P team especially @dimasma0305
 
 | Category | Challenge |
 | --- | --- |
-| Web | [reguest](/Nullcon%20HackIM%20CTF%202023/reguest/)
-| Crypto | [twin](/Nullcon%20HackIM%20CTF%202023/twin/)
+| Web | [reguest](/2023/Nullcon%20HackIM%20CTF%202023/reguest/)
+| Crypto | [twin](/2023/Nullcon%20HackIM%20CTF%202023/twin/)

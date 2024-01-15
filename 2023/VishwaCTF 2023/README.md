@@ -3,12 +3,12 @@ CTF writeup for VishwaCTF 2023. I took part in this CTF competition with my frie
 
 | Category | Challenge |
 | --- | --- |
-| Web | [aLive](/VishwaCTF%202023/aLive/)
-| Web | [Payload](/VishwaCTF%202023/Payload/)
-| Web | [spooky](/VishwaCTF%202023/spooky/)
-| Web | [Mascot](/VishwaCTF%202023/Mascot/)
-| Steganography | [Guatemala](/VishwaCTF%202023/Guatemala/)
-| Steganography | [Can you see me?](/VishwaCTF%202023/Can%20you%20see%20me/)
-| Forensics | [The Sender Conundrum](/VishwaCTF%202023/The%20Sender%20Conundrum/)
-| Cryptography | [The Indecipherable Cipher](/VishwaCTF%202023/The%20Indecipherable%20Cipher/)
-| OSINT | [Fr1endship Forever](/VishwaCTF%202023/Fr1endship%20Forever/)
+| Web | [aLive](/2023/VishwaCTF%202023/aLive/)
+| Web | [Payload](/2023/VishwaCTF%202023/Payload/)
+| Web | [spooky](/2023/VishwaCTF%202023/spooky/)
+| Web | [Mascot](/2023/VishwaCTF%202023/Mascot/)
+| Steganography | [Guatemala](/2023/VishwaCTF%202023/Guatemala/)
+| Steganography | [Can you see me?](/2023/VishwaCTF%202023/Can%20you%20see%20me/)
+| Forensics | [The Sender Conundrum](/2023/VishwaCTF%202023/The%20Sender%20Conundrum/)
+| Cryptography | [The Indecipherable Cipher](/2023/VishwaCTF%202023/The%20Indecipherable%20Cipher/)
+| OSINT | [Fr1endship Forever](/2023/VishwaCTF%202023/Fr1endship%20Forever/)

@@ -3,9 +3,9 @@ CTF writeup for The DeconstruCT.F 2023. I took part in this CTF competition with
 
 | Category | Challenge |
 | --- | --- |
-| Web | [where-are-the-cookies](/DeconstruCT.F%202023/where-are-the-cookies/)
-| Web | [debugzero](/DeconstruCT.F%202023/debugzero/)
-| Forensic | [Hash roll](/DeconstruCT.F%202023/Hash%20roll/)
-| Forensic | [Mastermind](/DeconstruCT.F%202023/Mastermind/)
-| Forensic | [snowy rock](/DeconstruCT.F%202023/snowy%20rock/)
-| Crypto | [Very Basic](/DeconstruCT.F%202023/Very%20Basic/)
+| Web | [where-are-the-cookies](/2023/DeconstruCT.F%202023/where-are-the-cookies/)
+| Web | [debugzero](/2023/DeconstruCT.F%202023/debugzero/)
+| Forensic | [Hash roll](/2023/DeconstruCT.F%202023/Hash%20roll/)
+| Forensic | [Mastermind](/2023/DeconstruCT.F%202023/Mastermind/)
+| Forensic | [snowy rock](/2023/DeconstruCT.F%202023/snowy%20rock/)
+| Crypto | [Very Basic](/2023/DeconstruCT.F%202023/Very%20Basic/)

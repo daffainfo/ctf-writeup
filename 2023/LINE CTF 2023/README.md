@@ -3,4 +3,4 @@ CTF writeup for The LINE CTF 2023. I took part in this CTF competition with the 
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Baby Simple GoCurl](/LINE%20CTF%202023/Baby%20Simple%20GoCurl/)
+| Web | [Baby Simple GoCurl](/2023/LINE%20CTF%202023/Baby%20Simple%20GoCurl/)

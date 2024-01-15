@@ -3,10 +3,10 @@ CTF writeup for The TJCTF 2023. I took part in this CTF competition with the HCS
 
 | Category | Challenge |
 | --- | --- |
-| Web | [hi](/TJCTF%202023/hi)
-| Web | [swill-squill](/TJCTF%202023/swill-squill)
-| Web | [outdated](/TJCTF%202023/outdated)
-| Crypto | [baby-rsa](/TJCTF%202023/baby-rsa)
-| Forensic | [beep-boop-robot](/TJCTF%202023/beep-boop-robot)
-| Forensic | [nothing-to-see](/TJCTF%202023/nothing-to-see)
-| Forensic | [neofeudalism](/TJCTF%202023/neofeudalism)
+| Web | [hi](/2023/TJCTF%202023/hi)
+| Web | [swill-squill](/2023/TJCTF%202023/swill-squill)
+| Web | [outdated](/2023/TJCTF%202023/outdated)
+| Crypto | [baby-rsa](/2023/TJCTF%202023/baby-rsa)
+| Forensic | [beep-boop-robot](/2023/TJCTF%202023/beep-boop-robot)
+| Forensic | [nothing-to-see](/2023/TJCTF%202023/nothing-to-see)
+| Forensic | [neofeudalism](/2023/TJCTF%202023/neofeudalism)

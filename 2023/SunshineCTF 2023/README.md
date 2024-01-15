@@ -3,6 +3,6 @@ CTF writeup for The Sunshine CTF 2023. I took part in this CTF competition with 
 
 | Category | Challenge |
 | --- | --- |
-| Web | [BeepBoop Blog](/SunshineCTF%202023/BeepBoop%20Blog/)
-| Forensic | [Low Effort Wav 🌊](/SunshineCTF%202023/Low%20Effort%20Wav%20🌊/)
-| Cryptography | [BeepBoop Cryptography](/SunshineCTF%202023/BeepBoop%20Cryptography/)
+| Web | [BeepBoop Blog](/2023/SunshineCTF%202023/BeepBoop%20Blog/)
+| Forensic | [Low Effort Wav 🌊](/2023/SunshineCTF%202023/Low%20Effort%20Wav%20🌊/)
+| Cryptography | [BeepBoop Cryptography](/2023/SunshineCTF%202023/BeepBoop%20Cryptography/)

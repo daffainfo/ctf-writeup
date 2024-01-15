@@ -3,5 +3,5 @@ CTF writeup for The Winja CTF 2023. I took part in this CTF competition with the
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Trailblazer](/Winja%20CTF%202023/Trailblazer/)
-| Web | [Woodcutter](/Winja%20CTF%202023/Woodcutter/)
+| Web | [Trailblazer](/2023/Winja%20CTF%202023/Trailblazer/)
+| Web | [Woodcutter](/2023/Winja%20CTF%202023/Woodcutter/)

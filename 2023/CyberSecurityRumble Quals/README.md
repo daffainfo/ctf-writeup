@@ -3,6 +3,6 @@ CTF writeup for The CyberSecurityRumble Quals 2023. I took part in this CTF comp
 
 | Category | Challenge |
 | --- | --- |
-| cry\|misc\|bby | [Backup](/CyberSecurityRumble%20Quals/Backup/)
-| web | [A Good Vue](/CyberSecurityRumble%20Quals/A%20Good%20Vue/)
-| web | [ChapGPyT](/CyberSecurityRumble%20Quals/ChapGPyT/)
+| cry\|misc\|bby | [Backup](/2023/CyberSecurityRumble%20Quals/Backup/)
+| web | [A Good Vue](/2023/CyberSecurityRumble%20Quals/A%20Good%20Vue/)
+| web | [ChapGPyT](/2023/CyberSecurityRumble%20Quals/ChapGPyT/)

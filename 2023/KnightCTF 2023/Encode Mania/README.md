@@ -32,7 +32,7 @@ for _ in range(12):
 with open("encode_mania.txt", 'w') as f:
     f.write(encrypted_flag.decode())
 ```
-The program will encode the flag 12 times with different random encoding (base64, base32, base16, and base85) as you can see in this line (You can get the script [**here**](/KnightCTF%202023/Encode%20Mania/encrypt.py))
+The program will encode the flag 12 times with different random encoding (base64, base32, base16, and base85) as you can see in this line (You can get the script [**here**](/2023/KnightCTF%202023/Encode%20Mania/encrypt.py))
 ```python
 for _ in range(12):
     option = randint(0, 3)
@@ -40,7 +40,7 @@ for _ in range(12):
 ```
 
 ## How to Solve?
-To solve this i created a python script to bruteforce each possibility 12 times with all encoding (You can get the script [**here**](/KnightCTF%202023/Encode%20Mania/decrypt.py))
+To solve this i created a python script to bruteforce each possibility 12 times with all encoding (You can get the script [**here**](/2023/KnightCTF%202023/Encode%20Mania/decrypt.py))
 ```python
 import base64
 import re
