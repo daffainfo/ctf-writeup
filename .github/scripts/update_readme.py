@@ -1,7 +1,7 @@
 import os
 import re
 
-folder_path = "./2024"
+folder_path = "2024"
 total_writeup_2023 = 527
 
 if os.path.exists(folder_path) and os.path.isdir(folder_path):
