@@ -14,5 +14,5 @@ The website is vulnerable to OS Command Injection through the addition of `;` af
 ![flag](images/flag.png)
 
 ```
-HackTM{Timisoara}
+nite{b3tt3r_n0_c5p_th7n_b7d_c5p_r16ht_fh8w4d}
 ```

@@ -130,5 +130,5 @@ This XSS payload has a function to create a new administrator account when anoth
 ![read_flag](images/read_flag.png)
 
 ```
-HackTM{Timisoara}
+-
 ```

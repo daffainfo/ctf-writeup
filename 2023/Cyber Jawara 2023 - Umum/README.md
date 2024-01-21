@@ -1,5 +1,5 @@
-# HackTM CTF 2023
-CTF writeup for The HackTM CTF 2023. I took part in this CTF competition with NobodyFansClub team and secured the 25th place out of 65 teams
+# Cyber Jawara 2023
+CTF writeup for Cyber Jawara 2023. I took part in this CTF competition with NobodyFansClub team and secured the 25th place out of 65 teams
 
 | Category | Challenge |
 | --- | --- |

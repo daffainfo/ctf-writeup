@@ -5,12 +5,13 @@ This repository shall comprise writeups concerning Capture The Flag (CTF) compet
 This is a list of wins we have achieved while participating in several CTF competitions
 
 ### Total Writeups
-There are __534__ CTF writeups that have been made in this repository
+There are __537__ CTF writeups that have been made in this repository
 
 ### CTF Competitions
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
+| KnightCTF 2024 | Heroes Cyber Security | 1 |
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
 | Pointer Overflow CTF 2023 | Heroes Cyber Security | 1 |
@@ -41,7 +42,8 @@ List of CTF events that i have joined before
 | ---------- | ------------------ | ------------ |
 | IrisCTF 2024 | No | - |
 | New Year CTF 2024 | No | - |
-| UofTCTF 2024 | Yes | - |
+| UofTCTF 2024 | Yes | [Link](/2024/UofTCTF%202024/) |
+| KnightCTF 2024 | Yes | [Link](/2024/KnightCTF%202024/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
