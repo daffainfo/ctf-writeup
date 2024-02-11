@@ -12,4 +12,4 @@ CTF writeup for The NewportBlakeCTF 2023. I took part in this CTF competition (S
 | Misc | [do you hear that?](/2023/NewportBlakeCTF%202023/do%20you%20hear%20that/)
 | Misc | [not accepted](/2023/NewportBlakeCTF%202023/not%20accepted/)
 
-> I didn't create a writeup for OSINT chall
+> I didn't create a writeup for the `OSINT` challenge

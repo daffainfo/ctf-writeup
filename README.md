@@ -46,6 +46,8 @@ List of CTF events that i have joined before
 | KnightCTF 2024 | Yes | [Link](/2024/KnightCTF%202024/) |
 | Mapna CTF 2024 | No | - |
 | TetCTF 2024 | Yes | [Link](/2024/TetCTF%202024/) |
+| L3HCTF 2024 | No | - |
+| 0xL4ugh CTF 2024 | Yes |[Link](/2024/0xL4ugh%20CTF%202024/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |

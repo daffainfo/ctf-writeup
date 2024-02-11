@@ -11,4 +11,4 @@ CTF writeup for The HTB Business CTF 2023 The Great Escape. I took part in this 
 | Crypto | [Initialization](/2023/Business%20CTF%202023%20The%20Great%20Escape/Initialization/)
 | Reversing | [DrillingPlatform](/2023/Business%20CTF%202023%20The%20Great%20Escape/DrillingPlatform/)
 
-> I didn't create the writeup for cloud and fullpwn because i don't have an access to the chall again
+> I didn't create the writeup for the `cloud` and `fullpwn` challenge because i don't have an access to the challenge again
