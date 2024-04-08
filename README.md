@@ -40,13 +40,11 @@ List of CTF events that i have joined before
 ### Global Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
-| IrisCTF 2024 | No | - |
-| New Year CTF 2024 | No | - |
 | UofTCTF 2024 | Yes | [Link](/2024/UofTCTF%202024/) |
 | KnightCTF 2024 | Yes | [Link](/2024/KnightCTF%202024/) |
-| Mapna CTF 2024 | No | - |
 | TetCTF 2024 | Yes | [Link](/2024/TetCTF%202024/) |
-| L3HCTF 2024 | No | - |
+| 0xL4ugh CTF 2024 | Yes |[Link](/2024/0xL4ugh%20CTF%202024/) |
+| UNbreakable International 2024 - Team Phase | Yes |[Link](/2024/0xL4ugh%20CTF%202024/) |
 | 0xL4ugh CTF 2024 | Yes |[Link](/2024/0xL4ugh%20CTF%202024/) |
 
 ### Local Events

@@ -49,7 +49,6 @@ List of CTF events that i have joined before
 | HackTM Quals 2023 | Yes | [Link](/2023/HackTM%20Quals%202023/) |
 | VU CYBERTHON 2023 | Yes | [Link](/2023/VU%20CYBERTHON%202023/) |
 | WxMCTF 2023 | Yes | [Link](/2023/WxMCTF%202023/) |
-| Cyber Security Challenge Germany 2023 | No | - |
 | CTF After Dark - Winter 2023 | Yes | [Link](/2023/CTF%20After%20Dark%20-%20Winter%202023/) |
 | KalmarCTF 2023 | Yes | [Link](/2023/KalmarCTF%202023/) |
 | Nullcon HackIM CTF 2023 | Yes | [Link](/2023/Nullcon%20HackIM%20CTF%202023/) |
@@ -79,19 +78,14 @@ List of CTF events that i have joined before
 | ICSJWG Spring 2023 | Yes | [Link](/2023/ICSJWG%20CTF%202023/) |
 | DeadSec CTF 2023 | Yes | [Link](/2023/DeadSec%20CTF%202023/) |
 | BYUCTF 2023 | Yes | [Link](/2023/BYUCTF%202023/) |
-| Grey CTF 2023 Qualifiers | No | - |
 | Security Fest CTF 2023 | Yes | [Link](/2023/Security%20Fest%20CTF%202023/) |
 | TJCTF 2023 | Yes | [Link](/2023/TJCTF%202023/) |
 | BxMCTF 2023 | Yes | [Link](/2023/BxMCTF%202023/) |
 | DanteCTF 2023 | Yes | [Link](/2023/DanteCTF%202023/) |
-| Break the Syntax CTF 2023 | No | - |
 | JustCTF 2023 | Yes | [Link](/2023/justCTF%202023/) |
 | HSCTF 2023 | Yes | [Link](/2023/HSCTF%202023/) |
 | GPN CTF 2023 | Yes | [Link](/2023/GPN%20CTF%202023/) |
-| n00bzCTF 2023 | No | - |
-| BCACTF 2023 | No | - |
 | SEETF 2023 | Yes | [Link](/2023/SEETF%202023/) |
-| Africa battleCTF 2023 prequal | No | - |
 | Google CTF 2023 | Yes | [Link](/2023/Google%20CTF%202023/) |
 | UIUCTF 2023 | Yes | [Link](/2023/UIUCTF%202023/) |
 | CryptoCTF 2023 | Yes | [Link](/2023/CryptoCTF%202023/) |
@@ -101,36 +95,25 @@ List of CTF events that i have joined before
 | AmateursCTF 2023 | Yes | [Link](/2023/AmateursCTF%202023/) |
 | BDSec CTF 2023 | Yes | [Link](/2023/BDSec%20CTF%202023/) |
 | The Odyssey CTF | Yes | [Link](/2023/The%20Odyssey%20CTF/) |
-| TFC CTF 2023 | No | - |
 | ASC Cyber Wargames Qualification 2023 | Yes | [Link](/2023/ASC%20Cyber%20Wargames%20Qualification%202023/) |
-| LIT CTF 2023 | No | - |
 | DeconstruCT.F 2023 | Yes | [Link](/2023/DeconstruCT.F%202023/) |
 | Tenable CTF 2023 | Yes | [Link](/2023/Tenable%20CTF%202023/) |
 | CCCamp 2023 | Yes | [Link](/2023/CCCamp%202023/) |
 | h4ckc0n 2023 | Yes | [Link](/2023/h4ckc0n%202023/) |
-| Sekai CTF 2023 | No | - |
 | DownUnderCTF 2023 | Yes | [Link](/2023/DownUnderCTF%202023/) |
-| PatriotCTF 2023 | No | - |
-| Cyber Heroines CTF | No | - |
-| Urmia CTF 2023 | No | - |
 | CSAW CTF Qual 2023 2023 | Yes | [Link](/2023/CSAW%20CTF%20Qualification%20Round%202023/) |
 | Winja CTF 2023 | Yes | [Link](/2023/Winja%20CTF%202023/) |
 | Buckeye CTF 2023 | Yes | [Link](/2023/Buckeye%20CTF%202023/) |
 | SunshineCTF 2023 | Yes | [Link](/2023/SunshineCTF%202023/) |
 | DefCamp Capture the Flag (D-CTF) 2023 Quals | Yes | [Link](/2023/DefCamp%20Capture%20the%20Flag%20(D-CTF)%202023%20Quals/) |
-| ASEAN Student Contest on Information Security Qualification 2023 | No | - |
-| ASEAN Student Contest on Information Security Semi-Final 2023 | No | - |
 | Srdnlen CTF 2023 | Yes | [Link](/2023/Srdnlen%20CTF%202023/) |
 | BlueHens CTF 2023 | Yes | [Link](/2023/BlueHens%20CTF%202023/) |
 | EKOPARTY CTF 2023 | Yes | [Link](/2023/EKOPARTY%20CTF%202023/) |
 | TSG CTF 2023 | Yes | [Link](/2023/TSG%20CTF%202023/) |
 | 1337UP LIVE CTF | Yes | [Link](/2023/1337UP%20LIVE%20CTF/) |
 | NewportBlakeCTF 2023 | Yes | [Link](/2023/NewportBlakeCTF%202023/) |
-| Hackappatoi CTF '23 | No | - |
 | pingCTF 2023 | Yes | [Link](/2023/pingCTF%202023/) |
 | The Cyber Cooperative CTF | Yes | [Link](/2023/The%20Cyber%20Cooperative%20CTF/) |
-| BackdoorCTF 2023 | No | - |
-| 1st Annual TCM Invitational CTF | No | - |
 | niteCTF 2023 | Yes | [Link](/2023/niteCTF%202023/) |
 
 ### Local Events
@@ -138,12 +121,5 @@ List of CTF events that i have joined before
 | ---------- | ------------------ | ------------ |
 | CTF Secur{i}e The System | Yes | [Link](/2023/CTF%20Secur{i}e%20The%20System/) |
 | Cyber Jawara 2023 - Umum | Yes | [Link](/2023/Cyber%20Jawara%202023%20-%20Umum/) |
-| Information and Technology Festival 2023 | No | - |
 | 0ByteCTF 2023 | Yes | [Link](/2023/0ByteCTF%202023/) |
-| N45HTCTF2023 2023 | No | - |
-| Infinity CTF Final 2023 | No | - |
-| Infinity CTF Qualifier 2023 | No | - |
-| Unity CTF Final 2023 | No | - |
-| Unity CTF Qualifier 2023 | No | - |
-| JOINTS CTF Qualifier 2023 | No | - |
 | CTF ARA 2023 | Yes | [Link](/2023/CTF%20ARA%202023/) |
