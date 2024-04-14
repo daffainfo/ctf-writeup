@@ -11,6 +11,7 @@ There are __551__ CTF writeups that have been made in this repository
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
+| Wayne State University - CTF24 | 1 |
 | KnightCTF 2024 | Heroes Cyber Security | 1 |
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
@@ -48,6 +49,7 @@ List of CTF events that i have joined before
 | 0xL4ugh CTF 2024 | Yes |[Link](/2024/0xL4ugh%20CTF%202024/) |
 | UNbreakable International 2024 - Team Phase | Yes |[Link](/2024/UNbreakable%20International%202024%20-%20Team%20Phase/) |
 | SwampCTF 2024 | Yes |[Link](/2024/SwampCTF%202024/) |
+| Wayne State University - CTF24 | Yes |[Link](/2024/Wayne%20State%20University%20-%20CTF24/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
