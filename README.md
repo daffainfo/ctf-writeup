@@ -17,10 +17,10 @@ There are __551__ CTF writeups that have been made in this repository
 | The Odyssey CTF | aseng_fans_club | 1 |
 | Pointer Overflow CTF 2023 | Heroes Cyber Security | 1 |
 | BDSec CTF 2023 | Heroes Cyber Security | 1 |
-| SwampCTF 2024 | Heroes Cyber Security | 2 |
 | UNbreakable International 2024 - Team Phase | Heroes Cyber Security | 2 |
 | h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
+| SwampCTF 2024 | Heroes Cyber Security | 3 |
 | 0byteCTF 2023 | - | 3 |
 | N45HTCTF2023 | Heroes Cyber Security | 3 |
 
