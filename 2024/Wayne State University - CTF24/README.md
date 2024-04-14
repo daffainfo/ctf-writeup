@@ -3,5 +3,5 @@ CTF writeup for The Wayne State University - CTF24. I took part in this CTF comp
 
 | Category | Challenge |
 | --- | --- |
-| Web | [Blog](/2024/Wayne%20State%20University%20-%20CTF24/Eat%20More%20Cookies/)
-| Web | [Blog](/2024/Wayne%20State%20University%20-%20CTF24/Eat%20More%20Cookies%20(Part%202)/)
+| Web | [Eat More Cookies](/2024/Wayne%20State%20University%20-%20CTF24/Eat%20More%20Cookies/)
+| Web | [Eat More Cookies (Part 2)](/2024/Wayne%20State%20University%20-%20CTF24/Eat%20More%20Cookies%20(Part%202)/)
