@@ -11,7 +11,8 @@ There are __553__ CTF writeups that have been made in this repository
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
-| Wayne State University - CTF24 | 1 |
+| Incognito 5.0 | Heroes Cyber Security | 1 |
+| Wayne State University - CTF24 | Heroes Cyber Security | 1 |
 | KnightCTF 2024 | Heroes Cyber Security | 1 |
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
