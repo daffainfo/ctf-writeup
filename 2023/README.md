@@ -18,7 +18,6 @@ There are __527__ CTF writeups that have been made in this repository
 | h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
 | 0byteCTF 2023 | - | 3 |
-| N45HTCTF2023 | Heroes Cyber Security | 3 |
 
 ### Finalists CTF Competitions
 | Event Name |
