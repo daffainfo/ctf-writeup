@@ -1,5 +1,5 @@
 # CTF Writeup
-This repository shall comprise writeups concerning Capture The Flag (CTF) competitions that I have undertaken. In the past, I participated in local CTF events in 2021; however, after participating in several of them, I did not take part in any further CTF competitions. In 2023, I made the decision to redo CTF from the beginning, and thus created this repository with the aim of assisting other CTF players in comprehending how to solve each challenge.
+This repository shall comprise writeups concerning Capture The Flag (CTF) competitions that I have undertaken. In the past, I participated in local CTF events in 2021; however, after participating in several of them, I did not take part in any further CTF competitions. In 2023, I made the decision to redo CTF from the beginning, and thus created this repository with the aim of assisting other CTF players in comprehending how to solve each challenge. This repository also contains English and Indonesian language writeups
 
 ## Stats (2023 - Now)
 This is a list of wins we have achieved while participating in several CTF competitions

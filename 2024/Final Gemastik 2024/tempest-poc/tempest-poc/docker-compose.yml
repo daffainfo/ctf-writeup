@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  tempest-poc:
+    build:
+      context: ./backend
+      args:
+        - PASSWORD=anotherrandompassword
+    networks:
+      - app-network
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

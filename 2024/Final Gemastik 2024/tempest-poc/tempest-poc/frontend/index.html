@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempest | Futuristic Website Scanner</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tempest PoC</h1>
+        <div class="input-group">
+            <input type="url" id="target" placeholder="Enter target URL" required>
+        </div>
+        <div class="button-group">
+            <button id="testConnection">Test Connection</button>
+            <button id="startScan" disabled>Start Scan</button>
+        </div>
+        <div id="statusAndResults"></div>
+    </div>
+
+    <script src="static/js/app.js"></script>
+</body>
+</html>

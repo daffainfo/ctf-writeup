@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Scan Report</title>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+        </head>
+        <body>
+            <div class="container mt-5">
+                <h1 class="text-center">Scan Report <REPORT_NAME></h1>
+                <table class="table table-bordered mt-3">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Attribute</th>
+                            <th scope="col">Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Scan ID</strong></td>
+                            <td>{{ scan_id }}</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Open Ports</strong></td>
+                            <td>{{ ','.join(scan_data["open_ports"]) }}</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Scan Status</strong></td>
+                            <td>{{ scan_data["scan_status"] }}</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Scan Duration</strong></td>
+                            <td>{{ scan_data["scan_duration"] }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                <h2 class="mt-5">Vulnerabilities</h2>
+                <table class="table table-bordered mt-3">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Template</th>
+                            <th scope="col">Severity</th>
+                            <th scope="col">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for vuln in scan_data["vulnerabilities"] %}
+                        <tr>
+                            <td>{{ vuln["template"] }}</td>
+                            <td>{{ vuln["severity"] }}</td>
+                            <td>{{ vuln["description"] }}</td>
+                        </tr>
+                        {% end %}
+                    </tbody>
+                </table>
+            </div>
+        </body>
+        </html>

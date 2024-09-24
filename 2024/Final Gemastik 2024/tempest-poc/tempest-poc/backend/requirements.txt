@@ -1,0 +1,4 @@
+tornado
+python-engineio
+python-socketio
+requests
