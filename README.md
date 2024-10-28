@@ -59,9 +59,9 @@ List of CTF events that i have joined before
 | SwampCTF 2024 | Yes |[Link](/2024/SwampCTF%202024/) |
 | Wayne State University - CTF24 | Yes |[Link](/2024/Wayne%20State%20University%20-%20CTF24/) |
 | Bugcrowd Blackhat Asia CTF 2024 | Yes |[Link](/2024/Bugcrowd%20Blackhat%20Asia%20CTF%202024/) |
+| Cyber Jawara CTF International 2024 | Yes | [Link](/2024/Cyber%20Jawara%20CTF%20International%202024/) |
 
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
 | Final Gemastik 2024 | Yes | [Link](/2024/Final%20Gemastik%202024/) |
-| Cyber Jawara CTF International 2024 | Yes | [Link](/2024/Cyber%20Jawara%20CTF%20International%202024/) |
