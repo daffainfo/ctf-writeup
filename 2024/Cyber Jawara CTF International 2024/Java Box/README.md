@@ -270,8 +270,6 @@ public class JwtUtil {
 
 So we found the signing key for JWT: `c31bcd4ffcff8e971a6ad6ddcbdc613a1246f4223c00fa37404b501ad749257c`. All we needed was to set `isAdmin` flag to true. But, when we tried the key on https://jwt.io the token didnt work. One teammate tried a different site, which is https://token.dev, and it finally worked (we still don’t know why jwt.io failed to sign the token lol).
 
-![alt text](images/help-2.png)
-
 ## Flag
 
 CJ{black_box_web_testing_is_not_that_bad_and_too_guessy_right?}
