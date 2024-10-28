@@ -11,6 +11,7 @@ There are __557__ CTF writeups that have been made in this repository
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
+| Bugcrowd Blackhat USA CTF 2024 | Heroes Cyber Security | 1 |
 | Bugcrowd Blackhat Asia CTF 2024 | Heroes Cyber Security | 1 |
 | Incognito 5.0 | Heroes Cyber Security | 1 |
 | Wayne State University - CTF24 | Heroes Cyber Security | 1 |
@@ -19,14 +20,17 @@ There are __557__ CTF writeups that have been made in this repository
 | The Odyssey CTF | aseng_fans_club | 1 |
 | Pointer Overflow CTF 2023 | Heroes Cyber Security | 1 |
 | BDSec CTF 2023 | Heroes Cyber Security | 1 |
+| Cyber Jawara CTF International 2024 | swusjack fans club | 2 |
+| Hacktrace Independence Day Competition 2024 | Duo (Tunas Abdi Pranata) | 2 |
+| SunshineCTF 2024 | Heroes Cyber Security | 2 |
 | Interlogica CTF2024 - Wastelands | welovepython<3 | 2 |
 | AirOverflow CTF - 2024 | Heroes Cyber Security | 2 |
 | UNbreakable International 2024 - Team Phase | Heroes Cyber Security | 2 |
 | h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
-| Break the Syntax CTF 2024 | HCS | 3 |
+| Break the Syntax CTF 2024 | Heroes Cyber Security | 3 |
 | SwampCTF 2024 | Heroes Cyber Security | 3 |
-| 0byteCTF 2023 | - | 3 |
+| 0byteCTF 2023 | - (Solo) | 3 |
 
 ### Finalists CTF Competitions
 | Event Name |
@@ -59,4 +63,5 @@ List of CTF events that i have joined before
 ### Local Events
 | Event Name | Writeup Available? | Writeup Link |
 | ---------- | ------------------ | ------------ |
-| - | - | - |
+| Final Gemastik 2024 | Yes | [Link](/2024/Final%20Gemastik%202024/) |
+| Cyber Jawara CTF International 2024 | Yes | [Link](/2024/Cyber%20Jawara%20CTF%20International%202024/) |
