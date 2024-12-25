@@ -11,6 +11,7 @@ There are __558__ CTF writeups that have been made in this repository
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
+| BackdoorCTF 2024 | ADA INDONESIA COY | 1 |
 | Bugcrowd Blackhat USA CTF 2024 | Heroes Cyber Security | 1 |
 | Bugcrowd Blackhat Asia CTF 2024 | Heroes Cyber Security | 1 |
 | Incognito 5.0 | Heroes Cyber Security | 1 |
